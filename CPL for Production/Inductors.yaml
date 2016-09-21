@@ -1,0 +1,165 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "1818615233"
+position: 14
+name: Inductors
+cleanname: Inductors
+description: 'Commonly used in transceivers and power supply filtering. '
+extracols:
+- Inductance
+- Tolerance
+- Q Factor
+- DC Resistance
+- Max DC Current
+- Size
+rows:
+- cplid: CPL-IND-0402-2.2NH-0.3A
+  title: Chip Inductor
+  description: ""
+  extravals:
+    DC Resistance: 0.15 Ω
+    Inductance: 2.2 nH @ 100 MHz
+    Max DC Current: 300 mA
+    Q Factor: 8 @ 100 MHz
+    Size: "0402"
+    Tolerance: ±0.3 nH
+  parts:
+  - uid: 46b38fb844919974
+    ppid: "75588"
+    manufacturer: Murata
+    mpn: LQG15HN2N2S02D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/8454461/image/Murata-LQG15HN2N2S02D.jpg
+    footprinturl: http://www.snapeda.com/parts/LQG15HN2N2S02D/Murata/view-part/
+    note: ""
+- cplid: CPL-IND-0402-3.6NH-0.17A
+  title: Chip Inductor
+  description: ""
+  extravals:
+    DC Resistance: 0.5 Ω
+    Inductance: 3.6 nH @ 500 MHz
+    Max DC Current: 170 mA
+    Q Factor: 13 @ 500MHz
+    Size: "0402"
+    Tolerance: ±0.1 nH
+  parts:
+  - uid: 7e10b715fa78a1d7
+    ppid: "1024270"
+    manufacturer: Murata
+    mpn: LQP15MN3N6B02D
+    externalurl: ""
+    imageurl: images/cpl/part_images/316dff3ce936e1fccd8757f279346136.jpg
+    footprinturl: http://www.snapeda.com/parts/LQP15MN3N6B02D/Murata/view-part/
+    note: ""
+- cplid: CPL-IND-0402-15NH-0.3A
+  title: Chip Inductor
+  description: ""
+  extravals:
+    Inductance: 15 nH
+    Max DC Current: 300 mA
+    Size: "0402"
+    Tolerance: ±5%
+  parts:
+  - uid: fef137fe32772136
+    ppid: "387552"
+    manufacturer: Murata
+    mpn: LQG15HS15NJ02D
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/8454465/image/Murata-LQG15HN2N2S02D.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-IND-1008-1UH-1.5A
+  title: Chip Inductor
+  description: ""
+  extravals:
+    DC Resistance: 0.113 Ω
+    Inductance: 1 µH @ 1 MHz
+    Max DC Current: 1.5A
+    Size: "1008"
+    Tolerance: ±20%
+  parts:
+  - uid: 6436ac2b5159bbf1
+    ppid: "18288649"
+    manufacturer: Murata
+    mpn: LQM2HPN1R0MJ0L
+    externalurl: ""
+    imageurl: images/cpl/part_images/ad6d0881a3be1b6658de0d7706a0d4e4.jpg
+    footprinturl: http://www.snapeda.com/parts/LQM2HPN1R0MJ0L/Murata/view-part/
+    note: ""
+- cplid: CPL-IND-1008-2.2UH-1.3A
+  title: Chip Inductor
+  description: ""
+  extravals:
+    DC Resistance: 0.08 Ω
+    Inductance: 2.2 µH @ 1 MHz
+    Max DC Current: 1.3A
+    Size: "1008"
+    Tolerance: ±20%
+  parts:
+  - uid: faac332ff6a9256b
+    ppid: "8989027"
+    manufacturer: Murata
+    mpn: LQM2HPN2R2MG0L
+    externalurl: ""
+    imageurl: images/cpl/part_images/5672578e80ee088e84674b704d805e81.jpg
+    footprinturl: http://www.snapeda.com/parts/LQM2HPN2R2MG0L/Murata/view-part/
+    note: ""
+- cplid: CPL-IND-1210-10UH-0.14A
+  title: Chip Inductor
+  description: ""
+  extravals:
+    DC Resistance: 1.56 Ω
+    Inductance: 10 µH @ 2.52 MHz
+    Max DC Current: 225 mA
+    Size: "0806"
+    Tolerance: ±10%
+  parts:
+  - uid: 93c05ac8fe4c4c07
+    ppid: "149738"
+    manufacturer: Murata
+    mpn: LQH2MCN100K02L
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/23271640/image/Murata-LQH2MCN100K02L.jpg
+    footprinturl: http://www.snapeda.com/parts/LQH2MCN100K02L/Murata/view-part/
+    note: ""
+  - uid: 12dddfbb5e10cd1a
+    ppid: "74213803"
+    manufacturer: Codaca
+    mpn: CSAB0630-100M
+    externalurl: ""
+    imageurl: images/cpl/part_images/51a557f39fd0a6eefdc27fd5a8619e4b.jpg
+    footprinturl: http://www.snapeda.com/parts/CSAB0630-100M/Codaca/view-part/
+    note: ""
+- cplid: CPL-IND-FER-120OHM-0.5A
+  title: Ferrite Bead 120 Ω 0.5A
+  description: "Impedance: 120 Ω @ 100 MHz  \n"
+  extravals:
+    DC Resistance: –
+    Inductance: –
+    Max DC Current: 0.5 A
+    Q Factor: –
+    Size: "0603"
+    Tolerance: –
+  parts:
+  - uid: 3085fb7dddceef42
+    ppid: "49465389"
+    manufacturer: Murata
+    mpn: BLM18AG121SN1D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10121775/image/Murata-BLM18AG121SN1D.jpg
+    footprinturl: http://www.snapeda.com/parts/BLM18AG121SN1D/Murata/view-part/
+    note: ""
+- cplid: CPL-IND-FER-330OHM-1.5A
+  title: Ferrite Bead Bead 330 Ω 1.5A
+  description: ""
+  extravals:
+    Max DC Current: 1.5 A
+    Size: "0805"
+  parts:
+  - uid: 20ece9ed83baff2b
+    ppid: "755248"
+    manufacturer: Murata
+    mpn: BLM21PG331SN1D
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/1013866/image/Murata-BLM21PG331SN1D.jpg
+    footprinturl: http://www.snapeda.com/parts/BLM21PG331SN1D/Murata/view-part/
+    note: ""

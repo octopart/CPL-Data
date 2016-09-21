@@ -1,0 +1,114 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "469301347"
+position: 17
+name: Switches/Buttons
+cleanname: SwitchesButtons
+description: Commonly used buttons in a variety of form factors and contact types.
+extracols:
+- Mounting Type
+- Orientation
+rows:
+- cplid: CPL-SWT-TACT-VERT
+  title: Low-profile SMD Tactile Button
+  description: ""
+  extravals:
+    Mounting Type: SMD
+    Orientation: Vertical
+  parts:
+  - uid: 24bceda62397fb7b
+    ppid: "1057357"
+    manufacturer: Omron
+    mpn: B3U-1000P
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/23293359/image/Omron-B3U-1000P.jpg
+    footprinturl: http://www.snapeda.com/parts/B3U-1000P/Omron/view-part/
+    note: ""
+  - uid: cd380422cd4b12ff
+    ppid: "1058069"
+    manufacturer: E-Switch
+    mpn: TL3342F160QG
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21512871/image/E-Switch-TL3342F160QG.jpg
+    footprinturl: http://www.snapeda.com/parts/TL3342F160QG/E-Switch/view-part/
+    note: ""
+  - uid: f31e3e78bfd72cd9
+    ppid: "74213807"
+    manufacturer: D.O Electronics
+    mpn: DHT-4235A
+    externalurl: ""
+    imageurl: images/cpl/part_images/b04c898c7ff190b71c8cc37063eb7ae8.jpg
+    footprinturl: http://www.snapeda.com/parts/DHT-4235A/D.O%20Electronics/view-part/
+    note: ""
+- cplid: CPL-SWT-SPST-DIP
+  title: Single-Pole Single-Throw (SPST) DIP Button
+  description: ""
+  extravals:
+    Mounting Type: 'DIP '
+  parts:
+  - uid: c5330c39ec781af4
+    ppid: "3117"
+    manufacturer: Omron
+    mpn: B3F-1000
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/535801/image/Omron-B3F-1000.jpg
+    footprinturl: http://www.snapeda.com/parts/B3F-1000/Omron/view-part/
+    note: ""
+  - uid: a0f7683d3e3a7f30
+    ppid: "29408171"
+    manufacturer: Best
+    mpn: TS-1109
+    externalurl: ""
+    imageurl: images/cpl/part_images/0eb3d0bc031d7df5b7cf584fcd9f9e39.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SWT-SLIDE-VERT-THT
+  title: Slide Switch
+  description: ""
+  extravals:
+    Mounting Type: Through Hole
+    Orientation: Vertical
+  parts:
+  - uid: 89c042a2c28b5607
+    ppid: "40398381"
+    manufacturer: TE Connectivity
+    mpn: 1825289-1
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/11120193/image/Tyco-Electronics-1825255-1.jpg
+    footprinturl: http://www.snapeda.com/parts/1825289-1/TE%20Connectivity/view-part/
+    note: ""
+  - uid: e1432c25ad953e84
+    ppid: "74213808"
+    manufacturer: Deyilong
+    mpn: MS-22D18 G2 ROHS
+    externalurl: ""
+    imageurl: images/cpl/part_images/22d8b425ebef4f089e38cdb768d369f6.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SWT-TACT-90DEG
+  title: SMD 90º Rectangular Tactile Switch
+  description: ""
+  extravals:
+    Mounting Type: SMD
+    Orientation: 90º
+  parts:
+  - uid: bba672bcbc946461
+    ppid: "1057364"
+    manufacturer: Omron
+    mpn: B3U-3000P
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/12114284/image/Omron-B3U-3000P.jpg
+    footprinturl: http://www.snapeda.com/parts/B3U-3000P/Omron/view-part/
+    note: ""
+- cplid: CPL-SWT-ENCODER-ROTARY
+  title: Rotary Encoder with Push-Button
+  description: 'This encoder has quadrature output and comes with 24 pulses per revolution. '
+  extravals: {}
+  parts:
+  - uid: f33f3ba348bc2cf8
+    ppid: "26648293"
+    manufacturer: Bourns
+    mpn: PEC11R-4215F-S0024
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/45512498/image/Bourns-PEC11R-4215F-S0024.jpg
+    footprinturl: ""
+    note: ""

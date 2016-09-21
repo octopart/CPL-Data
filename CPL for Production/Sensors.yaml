@@ -1,0 +1,251 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "62186163"
+position: 2
+name: Sensors
+cleanname: Sensors
+description: 'Allow a connected device to interact with the environment while maintaining
+  a small, efficient package. '
+extracols:
+- Application
+- Package
+rows:
+- cplid: CPL-SEN-IMU
+  title: Inertial Measurement Unit (IMU)
+  description: ""
+  extravals:
+    Application: Motion
+    Package: QFN-24
+  parts:
+  - uid: 29a8e18bafc8f66f
+    ppid: "19505926"
+    manufacturer: InvenSense
+    mpn: MPU-6050
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21400446/image/InvenSense-MPU-6050.jpg
+    footprinturl: http://www.snapeda.com/parts/MPU-6050/InvenSense/view-part/
+    note: ""
+  - uid: beb076465eb06177
+    ppid: "33342822"
+    manufacturer: InvenSense
+    mpn: MPU-9250
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/39111675/image/InvenSense-MPU-9250.png
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-ACCEL
+  title: Digital Accelerometer
+  description: ""
+  extravals:
+    Application: Motion
+    Package: QFN16/LFCSP
+  parts:
+  - uid: 42d08ac190bd9d17
+    ppid: "18609931"
+    manufacturer: Freescale Semiconductor
+    mpn: MMA8452QR1
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21392159/image/Freescale-Semiconductor-MMA8452QR1.jpg
+    footprinturl: http://www.snapeda.com/parts/MMA8452QR1/Freescale%20Semiconductor/view-part/
+    note: ""
+  - uid: cdab0469bb7a126c
+    ppid: "13128631"
+    manufacturer: Analog Devices
+    mpn: ADXL345BCCZ-RL
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/ADXL345BCCZ-RL/Analog%20Devices/view-part/
+    note: ""
+- cplid: CPL-SEN-GYRO
+  title: Gyroscope
+  description: "Three-axis digital output gyroscope. Note: these parts are not drop-in-compatible.
+    \ \n"
+  extravals:
+    Application: Motion
+    Package: QFN/ LGA-16
+  parts:
+  - uid: 623dabf49812bdfa
+    ppid: "12836681"
+    manufacturer: InvenSense
+    mpn: ITG-3200
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/23755319/image/InvenSense-ITG-3200.jpg
+    footprinturl: http://www.snapeda.com/parts/ITG-3200/InvenSense/view-part/
+    note: ""
+  - uid: c097080110371f50
+    ppid: "27063750"
+    manufacturer: STMicroelectronics
+    mpn: L3GD20H
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21363459/image/STMicroelectronics-L3GD20H.jpg
+    footprinturl: http://www.snapeda.com/parts/L3GD20H/STMicroelectronics/view-part/
+    note: ""
+- cplid: CPL-SEN-HUMID-DFN
+  title: Digital Relative Humidity Sensor
+  description: "Note: these parts are not drop-in-compatible  \n"
+  extravals:
+    Application: Humidity
+    Package: DFN
+  parts:
+  - uid: 6610ae3863a0b9d7
+    ppid: "19013846"
+    manufacturer: Sensirion
+    mpn: SHT21
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21437973/image/Sensirion-SHT21.jpg
+    footprinturl: http://www.snapeda.com/parts/SHT21/Sensirion/view-part/
+    note: ""
+  - uid: a1b56bc59a017e72
+    ppid: "58334930"
+    manufacturer: TE Connectivity
+    mpn: HPP845E031R4
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/17822670/image/Measurement-Specialties-HTU21D.jpg
+    footprinturl: http://www.snapeda.com/parts/HPP845E031R4/TE%20Connectivity/view-part/
+    note: ""
+- cplid: CPL-SEN-TEMP-1WIRE
+  title: Digital temperature sensor (1-Wire)
+  description: "Popular temperature sensor using 1-Wire interface  \n"
+  extravals:
+    Application: 'Temperature '
+    Package: µSOP8
+  parts:
+  - uid: 4f7e8673b48c90b9
+    ppid: "515732"
+    manufacturer: Maxim Integrated
+    mpn: DS18B20U+
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10085972/image/Maxim-Integrated-DS18B20U%2B.jpg
+    footprinturl: http://www.snapeda.com/parts/DS18B20U+/Maxim%20Integrated/view-part/
+    note: ""
+- cplid: CPL-SEN-TEMP-I2C
+  title: Digital temperature sensor (I2C)
+  description: "Temperature sensors using the I2C interface. Note: these parts are
+    not drop-in-compatible.  \n"
+  extravals:
+    Application: 'Temperature '
+    Package: Multiple
+  parts:
+  - uid: 57f49fbafc5d8833
+    ppid: "21270223"
+    manufacturer: Microchip
+    mpn: MCP9808-E/MS
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/12079483/image/Microchip-MCP9808-E/MS.jpg
+    footprinturl: http://www.snapeda.com/parts/MCP9808-E/MS/Microchip/view-part/
+    note: ""
+  - uid: f4133d75af3f2bd4
+    ppid: "7110218"
+    manufacturer: Texas Instruments
+    mpn: TMP102AIDRLT
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31386359/image/Texas-Instruments-TMP102AIDRLT.jpg
+    footprinturl: http://www.snapeda.com/parts/TMP102AIDRLT/Texas%20Instruments/view-part/
+    note: ""
+- cplid: CPL-SEN-TEMP-ANALOG
+  title: Analog temperature sensor
+  description: 'Low cost analog temperature sensor '
+  extravals:
+    Application: 'Temperature '
+    Package: SOT-23
+  parts:
+  - uid: 18f4d1f40918c733
+    ppid: "668810"
+    manufacturer: Microchip
+    mpn: MCP9700T-E/TT
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/MCP9700T-E/TT/Microchip/view-part/
+    note: ""
+- cplid: CPL-SEN-TEMP-DIP
+  title: Analog Temperature Sensor- DIP
+  description: ""
+  extravals:
+    Application: 'Temperature '
+    Package: TO-92-3
+  parts:
+  - uid: 41b788bc0f4b9e70
+    ppid: "93082"
+    manufacturer: Analog Devices
+    mpn: TMP36GT9Z
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/10111584/image/Analog-Devices-TMP36GT9Z.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-PRESSURE
+  title: Pressure Sensor
+  description: "For measuring barometric pressure and altitude.  \n"
+  extravals:
+    Application: Pressure
+    Package: LGA-8
+  parts:
+  - uid: 4c5f84616c529398
+    ppid: "20186475"
+    manufacturer: Freescale Semiconductor
+    mpn: MPL3115A2
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21392201/image/Freescale-Semiconductor-MPL3115A2.jpg
+    footprinturl: http://www.snapeda.com/parts/MPL3115A2/Freescale%20Semiconductor/view-part/
+    note: ""
+- cplid: 'CPL-SEN-TOUCH-CAP '
+  title: Capacitive Touch Sensor
+  description: "Proximity capacitive touch sensor controller. Can control up to twelve
+    individual electrodes.  \n"
+  extravals:
+    Application: Touch
+    Package: QFN-20
+  parts:
+  - uid: c26b0bdc326c1dac
+    ppid: "12440929"
+    manufacturer: Freescale Semiconductor
+    mpn: MPR121QR2
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10197001/image/Freescale-Semiconductor-MPR121QR2.jpg
+    footprinturl: http://www.snapeda.com/parts/MPR121QR2/Freescale%20Semiconductor/view-part/
+    note: ""
+- cplid: CPL-SEN-PHOTOTRANSISTOR
+  title: Ambient Light Sensor
+  description: "Phototransistor that provides a voltage proportional to ambient light.
+    \ \n"
+  extravals:
+    Application: Light
+    Package: SMD
+  parts:
+  - uid: 0b17c06964b5d4d0
+    ppid: "41175748"
+    manufacturer: Vishay
+    mpn: TEMT6000X01
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21625866/image/Vishay-TEMT6000X01.jpg
+    footprinturl: http://www.snapeda.com/parts/TEMT6000X01/Vishay/view-part/
+    note: ""
+- cplid: CPL-SEN-HALL
+  title: Hall Effect Sensor
+  description: "Provides a voltage output proportional to applied magnetic field.
+    \ \n"
+  extravals:
+    Application: Magnetic Field
+    Package: SOT-23
+  parts:
+  - uid: 57319c69332c88f6
+    ppid: "38945147"
+    manufacturer: Allegro MicroSystems
+    mpn: A1324LLHLT-T
+    externalurl: ""
+    imageurl: images/cpl/part_images/eaa8e0b507992523e207247e370248d6.jpg
+    footprinturl: http://www.snapeda.com/parts/A1324LLHLT-T/Allegro%20MicroSystems/view-part/
+    note: ""
+- cplid: CPL-SEN-MIC
+  title: Silicon microphone
+  description: ""
+  extravals:
+    Application: Micro-phone
+    Package: SMD
+  parts:
+  - uid: 2d36e51e7cdcf2f1
+    ppid: "19035276"
+    manufacturer: Knowles Acoustics
+    mpn: SPU0409HD5H-PB
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21542864/image/Knowles-Acoustics-SPU0409HD5H-PB.jpg
+    footprinturl: http://www.snapeda.com/parts/SPU0409HD5H-PB/Knowles%20Acoustics/view-part/
+    note: ""

@@ -1,0 +1,32 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "1783220455"
+position: 4
+name: Battery Management ICs
+cleanname: BatteryManagementICs
+description: 'Battery Management ICs control safely charging advanced batteries like
+  Lithium-Ion and Lithium-Polymer. '
+extracols:
+- Battery Voltage
+rows:
+- cplid: CPL-BIC-LIION-4.2V
+  title: Lithium Ion Charge Controller
+  description: 'Note: these parts are not drop-in-compatible'
+  extravals:
+    Battery Voltage: 4.2 V
+  parts:
+  - uid: 3bc0f2c03ccae407
+    ppid: "664172"
+    manufacturer: Microchip
+    mpn: MCP73832T-2ACI/OT
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9873486/image/Microchip-MCP73832T-2ACI-OT.jpg
+    footprinturl: http://www.snapeda.com/parts/MCP73832T-2ACI/OT/Microchip/view-part/
+    note: ""
+  - uid: f124396284f92ee3
+    ppid: "21778619"
+    manufacturer: Consonance
+    mpn: CN3065
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/31361170/image/Consonance-CN3065.jpg
+    footprinturl: ""
+    note: ""

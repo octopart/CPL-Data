@@ -1,0 +1,187 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "527705257"
+position: 3
+name: Wearables
+cleanname: Wearables
+description: "Range of boards and accessories for creating wearables including platforms,
+  peripherals and sewing tools. \nGet started with this [Wearables planning guide](https://learn.SparkFun.com/tutorials/planning-a-wearable-electronics-project?_ga=1.102202177.1531078611.1433242224)
+  from SparkFun. To get inspired with great project ideas from this excellent [book
+  by Kate Hartman on Wearable Electronics](http://www.amazon.com/dp/1449336515/?tag=octopart00-20). "
+extracols: []
+rows:
+- cplid: CPL-WRB-LILYPAD-USB
+  title: Lilypad Arduino USB
+  description: "A great way to get started in wearables, and this version can work
+    directly off a microUSB cable. \nComes with sevearal supporting sensor boards
+    such as [accelerometer](https://www.SparkFun.com/products/9267), [temperature
+    sensor](https://www.SparkFun.com/products/8777) and [light sensor](https://www.SparkFun.com/products/8464).
+    \n"
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: DEV-12049
+    externalurl: https://www.SparkFun.com/products/12049
+    imageurl: images/cpl/part_images/45e72260f5f149dd3cf28130e74d6f91.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WRB-LILYPAD-KIT
+  title: Lilypad Arduino Development Kit
+  description: 'A good way to get started in the world of Lilypad Arduinos. Comes
+    with Lilypad, light and temp sensors, switches, needle set, LEDs and a battery. '
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: DEV-11262
+    externalurl: https://www.sparkfun.com/products/11262
+    imageurl: images/cpl/part_images/27f4e68cf7f71650c7270e7568742684.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WRB-LILYPAD-MP3
+  title: Lilypad MP3 Board
+  description: "Great if you are looking for some audio in your wearable project,
+    it comes with its own SD card. \nIt also has its own head-phone jack. An example
+    project: [Musical Workout Shirt](http://www.instructables.com/id/Musical-Exercise-Workout-Shirt-MP3-Player-Powered-/). "
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: 'SparkFun '
+    mpn: DEV-11013
+    externalurl: https://www.sparkfun.com/products/11013
+    imageurl: images/cpl/part_images/d708e721f559b68b6c5c97935234ec75.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WRB-FLORA
+  title: Adafruit Flora
+  description: "Flora is Adafruit's wearable electronics platform. And it is Arduino
+    compatible! \nWhile Lilypad is an 'Arduino', Flora has great supporting boards
+    like the BLE and GPS modules which come with great tutorials.   \nAlso read about
+    [Flora sensors](https://learn.adafruit.com/flora-sensors?view=all) such as accelerometer,
+    light sensor and color sensor. \n"
+  extravals: {}
+  parts:
+  - uid: b4c67c77613a6b01
+    ppid: "29094042"
+    manufacturer: Adafruit
+    mpn: ADA659
+    externalurl: ""
+    imageurl: images/cpl/part_images/78d612e4674c83b6e471b35ed1b8a8d1.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WRB-FLORA-KIT
+  title: Flora Development Kit
+  description: 'A good way to get started in the world of Flora. Comes with Flora,
+    4 AAA batteries, 4 RGB Neopixels, wires and needle set. '
+  extravals: {}
+  parts:
+  - uid: d0e0180b8ecc0f27
+    ppid: "31554378"
+    manufacturer: Adafruit
+    mpn: ADA1405
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/22126270/image/Adafruit-Industries-ADA1405.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WRB-FLORA-BLE
+  title: 'Flora BLE Module '
+  description: "One of the few wearable BLE boards out there. \nLearn all about this
+    board along with example codes [here](https://learn.adafruit.com/adafruit-flora-bluefruit-le?view=all). "
+  extravals: {}
+  parts:
+  - uid: 55979fe20d458a50
+    ppid: "58686900"
+    manufacturer: Adafruit
+    mpn: ADA2487
+    externalurl: ""
+    imageurl: images/cpl/part_images/2595e5f9691898ea10a5f1f6fc55daa6.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WRB-FLORA-GPS
+  title: Flora GPS Module
+  description: "An example project: [GPS Jacket](https://learn.adafruit.com/flora-gps-jacket?view=all)
+    and [NeoGeo Watch](https://learn.adafruit.com/flora-geo-watch?view=all). \n"
+  extravals: {}
+  parts:
+  - uid: 8eab4640d088516c
+    ppid: "31554373"
+    manufacturer: Adafruit
+    mpn: ADA1059
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/60590101/image/Adafruit-Industries-1059.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WRB-NEOPIXELS
+  title: Flora RGB Neopixel LEDs- Pack of 4
+  description: "Great way to bring light to your wearable! \nCheck out [LED Ampli-tie](https://learn.adafruit.com/led-ampli-tie?view=all)
+    which uses a micro-phone to trigger the lights on a tie. \n"
+  extravals: {}
+  parts:
+  - uid: f85d30940679279a
+    ppid: "29612866"
+    manufacturer: Adafruit
+    mpn: ADA1260
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/24898714/image/Adafruit-Industries-ADA1260.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-PLT-METAWEAR
+  title: MetaWear Platform
+  description: "A wearable platform with BLE and it comes with its own iOS and Android
+    apps. \nIt uses Nordic BLE SOC with ARM Cortex M0. Check out their [Kickstarter
+    campaign](https://www.kickstarter.com/projects/guardyen/metawear-production-ready-wearables-in-30-minutes/description).
+    \n"
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Mbient Lab
+    mpn: ""
+    externalurl: https://www.mbientlab.com/
+    imageurl: images/cpl/part_images/3c900865e807d4f2af4039a8ac806f7a.png
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WRB-THREAD
+  title: Sewable Conductive Thread
+  description: "Strong and smooth wire for any wearable project requiring sewing.
+    \n"
+  extravals: {}
+  parts:
+  - uid: 6bd2a33935fab415
+    ppid: "31554382"
+    manufacturer: Adafruit
+    mpn: ADA640
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/57198912/image/Adafruit-Industries-640.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WRB-HOOP-8INCH
+  title: 'Embroidery Hoop 8 inch '
+  description: 'Makes sewing much easier as it can hold the cloth tightly as you sew. '
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Susan Bates
+    mpn: ""
+    externalurl: http://www.amazon.com/dp/B000GBT9FA/?tag=octopart00-20
+    imageurl: images/cpl/part_images/491c04e0aeae7b828ac8233e0990ba19.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WRB-NEEDLES
+  title: Needle Set
+  description: 'A pack of 20 needles that can be used for sewing wearable electronics
+    with conductive thread. '
+  extravals: {}
+  parts:
+  - uid: dbd0134627cb0417
+    ppid: "27056509"
+    manufacturer: Adafruit
+    mpn: ADA615
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/20367101/image/Adafruit-Industries-ADA615.jpg
+    footprinturl: ""
+    note: ""

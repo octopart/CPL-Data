@@ -1,0 +1,145 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1875751912"
+position: 24
+name: Wires and Cables
+cleanname: WiresandCables
+description: "Range of wires and cables useful for prototyping. See this nice [intro
+  to wires](https://learn.SparkFun.com/tutorials/working-with-wire/all) to learn more.
+  \ \nLearn about [different types of connectors](https://learn.SparkFun.com/tutorials/connector-basics). "
+extracols: []
+rows:
+- cplid: CPL-WIR-22AWG-SOLID-6X25FT
+  title: Wire Set- 22AWG Solid Core 6 x 25ft
+  description: 'Perfect set of wires for bread-boards as they are easy to slide in.
+    You can also get individual spools [here](http://www.adafruit.com/products/290). '
+  extravals: {}
+  parts:
+  - uid: d34a1bed1f010c8d
+    ppid: "28174637"
+    manufacturer: Adafruit
+    mpn: ADA1311
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/20432540/image/Adafruit-Industries-ADA1311.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WIR-22AWG-STRANDED-6X25FT
+  title: Wire Set- 22AWG Stranded 6 x 25ft
+  description: "They are not very good to use with bread-boards but really useful
+    when the wire needs to move a lot. \nLearn more from this [tutorial on working
+    with stranded wire](https://learn.SparkFun.com/tutorials/working-with-wire) by
+    SparkFun. "
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: PRT-11375
+    externalurl: https://www.SparkFun.com/products/11375
+    imageurl: images/cpl/part_images/57f6398f7c8003a8ba8fe9e5dd88728d.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WIR-ALLIGATOR
+  title: Alligator Clips
+  description: 'A must-have for proto-typing, also useful for testing wearable boards
+    before sewing. '
+  extravals: {}
+  parts:
+  - uid: 906e589381b04fa9
+    ppid: "32978104"
+    manufacturer: Adafruit
+    mpn: ADA1008
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/57198890/image/Adafruit-Industries-ADA1008.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WIR-MALE-MALE
+  title: Male/Male Jumper Wires - 40 x 6"
+  description: ""
+  extravals: {}
+  parts:
+  - uid: a4096c9f59b87bce
+    ppid: "27056343"
+    manufacturer: Adafruit
+    mpn: ADA758
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WIR-MALE-FEMALE
+  title: Male/Female Jumper Wires - 40 x 6"
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 60d4a864fd23bf13
+    ppid: "29014161"
+    manufacturer: Adafruit
+    mpn: ADA826
+    externalurl: ""
+    imageurl: images/cpl/part_images/c8fc35414647874603d228d2d5aabc9e.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WIR-FEMALE-FEMALE
+  title: Female/Female Jumper Wires - 40 x 6"
+  description: ""
+  extravals: {}
+  parts:
+  - uid: efce277666a93009
+    ppid: "28486657"
+    manufacturer: Adafruit
+    mpn: ADA266
+    externalurl: ""
+    imageurl: images/cpl/part_images/eee6cb893f16b8718eab5bbe7510d41a.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WIR-USBA-MICROUSB
+  title: USB-A to Micro-USB Cable
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 900758916d704fc0
+    ppid: "27056145"
+    manufacturer: Adafruit
+    mpn: ADA592
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/60596315/image/Adafruit-Industries-592.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WIR-USBA-MINIUSB
+  title: USB-A to Mini-USB Cable
+  description: ""
+  extravals: {}
+  parts:
+  - uid: d8d6102bcb850711
+    ppid: "32978485"
+    manufacturer: Adafruit
+    mpn: ADA260
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/23495585/image/Adafruit-Industries-ADA260.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WIR-USBA-B
+  title: USB-A to B Cable
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 628faa199062bd48
+    ppid: "27056011"
+    manufacturer: Adafruit
+    mpn: ADA62
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/20366063/image/Adafruit-Industries-ADA62.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WIR-WRAP-30AWG
+  title: '"Wire Wrap" Wire'
+  description: ""
+  extravals: {}
+  parts:
+  - uid: e8f2225367663735
+    ppid: "61582066"
+    manufacturer: Adafruit
+    mpn: ADA1446
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/23494211/image/Adafruit-Industries-ADA1446.jpg
+    footprinturl: ""
+    note: ""

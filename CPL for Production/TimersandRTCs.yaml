@@ -1,0 +1,63 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "585846867"
+position: 7
+name: Timers and RTCs
+cleanname: TimersandRTCs
+description: 'Commonly known as 555 timers, Timer ICs are extremely common and versatile.
+  They are used for timing, pulse generation, and oscillator applications. Real Time
+  Clocks (RTCs) provide time-of-day and date over a serial interface. '
+extracols:
+- Package
+rows:
+- cplid: CPL-TIM-555-SOIC
+  title: 555 Timer
+  description: ""
+  extravals:
+    Package: SOIC
+  parts:
+  - uid: d4781d7510fb0bbf
+    ppid: "516581"
+    manufacturer: Texas Instruments
+    mpn: NE555DR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10052936/image/Texas-Instruments-NE555DR.jpg
+    footprinturl: http://www.snapeda.com/parts/NE555DR/Texas%20Instruments/view-part/
+    note: ""
+  - uid: 4c00850d8b3493c7
+    ppid: "516690"
+    manufacturer: Fairchild Semiconductor
+    mpn: LM555CM
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/310320/image/Fairchild-LM555CM.jpg
+    footprinturl: http://www.snapeda.com/parts/LM555CM/Fairchild%20Semiconductor/view-part/
+    note: ""
+- cplid: CPL-RTC-I2C-SOIC8
+  title: Real Time Clock with I2C interface
+  description: "Note: these parts are similar but not drop-in-compatible   \n"
+  extravals:
+    Package: SOIC-8
+  parts:
+  - uid: ebab22a39932346c
+    ppid: "153599"
+    manufacturer: Maxim Integrated
+    mpn: DS1307ZN+
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/280375/image/Maxim-DS1307ZN%2B.jpg
+    footprinturl: http://www.snapeda.com/parts/DS1307ZN+/Maxim%20Integrated/view-part/
+    note: ""
+  - uid: 0665cfd52812d9a2
+    ppid: "12192529"
+    manufacturer: Texas Instruments
+    mpn: BQ32000DR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31286191/image/Texas-Instruments-BQ32000DR.jpg
+    footprinturl: http://www.snapeda.com/parts/BQ32000DR/Texas%20Instruments/view-part/
+    note: ""
+  - uid: 10cad88a1656cf0d
+    ppid: "21636090"
+    manufacturer: Microchip
+    mpn: MCP7940M-I/SN
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/280375/image/Microchip-MCP7940M-I-SN.jpg
+    footprinturl: http://www.snapeda.com/parts/MCP7940M-I/SN/Microchip/view-part/
+    note: ""

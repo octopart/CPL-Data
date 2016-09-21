@@ -1,0 +1,94 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1576870592"
+position: 8
+name: Audio
+cleanname: Audio
+description: 'Accessories to include audio in your project. '
+extracols: []
+rows:
+- cplid: CPL-AUD-MP3SHIELD
+  title: Arduino MP3 Shield
+  description: "A popular shield for Arduino to play audio, it comes with VS1053 codec
+    chip that can decode audio with MP3, AAC and WAV formats. \nIt also comes with
+    a 3W stereo amplifier on board. The [version](https://octopart.com/1790-adafruit+industries-50352512)
+    without this chip is $5 dollar cheaper. "
+  extravals: {}
+  parts:
+  - uid: eed3253f48473114
+    ppid: "48661490"
+    manufacturer: Adafruit
+    mpn: ADA1788
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/24901563/image/Adafruit-Industries-ADA1788.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-AUD-BUZZER
+  title: Buzzer
+  description: "They can produce tones and sounds which can be a little annoying,
+    but a good way to get attention.\nLearn how to use them from [this](https://learn.SparkFun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-11-using-a-piezo-buzzer)
+    tutorial. "
+  extravals: {}
+  parts:
+  - uid: 0cb8c507bf0ed37f
+    ppid: "11900624"
+    manufacturer: Adafruit
+    mpn: ADA1536
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/24900177/image/Adafruit-Industries-ADA1536.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-AUD-MICROPHONE
+  title: Microphone Amplfiier Breakout
+  description: "For adding an ear to your project! Example projects: \n[LED Drum Set](https://learn.adafruit.com/gemma-powered-neopixel-led-sound-reactive-drums?view=all),
+    [LED Ampli-tie](https://learn.adafruit.com/led-ampli-tie?view=all)."
+  extravals: {}
+  parts:
+  - uid: 47788f8556ff98bf
+    ppid: "32978145"
+    manufacturer: Adafruit
+    mpn: ADA1063
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/38879230/image/Adafruit-Industries-1063.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-AUD-SPEAKER-0.25W-8OHMS
+  title: 'Speaker: 0.25W, 8 ohms'
+  description: "Quality is not the best, but it's a good way to get audio in a small
+    space. \nSize: 40 mm x 40 mm x 4 mm."
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: 'SparkFun '
+    mpn: COM-10722
+    externalurl: https://www.SparkFun.com/products/10722
+    imageurl: images/cpl/part_images/a05be5f9b98194cee1fe9cbfb05bf572.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-AUD-SPEAKER-0.2W-8OHMS
+  title: 'Speaker: 0.2W, 8 ohms'
+  description: "This is breadboard friendly speaker.  \nSize: 29 mm x 12 mm x 15 mm. "
+  extravals: {}
+  parts:
+  - uid: f58f3e55ee312a48
+    ppid: "47202008"
+    manufacturer: Adafruit
+    mpn: ADA1898
+    externalurl: ""
+    imageurl: images/cpl/part_images/fa00ce26988a5aa7244c0f647b1a44ee.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-AUD-SPEAKER-3W-4OHMS
+  title: 'Speaker: 3W, 4 ohms '
+  description: "This speaker is much louder and has better quality.  \nSize: 77.8
+    mm x 77.8 mm x 25.49 mm. "
+  extravals: {}
+  parts:
+  - uid: 7b4ab3f299d4a48d
+    ppid: "28493816"
+    manufacturer: Adafruit
+    mpn: ADA1314
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/14857047/image/Adafruit-Industries-ADA1314.jpg
+    footprinturl: ""
+    note: ""

@@ -1,0 +1,38 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "2136786758"
+position: 9
+name: Displays
+cleanname: Displays
+description: For displaying characters in your project. Learn about [using these LCDs
+  here](https://learn.adafruit.com/adafruit-arduino-lesson-12-lcd-displays-part-2?view=all)
+  and [here](https://learn.adafruit.com/character-lcds?view=all).
+extracols: []
+rows:
+- cplid: CPL-LCD-16X2-WHITEONBLUE
+  title: Standard LCD - 16x2 White on Blue
+  description: "If you don't want to spend 7 GPIOs that are required for this LCD,
+    check out this [LCD + Keypad kit](http://www.adafruit.com/product/1115) which
+    needs only 2 GPIOs. \n"
+  extravals: {}
+  parts:
+  - uid: c6de0e48392d1919
+    ppid: "27056789"
+    manufacturer: Adafruit
+    mpn: ADA181
+    externalurl: ""
+    imageurl: images/cpl/part_images/2a29312e38c5bee2c0cfaca06032ac76.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LCD-16X2-RGB
+  title: RGB Backlight LCD - 16x2
+  description: 'This LCD has full RGB-backlit background. '
+  extravals: {}
+  parts:
+  - uid: 75d7bd05a1b0aa10
+    ppid: "30994689"
+    manufacturer: Adafruit
+    mpn: ADA398
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""

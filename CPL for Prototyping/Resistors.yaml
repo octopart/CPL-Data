@@ -1,0 +1,308 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1876455847"
+position: 13
+name: Resistors
+cleanname: Resistors
+description: 'A range of resistors covering the needs of most connected devices. Through
+  hole resistors can be carbon film or metal film. Carbon film resistors have much
+  more variance. For higher precision designs like filters or DACs, metal film resistors
+  are recommended. '
+extracols:
+- Resistance
+- Power Rating
+- Resistance Tolerance
+rows:
+- cplid: CPL-RES-THT-22.1-0.25W
+  title: Resistor 22.1 Ω ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 22.1 Ω
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 3ae0f0bb34b6e527
+    ppid: "55651120"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-22R1
+    externalurl: ""
+    imageurl: images/cpl/part_images/5cd6ac51c87414f6d44da6292407d767.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-47.5-0.25W
+  title: Resistor 47.5 Ω ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 47.5 Ω
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 5daf97f6974d8268
+    ppid: "55832452"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-47R5
+    externalurl: ""
+    imageurl: images/cpl/part_images/22a366add043985ecd8cc65cee2c39fb.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-100-0.25W
+  title: Resistor 100 Ω ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 100 Ω
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 758abc0d8bdeaa4d
+    ppid: "9296690"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-100R
+    externalurl: ""
+    imageurl: images/cpl/part_images/aa40eb0d2645916105390d377fc24f2c.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-221-0.25W
+  title: Resistor 221 Ω ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 221 Ω
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 67e2af91d8c3b825
+    ppid: "24746567"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-221R
+    externalurl: ""
+    imageurl: images/cpl/part_images/b909cc19c13071e43191ff594bee7015.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-475-0.25W
+  title: Resistor 475 Ω ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 475 Ω
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: fd9b35f525cf225c
+    ppid: "23395634"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-475R
+    externalurl: ""
+    imageurl: images/cpl/part_images/cf3ad8492a07ef19cacdbc0e3b4826fc.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-1K-0.25W
+  title: Resistor 1 kΩ ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 1 kΩ
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 0fe3c7c946a6d024
+    ppid: "18902051"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-1K
+    externalurl: ""
+    imageurl: images/cpl/part_images/f54bd21f531db12167797fe1ddbaba17.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-2.2K-0.25W
+  title: Resistor 2.21 kΩ ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 2.21 kΩ
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 60a0aafb6e97bf67
+    ppid: "55651153"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-2K21
+    externalurl: ""
+    imageurl: images/cpl/part_images/2bf241f1bff8760ed9077fab9a3414b6.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-4.7K-0.25W
+  title: Resistor 4.75 kΩ ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 4.75 kΩ
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: c7200d7ab69918e7
+    ppid: "55596255"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-4K75
+    externalurl: ""
+    imageurl: images/cpl/part_images/e549bbe0adb678adc413ac1203149312.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-10K-0.25W
+  title: Resistor 10 kΩ ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 10 kΩ
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 5bfa928be583843d
+    ppid: "8100639"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-10K
+    externalurl: ""
+    imageurl: images/cpl/part_images/50718289fb445493932973df1040aa29.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-22K-0.25W
+  title: Resistor 22.1 kΩ ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 22.1 kΩ
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 439b89c04dd19c5c
+    ppid: "55651116"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-22K1
+    externalurl: ""
+    imageurl: images/cpl/part_images/a936adf0adf48d0e0e3b45cdd47234a4.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-47K-0.25W
+  title: Resistor 47.5 kΩ ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 47.5 kΩ
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 892a4373598656ed
+    ppid: "55834058"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-47K5
+    externalurl: ""
+    imageurl: images/cpl/part_images/3f405c8263049793416d97e3a61f9ad8.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-100K-0.25W
+  title: Resistor 100 kΩ ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 100 kΩ
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 2f47e51d5e9ff080
+    ppid: "55596222"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-100K
+    externalurl: ""
+    imageurl: images/cpl/part_images/a7246edc2aa3b188199ea3e6a4af936c.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-220K-0.25W
+  title: Resistor 221 kΩ ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 221 kΩ
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 0bccc197058cd40b
+    ppid: "55651110"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-221K
+    externalurl: ""
+    imageurl: images/cpl/part_images/440399067a1a63bd26a5ea01f1000bc9.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-470K-0.25W
+  title: Resistor 475 kΩ ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 475 kΩ
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: e835226ee6dd37f2
+    ppid: "55651214"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-475K
+    externalurl: ""
+    imageurl: images/cpl/part_images/6836ef19140fac658a60364dcd5522d1.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-1M-0.25W
+  title: Resistor 1 MΩ ±1% 250 mW
+  description: ""
+  extravals:
+    Power Rating: 250 mW
+    Resistance: 1 MΩ
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 071bcf9def2dd8dc
+    ppid: "26004816"
+    manufacturer: Yageo
+    mpn: MFR-25FBF52-1M
+    externalurl: ""
+    imageurl: images/cpl/part_images/f4538c7a3dec21f056d29e8e6c8f3e78.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-THT-0.05-2W
+  title: Resistor 0.05 Ω ±1% 2 W
+  description: 'Current sense resistor for stepper motor driver chips. '
+  extravals:
+    Power Rating: 2 W
+    Resistance: 0.05 Ω
+    Resistance Tolerance: ±1%
+  parts:
+  - uid: 7744be4c79e4a883
+    ppid: "142278"
+    manufacturer: Ohmite
+    mpn: 12FR050E
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10070071/image/Ohmite-12FR050E.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-KIT-CARBON
+  title: 'Resistor kit (Carbon Film) '
+  description: 'Good choice for all generic purpose applications. '
+  extravals:
+    Power Rating: 500mW
+    Resistance: Various
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: 'Elenco '
+    mpn: ""
+    externalurl: http://www.amazon.com/dp/B0002HBQHW/?tag=octopart00-20
+    imageurl: images/cpl/part_images/991c5ed6ee464bf03183d5a6213ff699.jpg
+    footprinturl: ""
+    note: ""
+  - uid: ""
+    ppid: ""
+    manufacturer: Futurlec
+    mpn: ""
+    externalurl: http://www.futurlec.com/ValuePacks.shtml
+    imageurl: images/cpl/part_images/be75488b045f6a88a25f04cc029c0987.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RES-KIT-METAL
+  title: 'Resistor kit (Metal Film) '
+  description: 'Good choice for applications requiring higher accuracy. '
+  extravals:
+    Power Rating: 250 mW
+    Resistance: Various
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Joe
+    mpn: ""
+    externalurl: http://www.amazon.com/dp/B003UC4FSS/?tag=octopart00-20
+    imageurl: images/cpl/part_images/057182a9f07ba580c2c951761f18b830.jpg
+    footprinturl: ""
+    note: ""

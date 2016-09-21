@@ -1,0 +1,174 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1750708260"
+position: 22
+name: Tools
+cleanname: Tools
+description: 'A range of tools for proto-typing including breadboards, wire strippers,
+  screwdrivers and crimpers. '
+extracols: []
+rows:
+- cplid: CPL-TLS-BREADBOARD-HALF
+  title: Solderless Breadboard Half Size
+  description: "This 400 point half size solderless breadboard is good for proto-typing
+    smaller circuits. \n"
+  extravals: {}
+  parts:
+  - uid: 21dce91978eefe1b
+    ppid: "30374996"
+    manufacturer: Adafruit
+    mpn: ADA64
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+  - uid: f79c3fb98e2d285b
+    ppid: "19881175"
+    manufacturer: Twin Industries
+    mpn: TW-E40-510
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21449681/image/Twin-Industries-TW-E40-510.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TLS-BREADBOARD-FULL
+  title: Solderless Breadboard Full Size
+  description: "This 830 point full size solderless breadboard is good for proto-typing.
+    \n"
+  extravals: {}
+  parts:
+  - uid: 0cb5c4481ff6d372
+    ppid: "32978469"
+    manufacturer: Adafruit
+    mpn: ADA239
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/24902287/image/Adafruit-Industries-ADA239.jpg
+    footprinturl: ""
+    note: ""
+  - uid: eeba27b0d95b317d
+    ppid: "4743"
+    manufacturer: Twin Industries
+    mpn: TW-E40-1020
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21647618/image/Twin-Industries-TW-E40-1020.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TLS-BREADBOARD-PERMA-HALF
+  title: Perma-Proto Breadboard Half Size
+  description: "Adafruit's Perma-Proto half-sized breadboard is perfect for moving
+    your prototypes from solderless breadboards into more permanent form. \nThey also
+    come in quarter and full sizes. "
+  extravals: {}
+  parts:
+  - uid: 83984843a0de5c5f
+    ppid: "47253024"
+    manufacturer: Adafruit
+    mpn: ADA1609
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/24901140/image/Adafruit-Industries-ADA1609.jpg
+    footprinturl: ""
+    note: ""
+- cplid: 'CPL-TLS-WIRESTRIPPER '
+  title: Wire stripper
+  description: "This is a high quality 20-30 AWG wire stripper. \nFor hobbyist use,
+    [this](https://www.adafruit.com/products/147) would be a good option, and it just
+    $6.95. "
+  extravals: {}
+  parts:
+  - uid: a5c96d5f5ae37a0e
+    ppid: "27056716"
+    manufacturer: Adafruit
+    mpn: ADA527
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/55757346/image/Hakko-CSP-30-1.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TLS-PLIER
+  title: Plier
+  description: 'A needle nose plier. '
+  extravals: {}
+  parts:
+  - uid: fdda3527ed4a221d
+    ppid: "32978422"
+    manufacturer: Adafruit
+    mpn: ADA146
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TLS-TWEEZER
+  title: Tweezer
+  description: 'A must-have for any soldering job. '
+  extravals: {}
+  parts:
+  - uid: ac2364b55ebc73e4
+    ppid: "27056121"
+    manufacturer: Adafruit
+    mpn: ADA421
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+  - uid: ""
+    ppid: ""
+    manufacturer: Marrywindix
+    mpn: ""
+    externalurl: http://www.amazon.com/dp/B00DVIEJ14/?tag=octopart00-20
+    imageurl: images/cpl/part_images/f062228c44afb624ba7d00136290b9b6.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TLS-SCREWDRIVER
+  title: Screwdriver Set
+  description: 'This set contains 3 Phillips and 3 Flat types and will work with most
+    electronics! '
+  extravals: {}
+  parts:
+  - uid: 30d7f841cfc1ef10
+    ppid: "27056752"
+    manufacturer: Adafruit
+    mpn: ADA424
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/60595693/image/Adafruit-Industries-424.jpg
+    footprinturl: ""
+    note: ""
+- cplid: 'CPL-TLS-HEATSHRINK '
+  title: 'Heat Shrink 2:1 Pack- 150pcs '
+  description: 'For connecting wires and to add mechanical strength to cables. '
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Vktech
+    mpn: ""
+    externalurl: http://www.amazon.com/dp/B00EXLPLTW/?tag=octopart00-20
+    imageurl: images/cpl/part_images/2b0864887d669b0034cedcfd0f38a5b1.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TLS-CRIMPER
+  title: Crimping Tool
+  description: "This crimping tool can be used to crimp [JST connector crimp pins](https://www.pololu.com/product/1934),
+    [crimp pins for 0.1″ housings](https://www.pololu.com/product/1930) onto 16-28
+    AWG wires to make custom cables.\nLearn more about crimping and making custom
+    cables from this [chart for correct-crimping](http://www.jst.com/pdf/JST_CrinpChart%20(English).pdf)
+    and this [video by Derek Molley](https://www.youtube.com/watch?v=GkbOJSvhCgU). "
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Pololu
+    mpn: "1928"
+    externalurl: https://www.pololu.com/product/1928
+    imageurl: images/cpl/part_images/5e0b78745df4fa60495736a50e4aad1e.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TLS-CUTTERS
+  title: Flush Diagonal Cutters
+  description: 'Perfect for trimming of wires and leads. '
+  extravals: {}
+  parts:
+  - uid: e5082c3f05013acf
+    ppid: "4048239"
+    manufacturer: Hakko
+    mpn: CHP-170
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""

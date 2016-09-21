@@ -1,0 +1,201 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "1084321232"
+position: 11
+name: Diodes
+cleanname: Diodes
+description: 'Several typical types of diodes used in connected device applications. '
+extracols:
+- Peak Repetitive Reverse Voltage
+- Maximum Forward Continuous Current
+- Forward Voltage Drop
+- Package
+rows:
+- cplid: CPL-DIO-1N4148-SOD323
+  title: 1N4148 – General Purpose Fast Switching
+  description: ""
+  extravals:
+    Forward Voltage Drop: 1 V @10mA
+    Maximum Forward Continuous Current: 300 mA
+    Package: SOD-323
+    Peak Repetitive Reverse Voltage: 75 V
+  parts:
+  - uid: 57779e0abe1988b0
+    ppid: "7851016"
+    manufacturer: Fairchild Semiconductor
+    mpn: 1N4148WS
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/14041788/image/Fairchild-Semiconductor-1N4148WS.jpg
+    footprinturl: http://www.snapeda.com/parts/1N4148WS/Fairchild%20Semiconductor/view-part/
+    note: ""
+  - uid: ea592357259e359e
+    ppid: "322209"
+    manufacturer: Diodes Incorporated
+    mpn: 1N4148WS-7-F
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366107/image/Diodes-Inc.-1N4148WS-7-F.jpg
+    footprinturl: http://www.snapeda.com/parts/1N4148WS-7-F/Diodes%20Incorporated/view-part/
+    note: ""
+  - uid: a4836c4bbea27b44
+    ppid: "29507399"
+    manufacturer: JCET
+    mpn: 1N4148
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/31361128/image/JCET-1N4148.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-DIO-MBR0520
+  title: 0.5A Schottky Barrier Rectifier
+  description: ""
+  extravals:
+    Forward Voltage Drop: 0.38 V @ 0.5A
+    Maximum Forward Continuous Current: 500 mA
+    Package: SOD-123
+    Peak Repetitive Reverse Voltage: 20V
+  parts:
+  - uid: 81934899af805e54
+    ppid: "2933"
+    manufacturer: ON Semiconductor
+    mpn: MBR0520LT1G
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/MBR0520LT1G/ON%20Semiconductor/view-part/
+    note: ""
+- cplid: CPL-DIO-SS12-SMA
+  title: 1.0A Schottky Barrier Rectifier
+  description: ""
+  extravals:
+    Forward Voltage Drop: 0.5 V @ 1A
+    Maximum Forward Continuous Current: 1.0 A
+    Package: DO-214AC (SMA)
+    Peak Repetitive Reverse Voltage: '20 V / 40 V '
+  parts:
+  - uid: 4abc837ac16e957b
+    ppid: "13414068"
+    manufacturer: Fairchild Semiconductor
+    mpn: SS12
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/8453030/image/Fairchild-Semiconductor-SS12.jpg
+    footprinturl: http://www.snapeda.com/parts/SS12/Fairchild%20Semiconductor/view-part/
+    note: ""
+  - uid: 74d8b98c4ed7ab1f
+    ppid: "73277289"
+    manufacturer: Micro Commercial Components
+    mpn: B5819W
+    externalurl: ""
+    imageurl: images/cpl/part_images/060284503cc527a4e791583445c0f5a8.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-DIO-BAT54S-SOT23
+  title: BAT54S – Small Schottky Barrier Diode (Series)
+  description: ""
+  extravals:
+    Forward Voltage Drop: 0.8 V @ 100mA
+    Maximum Forward Continuous Current: 200 mA
+    Package: SOT-23
+    Peak Repetitive Reverse Voltage: 30 V
+  parts:
+  - uid: e5c22ccc3a833a05
+    ppid: "326183"
+    manufacturer: Fairchild Semiconductor
+    mpn: BAT54S
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9873008/image/Fairchild-Semiconductor-BAT54S.jpg
+    footprinturl: http://www.snapeda.com/parts/BAT54S/Fairchild%20Semiconductor/view-part/
+    note: ""
+  - uid: 521d9b138d648dda
+    ppid: "326175"
+    manufacturer: Diodes Incorporated
+    mpn: BAT54S-7-F
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21352463/image/Diodes-Inc.-BAT54S-7-F.jpg
+    footprinturl: http://www.snapeda.com/parts/BAT54S-7-F/Diodes%20Incorporated/view-part/
+    note: ""
+- cplid: CPL-DIO-SS554B
+  title: Schottky Diode- High Current
+  description: ""
+  extravals:
+    Maximum Forward Continuous Current: 5 A
+    Package: DO-214AA (SMB)
+    Peak Repetitive Reverse Voltage: 28 V
+  parts:
+  - uid: b5b27d7aaf9b6a75
+    ppid: "29507407"
+    manufacturer: JCET
+    mpn: SS54B
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/SS54B/JCET/view-part/
+    note: ""
+- cplid: CPL-DIO-1N4004-THT
+  title: 1N4004– 1.0A 400V Diode
+  description: ""
+  extravals:
+    Forward Voltage Drop: 1.1 V
+    Maximum Forward Continuous Current: 1 A
+    Package: Axial
+    Peak Repetitive Reverse Voltage: |
+      400 V
+  parts:
+  - uid: ed1b2415222e32dc
+    ppid: "322131"
+    manufacturer: Fairchild Semiconductor
+    mpn: 1N4004
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/1N4004/Fairchild%20Semiconductor/view-part/
+    note: ""
+- cplid: CPL-DIO-1N4007-THT
+  title: 1N4007– 1.0A 1000V Diode
+  description: "These diodes provide high voltage ratings but are slow, 1N4148 is
+    recommended for high speed applications. \n\n"
+  extravals:
+    Forward Voltage Drop: 1.1 V
+    Maximum Forward Continuous Current: 1 A
+    Package: Axial
+    Peak Repetitive Reverse Voltage: 1000V
+  parts:
+  - uid: 156bdca9a84bcaac
+    ppid: "13146182"
+    manufacturer: Fairchild Semiconductor
+    mpn: 1N4007
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10055188/image/Fairchild-Semiconductor-1N4004..jpg
+    footprinturl: http://www.snapeda.com/parts/1N4007/Fairchild%20Semiconductor/view-part/
+    note: ""
+- cplid: CPL-DIO-MBR360G-AXL
+  title: MBR360G - 3A Schottky Barrier Rectifier
+  description: "For use with LM2576 switching voltage regulator  \n"
+  extravals:
+    Maximum Forward Continuous Current: 3 A
+    Package: Axial
+    Peak Repetitive Reverse Voltage: 60 V
+  parts:
+  - uid: 44928d98f97f9b55
+    ppid: "39051"
+    manufacturer: ON Semiconductor
+    mpn: MBR360G
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10057013/image/ON-Semiconductor-MBR360G.jpg
+    footprinturl: http://www.snapeda.com/parts/MBR360G/ON%20Semiconductor/view-part/
+    note: ""
+- cplid: CPL-DIO-PROTECTION
+  title: Protection Diodes
+  description: ""
+  extravals: {}
+  parts:
+  - uid: cb9c0354d1b3145b
+    ppid: "29507401"
+    manufacturer: JCET
+    mpn: CESD5V0D1
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/CESD5V0D1/JCET/view-part/
+    note: ""
+  - uid: a34b68b4304f7c8c
+    ppid: "49657442"
+    manufacturer: JCET
+    mpn: CESD5V0AP
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""

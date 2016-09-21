@@ -1,0 +1,129 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "844813655"
+position: 5
+name: Voltage Regulators
+cleanname: VoltageRegulators
+description: 'Provide constant output voltage from a higher input voltage. Learn about
+  the [differences between linear and switching voltage regulators](http://www.digikey.com/en/articles/techzone/2012/may/understanding-the-advantages-and-disadvantages-of-linear-regulators). '
+extracols:
+- Output Voltage
+- Max Current
+- Package
+rows:
+- cplid: CPL-REG-LIN-5V-1.5A-THT
+  title: Linear Regulator (7805)
+  description: "Easy-to-use linear regulator that requires very few external components.
+    Needs a minimum input voltage of 7.5V to operate. Can work upto 35V input. Pin-out
+    of Input, Ground and Output (IGO). \n"
+  extravals:
+    Max Current: 1.5 A
+    Output Voltage: 5 V
+    Package: TO-220
+  parts:
+  - uid: e4b72fe0923e3b70
+    ppid: "39670767"
+    manufacturer: STMicroelectronics
+    mpn: L7805CV
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/34169526/image/STMicroelectronics-L7805CV.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-REG-LIN-3.3V-1A-THT
+  title: Linear Regulator (Low Dropout)
+  description: "Low dropout, efficient linear regulator. It has a dropout of 1V. Pin-out
+    of Ground, Output and Input (GOI). \n"
+  extravals:
+    Max Current: 0.8 A
+    Output Voltage: 3.3 V
+    Package: TO-220
+  parts:
+  - uid: e23c2b3ece8a3dfb
+    ppid: "526800"
+    manufacturer: STMicroelectronics
+    mpn: LD1117V33
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21381029/image/STMicroelectronics-LD1117V33.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-REG-LIN-VAR-1.5A-THT
+  title: Linear Regulator with Adjustable Output
+  description: "Can provide adjustable output voltage between 1.2V and 37V just by
+    using two different external resistors. \nTake note of the extra error term arising
+    out of adjustment current. Read more in this [post](http://electronics.stackexchange.com/questions/18524/resistors-values-to-use-with-lm317).
+    \n"
+  extravals:
+    Max Current: 1.5 A
+    Output Voltage: 1.2 V to 37 V
+    Package: TO-220
+  parts:
+  - uid: bbed72e7deae642a
+    ppid: "16421"
+    manufacturer: On Semiconductor
+    mpn: LM317TG
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9592332/image/ON-Semiconductor-LM317TG.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-REG-BOOST-3.3V-0.2A-BREAKOUT
+  title: Step-Up Voltage Regulator - 3.3V
+  description: "It accepts 1V to 3V and steps it up to 3.3V. \n"
+  extravals:
+    Max Current: 0.2 A
+    Output Voltage: 3.3V
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: PRT-10967
+    externalurl: https://www.sparkfun.com/products/10967
+    imageurl: images/cpl/part_images/3674469bd2bfeb80ad29cbf56ebce01f.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-REG-BOOST-5V-0.2A-BREAKOUT
+  title: Step-Up Voltage Regulator - 5V
+  description: |
+    It accepts 1V to 4V and steps it up to 5V. An example would be to power 5V sensors on 3.3V boards.
+  extravals:
+    Max Current: 0.2 A
+    Output Voltage: 5V
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: PRT-10968
+    externalurl: https://www.sparkfun.com/products/10968
+    imageurl: images/cpl/part_images/4c151d5ec36402f264ab05b899e1bafd.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-REG-BUCK-3.3V-1A-BREAKOUT
+  title: Step-Down Voltage Regulator-3.3V
+  description: It is based off TSR12433 and accepts 4.75V to 32V and steps down to
+    3.3V.
+  extravals:
+    Max Current: 1 A
+    Output Voltage: 3.3V
+  parts:
+  - uid: d5051df8c4870ac2
+    ppid: "32978148"
+    manufacturer: Adafruit
+    mpn: ADA1066
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-REG-BUCK-5V-3A-BREAKOUT
+  title: Step-Down Voltage Regulator-5V
+  description: 'It is based off MP2307 and accepts 6V to 23V and steps down to 5V.
+    Example use: [Li-Po charging circuit](https://learn.adafruit.com/multi-cell-lipo-charging?view=all) '
+  extravals:
+    Max Current: 3 A
+    Output Voltage: 5V
+  parts:
+  - uid: a10069fdb1807ec7
+    ppid: "32978406"
+    manufacturer: Adafruit
+    mpn: ADA1385
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/25341588/image/Adafruit-Industries-ADA1385.jpg
+    footprinturl: ""
+    note: ""

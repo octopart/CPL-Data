@@ -1,0 +1,142 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1952334829"
+position: 16
+name: Inductors
+cleanname: Inductors
+description: 'Commonly used in transceivers and power supply filtering. '
+extracols:
+- Inductance
+- Tolerance
+- Q Factor
+- DC Resistance
+- Max DC Current
+rows:
+- cplid: CPL-IND-1UH-10A-THT
+  title: Inductor
+  description: ""
+  extravals:
+    DC Resistance: 0.013 Ω
+    Inductance: '1 µH '
+    Max DC Current: 10 A
+    Q Factor: 20 @7.96 MHz
+    Tolerance: ±10%
+  parts:
+  - uid: 30abfbfac881ef6c
+    ppid: "39574860"
+    manufacturer: Bourns
+    mpn: RL622-1R0K-RC
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21370229/image/Bourns-RL622-1R0K-RC.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-IND-10UH-3A-THT
+  title: Inductor
+  description: ""
+  extravals:
+    DC Resistance: 0.045 Ω
+    Inductance: '10 µH '
+    Max DC Current: 3 A
+    Q Factor: 50 @ 2.52 MHz
+    Tolerance: ±10%
+  parts:
+  - uid: bc687739445663af
+    ppid: "39574872"
+    manufacturer: Bourns
+    mpn: RL622-100K-RC
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21369640/image/Bourns-RL622-100K-RC.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-IND-100UH-0.91A-THT
+  title: Inductor
+  description: ""
+  extravals:
+    DC Resistance: 0.028 Ω
+    Inductance: '100 µH '
+    Max DC Current: 910 mA
+    Q Factor: 20 @ 796 kHz
+    Tolerance: ±10%
+  parts:
+  - uid: 115eda0fe956ce99
+    ppid: "39574894"
+    manufacturer: Bourns
+    mpn: RL622-101K-RC
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/22133778/image/Bourns-RLB9012-101KL.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-IND-1000UH-0.29A-THT
+  title: Inductor
+  description: ""
+  extravals:
+    DC Resistance: 2.9 Ω
+    Inductance: 1 mH
+    Max DC Current: 290 mA
+    Q Factor: 50 @ 252 kHz
+    Tolerance: ±10%
+  parts:
+  - uid: 57049c55be0788c3
+    ppid: "39570533"
+    manufacturer: Bourns
+    mpn: RL622-102K-RC
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10056371/image/Bourns-RL622-102K-RC.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-IND-4700UH-0.24A-THT
+  title: Inductor
+  description: ""
+  extravals:
+    DC Resistance: 13.6 Ω
+    Inductance: 4.7 mH
+    Max DC Current: 240 mA
+    Q Factor: 15 @ 1 kHz
+    Tolerance: ±10%
+  parts:
+  - uid: fca93503d874236e
+    ppid: "10486203"
+    manufacturer: Bourns
+    mpn: RLB9012-472KL
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21369674/image/Bourns-RLB9012-472KL.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-IND-FER-50OHM-7A-THT
+  title: Ferrite Bead
+  description: "Impedance: 50 Ω at 20MHz.\nFerrite beads get more resistive at higher
+    frequencies. Some of the applications are for suppressing high frequency noise
+    and for reducing coupling.\nCheck this great [video demo of ferrite beads](https://www.youtube.com/watch?v=81C4IfONt3o). "
+  extravals:
+    DC Resistance: –
+    Inductance: –
+    Max DC Current: 7 A
+    Q Factor: –
+    Tolerance: –
+  parts:
+  - uid: e2d12bd6c7b83d16
+    ppid: "851983"
+    manufacturer: Murata
+    mpn: BL01RN1A1D2B
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21424154/image/Murata-BL01RN1A1D2B.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-IND-FER-120OHM-ROUND
+  title: Ferrite Core Round Cable
+  description: "Impedance: 120 Ω at 20MHz.  \nThis one has a Ferrite Grade of 43.
+    Read about [ferrite material properties](http://www.fair-rite.com/newfair/materials.htm). "
+  extravals:
+    DC Resistance: –
+    Inductance: –
+    Max DC Current: –
+    Q Factor: –
+    Tolerance: –
+  parts:
+  - uid: 4cdb85d16a0c931c
+    ppid: "945"
+    manufacturer: Fair-Rite
+    mpn: "2643665702"
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10095630/image/Fair-Rite-2643665702.jpg
+    footprinturl: ""
+    note: ""

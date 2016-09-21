@@ -1,0 +1,122 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "558057410"
+position: 21
+name: Soldering Equipment
+cleanname: SolderingEquipment
+description: Range of equipment to get started with soldering. Check this [tutorial
+  on how to solder](https://learn.SparkFun.com/tutorials/how-to-solder---through-hole-soldering).
+  Also, see this [discussion on solder types](http://electronics.stackexchange.com/questions/3/what-are-the-different-types-of-solder-used-for).
+extracols: []
+rows:
+- cplid: CPL-SDR-STATION
+  title: Soldering Station
+  description: "This is high quality solder station from Hakko and it comes with digital
+    temperature control. \nTo learn more check this [tutorial on soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
+    from Adafruit. \n"
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Hakko
+    mpn: FX888D
+    externalurl: http://www.amazon.com/dp/B00ANZRT4M/?tag=octopart00-20
+    imageurl: images/cpl/part_images/e0c38aa47569d89bbc693be6ca279c94.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SDR-60/40-0.031INCH
+  title: 'Solder Spool- 60/40 Rosin Core 0.031" diameter '
+  description: 'Good for through-hole soldering and is great for beginners. Contains
+    60% Tin and 40% Lead. '
+  extravals: {}
+  parts:
+  - uid: fd1f35e2ed8c22d8
+    ppid: "32978421"
+    manufacturer: Adafruit
+    mpn: ADA145
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/20367048/image/Adafruit-Industries-ADA145.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SDR-60/40-0.02INCH
+  title: Solder Spool- 60/40 Rosin Core 0.02" diameter
+  description: 'Good for surface mount soldering. Contains 60% Tin and 40% Lead. '
+  extravals: {}
+  parts:
+  - uid: b54f7e95aefe6a88
+    ppid: "47202007"
+    manufacturer: Adafruit
+    mpn: ADA1886
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SDR-LEADFREE-0.02INCH
+  title: Solder Spool- Lead Free 0.02" diameter
+  description: 'This is lead free alternative to the standard 60/40 and is good for
+    RoHS compliance. '
+  extravals: {}
+  parts:
+  - uid: 5af99122b7bf853e
+    ppid: "47302688"
+    manufacturer: Adafruit
+    mpn: ADA1930
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/60593404/image/Adafruit-Industries-1930.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SDR-POCKET-60/40-0.031INCH
+  title: Pocket Solder- 60/40 Rosin Core 0.031" diameter
+  description: 'A little expensive for the quantity you get, but really easy to use
+    and carry around. '
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Kester
+    mpn: ""
+    externalurl: http://www.amazon.com/dp/B00068IJNQ/?tag=octopart00-20
+    imageurl: images/cpl/part_images/d04841eab9cc2d1a0c61438083c72468.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SDR-WICK
+  title: Solder Wick
+  description: 'Use it with solder sucker for cleaning up/desoldering. '
+  extravals: {}
+  parts:
+  - uid: cba50358db3a1462
+    ppid: "32978425"
+    manufacturer: Adafruit
+    mpn: ADA149
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SDR-SUCKER
+  title: Solder Sucker
+  description: "Useful for de-soldering and cleaning up mistakes. It is used with
+    solder wick. \nFor a better quality solder sucker, check this [solder sucker with
+    slicone tip](https://www.adafruit.com/products/1597). "
+  extravals: {}
+  parts:
+  - uid: a2e16a1cb27f7d26
+    ppid: "32978424"
+    manufacturer: Adafruit
+    mpn: ADA148
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/20366089/image/Adafruit-Industries-ADA148.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SDR-REWORK
+  title: Solder Hot Air Re-work Station
+  description: "Great value for money! Use it with solder wick for any de-soldering
+    job. \nLearn more about using this at a [review on EEVblog by Dave Jones](https://www.youtube.com/watch?v=vva2t21sOAs). "
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Kohree
+    mpn: ""
+    externalurl: http://www.amazon.com/dp/B00ITMPQS2/?tag=octopart00-20
+    imageurl: images/cpl/part_images/07d0c04517020eda9c4162a14f0f4db0.jpg
+    footprinturl: ""
+    note: ""

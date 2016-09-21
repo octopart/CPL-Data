@@ -1,0 +1,50 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "355205785"
+position: 8
+name: Memory
+cleanname: Memory
+description: Common solderable data storage for connected devices in a variety of
+  types and formats.
+extracols: []
+rows:
+- cplid: CPL-MEM-4MB-FLASH
+  title: 4 Mbit Serial Flash
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 3264fabffe43eda3
+    ppid: "30533953"
+    manufacturer: Adesto Technologies
+    mpn: AT45DB041E-SSHN-B
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/27208140/image/Adesto-Technologies-AT45DB041E-SSHN-B.jpg
+    footprinturl: http://www.snapeda.com/parts/AT45DB041E-SSHN-B/Adesto%20Technologies/view-part/
+    note: ""
+- cplid: CPL-MEM-2KB-EEPROM
+  title: 2 Kbit I2C Serial EEPROM
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 42298b2215dd9dee
+    ppid: "94866"
+    manufacturer: Microchip
+    mpn: 24AA02T-I/OT
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9873486/image/Microchip-24AA02T-I-OT.jpg
+    footprinturl: http://www.snapeda.com/parts/24AA02T-I/OT/Microchip/view-part/
+    note: ""
+- cplid: CPL-MEM-32KB-EEPROM
+  title: 32 Kbit I2C Serial EEPROM
+  description: |+
+    Used in the Raspberry Pi HAT specification.
+
+  extravals: {}
+  parts:
+  - uid: e7742edf843138b3
+    ppid: "10569251"
+    manufacturer: ON Semiconductor
+    mpn: CAT24C32WI-GT3
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9894679/image/ON-Semiconductor-CAT24C32WI-GT3.jpg
+    footprinturl: http://www.snapeda.com/parts/CAT24C32WI-GT3/ON%20Semiconductor/view-part/
+    note: ""

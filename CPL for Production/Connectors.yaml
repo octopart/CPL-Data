@@ -1,0 +1,622 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "1002546012"
+position: 18
+name: Connectors
+cleanname: Connectors
+description: Common ways to connect power adapters, batteries, memory cards, audio,
+  antenna, and data interfaces.
+extracols:
+- Mounting Type
+rows:
+- cplid: CPL-CON-BARREL-2.1MM
+  title: 2.1mm Barrel Power Connector
+  description: ""
+  extravals:
+    Mounting Type: SMD
+  parts:
+  - uid: 25aeed432243fa69
+    ppid: "31924875"
+    manufacturer: 'Switchcraft '
+    mpn: RASM722X
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21590410/image/Switchcraft-RASM722X.jpg
+    footprinturl: http://www.snapeda.com/parts/RASM722X/Switchcraft%20/view-part/
+    note: ""
+- cplid: CPL-CON-MICROSD
+  title: MicroSD Card Socket
+  description: ""
+  extravals:
+    Mounting Type: SMD
+  parts:
+  - uid: e824200c58cf37e3
+    ppid: "19043725"
+    manufacturer: JAE Electronics
+    mpn: ST9S008V4AR1500
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21402075/image/JAE-Electronics-ST9S008V4AR1500.jpg
+    footprinturl: http://www.snapeda.com/parts/ST9S008V4AR1500/JAE%20Electronics/view-part/
+    note: ""
+- cplid: CPL-CON-SD
+  title: SD Card Socket
+  description: ""
+  extravals:
+    Mounting Type: SMD
+  parts:
+  - uid: 3620fe05e3d6e9e7
+    ppid: "19918992"
+    manufacturer: Molex
+    mpn: 503500-0991
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21417113/image/Molex-503500-0991.jpg
+    footprinturl: http://www.snapeda.com/parts/503500-0991/Molex/view-part/
+    note: ""
+  - uid: b4a17f5adc786b66
+    ppid: "49368511"
+    manufacturer: 3M
+    mpn: SD-RSMT-2-MQ-WF
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21460760/image/3M-SD-RSMT-2-MQ-WF.jpg
+    footprinturl: http://www.snapeda.com/parts/SD-RSMT-2-MQ-WF/3M/view-part/
+    note: ""
+- cplid: CPL-CON-MICROUSBB-FEM
+  title: Micro USB B Female connector
+  description: |+
+    Note: these parts are similar but not drop-in-compatible
+
+  extravals:
+    Mounting Type: SMD
+  parts:
+  - uid: 7d59b4888c14a29e
+    ppid: "14406699"
+    manufacturer: FCI
+    mpn: 10103594-0001LF
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21390352/image/FCI-10103594-0001LF.jpg
+    footprinturl: http://www.snapeda.com/parts/10103594-0001LF/FCI/view-part/
+    note: ""
+  - uid: 9b2a5085337644ed
+    ppid: "44404026"
+    manufacturer: Hirose
+    mpn: ZX62D-B-5P8
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21398443/image/Hirose-ZX62D-B-5P8.jpg
+    footprinturl: http://www.snapeda.com/parts/ZX62D-B-5P8/Hirose/view-part/
+    note: ""
+- cplid: CPL-CON-USBA-FEM
+  title: USB A Female connector
+  description: |+
+    Note: these parts are similar but not drop-in-compatible
+
+  extravals:
+    Mounting Type: SMD
+  parts:
+  - uid: dce8155aa722032f
+    ppid: "12082860"
+    manufacturer: Molex
+    mpn: 480-37-1000
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/13536879/image/Molex-48037-1000.jpg
+    footprinturl: http://www.snapeda.com/parts/480-37-1000/Molex/view-part/
+    note: ""
+  - uid: 14b3dfd108f4cb74
+    ppid: "40384801"
+    manufacturer: TE Connectivity
+    mpn: 1734366-1
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10290385/image/TE-Connectivity-1734366-1.jpg
+    footprinturl: http://www.snapeda.com/parts/1734366-1/TE%20Connectivity/view-part/
+    note: ""
+- cplid: CPL-CON-USBB-FEM
+  title: USB B Female connector
+  description: |+
+    Note: these parts are similar but not drop-in-compatible
+
+  extravals:
+    Mounting Type: Through Hole
+  parts:
+  - uid: cb14007ec4e114d3
+    ppid: "39856787"
+    manufacturer: FCI
+    mpn: 61729-1011BLF
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/23596994/image/Areva-61729-1011BLF.jpg
+    footprinturl: http://www.snapeda.com/parts/61729-1011BLF/FCI/view-part/
+    note: ""
+  - uid: 963e5f3f016249f9
+    ppid: "766522"
+    manufacturer: Hariwin
+    mpn: M701-330442
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21395130/image/Harwin-M701-330442.jpg
+    footprinturl: http://www.snapeda.com/parts/M701-330442/Hariwin/view-part/
+    note: ""
+- cplid: CPL-CON-HDMI-TYPEA
+  title: HDMI Type A Receptacle
+  description: ""
+  extravals:
+    Mounting Type: 'SMD '
+  parts:
+  - uid: a0a86bffd2007f6f
+    ppid: "39671758"
+    manufacturer: FCI
+    mpn: 10029449-001RLF
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21403896/image/Areva-10029449-001RLF.jpg
+    footprinturl: http://www.snapeda.com/parts/10029449-001RLF/FCI/view-part/
+    note: ""
+  - uid: 2f9ae4c9727ef05d
+    ppid: "39417986"
+    manufacturer: TE Connectivity
+    mpn: 1747981-1
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9986177/image/Tyco-Electronics-1747981-1.jpg
+    footprinturl: http://www.snapeda.com/parts/1747981-1/TE%20Connectivity/view-part/
+    note: ""
+- cplid: CPL-CON-STEREO-3.5MM-FEM
+  title: 3.5mm Stereo Audio Female Connector
+  description: |+
+    Note: these parts are similar but not drop-in-compatible
+
+  extravals:
+    Mounting Type: SMD
+  parts:
+  - uid: 05ecccef17f4da2b
+    ppid: "604030"
+    manufacturer: Switchcraft
+    mpn: 35RASMT4BHNTRX
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/32012453/image/Switchcraft-35RASMT4BHNTRX.jpg
+    footprinturl: http://www.snapeda.com/parts/35RASMT4BHNTRX/Switchcraft/view-part/
+    note: ""
+  - uid: 78e2b063b1d3a725
+    ppid: "25947223"
+    manufacturer: CUI
+    mpn: SJ-3506-SMT-TR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/32012468/image/CUI-SJ-3506-SMT-TR.png
+    footprinturl: http://www.snapeda.com/parts/SJ-3506-SMT-TR/CUI/view-part/
+    note: ""
+- cplid: CPL-CON-RCA-RIGHT
+  title: Right Angle RCA Jack
+  description: |+
+    Note: these parts are similar but not drop-in-compatible
+
+  extravals:
+    Mounting Type: Through Hole
+  parts:
+  - uid: 267eef7a54a6f9b9
+    ppid: "939966"
+    manufacturer: Switchcraft
+    mpn: PJRAN1X1U01X
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21440334/image/Switchcraft-PJRAN1X1U01X.jpg
+    footprinturl: http://www.snapeda.com/parts/PJRAN1X1U01X/Switchcraft/view-part/
+    note: ""
+  - uid: 53399a301fc18cfe
+    ppid: "223646"
+    manufacturer: CUI
+    mpn: RCJ-041
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/13067571/image/CUI-RCJ-041.png
+    footprinturl: http://www.snapeda.com/parts/RCJ-041/CUI/view-part/
+    note: ""
+- cplid: CPL-CON-ETHERNET
+  title: Ethernet Connector
+  description: |+
+    Note: these parts are similar but not drop-in-compatible
+
+  extravals:
+    Mounting Type: SMD
+  parts:
+  - uid: c853015dbe291794
+    ppid: "283420"
+    manufacturer: Pulse
+    mpn: J00-0065NL
+    externalurl: ""
+    imageurl: http://s3.amazonaws.com/sigma.octopart.com/33399496/image/Pulse-J00-0065NL.jpg
+    footprinturl: http://www.snapeda.com/parts/J00-0065NL/Pulse/view-part/
+    note: ""
+  - uid: ef5e262071f03099
+    ppid: "7650248"
+    manufacturer: Molex
+    mpn: 48025-1190
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/8346523/image/Molex-480251190.jpg
+    footprinturl: http://www.snapeda.com/parts/48025-1190/Molex/view-part/
+    note: ""
+- cplid: CPL-CON-COAX-MINI
+  title: Ultra Mini Coaxial
+  description: ""
+  extravals:
+    Mounting Type: SMD
+  parts:
+  - uid: e7582e5650a9389f
+    ppid: "299671"
+    manufacturer: Hirose
+    mpn: U.FL-R-SMT(10)
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21538658/image/Hirose-U.FL-R-SMT%2810%29.jpg
+    footprinturl: http://www.snapeda.com/parts/U.FL-R-SMT(10)/Hirose/view-part/
+    note: ""
+  - uid: 206eeb91d8d9ffa9
+    ppid: "49667537"
+    manufacturer: Amphenol
+    mpn: A-1JB
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21361030/image/Amphenol-A-1JB.jpg
+    footprinturl: http://www.snapeda.com/parts/A-1JB/Amphenol/view-part/
+    note: ""
+- cplid: CPL-CON-JUMPER-0.1IN
+  title: Jumper (0.100")
+  description: ""
+  extravals:
+    Mounting Type: –
+  parts:
+  - uid: 43198abe535c9cde
+    ppid: "11351331"
+    manufacturer: FCI
+    mpn: 68786-202LF
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/503617/image/FCI-68786-202LF..jpg
+    footprinturl: http://www.snapeda.com/parts/68786-202LF/FCI/view-part/
+    note: ""
+  - uid: ea55210621833592
+    ppid: "39448240"
+    manufacturer: TE Connectivity / AMP
+    mpn: 382811-8
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21444028/image/TE-Connectivity---AMP-382811-8.jpg
+    footprinturl: http://www.snapeda.com/parts/382811-8/TE%20Connectivity/view-part/
+    note: ""
+  - uid: 483683cd213897f1
+    ppid: "49368168"
+    manufacturer: 3M
+    mpn: 969102-0000-DA
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21348077/image/3M-969102-0000-DA.jpg
+    footprinturl: http://www.snapeda.com/parts/969102-0000-DA/3M/view-part/
+    note: ""
+- cplid: CPL-CON-HEADER-0.1IN-FEM
+  title: Female Header 10 Position (0.100")
+  description: ""
+  extravals:
+    Mounting Type: Through Hole
+  parts:
+  - uid: a22969797d7d7dee
+    ppid: "39516722"
+    manufacturer: TE Connectivity
+    mpn: 5-534237-8
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/17045708/image/TE-Connectivity-5-534237-8.jpg
+    footprinturl: http://www.snapeda.com/parts/5-534237-8/TE%20Connectivity/view-part/
+    note: ""
+  - uid: 2d81e488d2bbf246
+    ppid: "252508"
+    manufacturer: 3M
+    mpn: 929850-01-10-RA
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/17045708/image/TE-Connectivity-5-534237-8.jpg
+    footprinturl: http://www.snapeda.com/parts/929850-01-10-RA/3M/view-part/
+    note: ""
+- cplid: CPL-CON-HEADER-THT-MALE
+  title: Male Header 40 Position (Breakaway) (0.100")
+  description: ""
+  extravals:
+    Mounting Type: Through Hole
+  parts:
+  - uid: c0770b26e5a51fb0
+    ppid: "39518388"
+    manufacturer: TE Connectivity
+    mpn: 9-146281-0
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21445394/image/TE-Connectivity-9-146281-0.jpg
+    footprinturl: http://www.snapeda.com/parts/9-146281-0/TE%20Connectivity/view-part/
+    note: ""
+  - uid: 2479ef839a61fbbe
+    ppid: "49322878"
+    manufacturer: 3M
+    mpn: 2340-6111TG
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21460119/image/3M-2340-6111TG.jpg
+    footprinturl: http://www.snapeda.com/parts/2340-6111TG/3M/view-part/
+    note: ""
+- cplid: CPL-CON-HEADER-MALE
+  title: Male Header 6-pin (0.1") 2x3, SMD
+  description: "Used for programming Arduino powered boards. \n\n"
+  extravals:
+    Mounting Type: SMD
+  parts:
+  - uid: 6db6a6de2de0b271
+    ppid: "40002864"
+    manufacturer: FCI
+    mpn: 95278-101A06LF
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/23636287/image/Areva-95278-101A06LF.jpg
+    footprinturl: http://www.snapeda.com/parts/95278-101A06LF/FCI/view-part/
+    note: ""
+  - uid: b1d37aba31606e14
+    ppid: "40084949"
+    manufacturer: TE Connectivity
+    mpn: 5-146130-2
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21594024/image/TE-Connectivity-5-146130-2.jpg
+    footprinturl: http://www.snapeda.com/parts/5-146130-2/TE%20Connectivity/view-part/
+    note: ""
+- cplid: CPL-CON-BATT-HOLDER-CR2032
+  title: CR2032 Coin Cell Battery Holder
+  description: |+
+    Note: these parts are similar but not drop-in-compatible
+
+  extravals:
+    Mounting Type: –
+  parts:
+  - uid: 43ad8aa53b7b9c6a
+    ppid: "155056"
+    manufacturer: MPD
+    mpn: BA2032SM
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/32294681/image/MPD-BA2032SM.jpg
+    footprinturl: http://www.snapeda.com/parts/BA2032SM/MPD/view-part/
+    note: ""
+  - uid: 6243a92e4b2cbd84
+    ppid: "40307721"
+    manufacturer: TE Connectivity
+    mpn: 796136-1
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/8888121/image/TE-Connectivity---AMP-796136-1.jpg
+    footprinturl: http://www.snapeda.com/parts/796136-1/TE%20Connectivity/view-part/
+    note: ""
+- cplid: CPL-CON-JST-VH2-HEADER
+  title: JST VH 2 position connector header
+  description: ""
+  extravals:
+    Mounting Type: Through Hole
+  parts:
+  - uid: a6216f2848a479e6
+    ppid: "248803"
+    manufacturer: JST
+    mpn: B2P-VH(LF)(SN)
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/526995/image/JST-B2P-VH%28LF%29%28SN%29.jpg
+    footprinturl: http://www.snapeda.com/parts/B2P-VH(LF)(SN)/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-VH2-HOUSING
+  title: JST VH 2 position connector housing
+  description: ""
+  extravals:
+    Mounting Type: –
+  parts:
+  - uid: 2c19e5174beef3de
+    ppid: "279185"
+    manufacturer: JST
+    mpn: VHR-2N
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/532997/image/JST-VHR-2N.jpg
+    footprinturl: http://www.snapeda.com/parts/VHR-2N/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-VH3-HEADER
+  title: JST VH 3 position connector header
+  description: ""
+  extravals:
+    Mounting Type: Through Hole
+  parts:
+  - uid: 02bbcbb2ec39dd7c
+    ppid: "248804"
+    manufacturer: JST
+    mpn: B3P-VH(LF)(SN)
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/32012476/image/JST-B3P-VH%28LF%29%28SN%29.jpg
+    footprinturl: http://www.snapeda.com/parts/B3P-VH(LF)(SN)/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-VH3-HOUSING
+  title: JST VH 3 position connector housing
+  description: ""
+  extravals:
+    Mounting Type: –
+  parts:
+  - uid: 200de90347f9ffca
+    ppid: "279186"
+    manufacturer: JST
+    mpn: VHR-3N
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/11640407/image/JST-VHR-3N.jpg
+    footprinturl: http://www.snapeda.com/parts/VHR-3N/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-VH-CONTACT
+  title: JST VH connector contact
+  description: ""
+  extravals:
+    Mounting Type: –
+  parts:
+  - uid: d3161a1f73330cd1
+    ppid: "230723"
+    manufacturer: JST
+    mpn: SVH-21T-P1.1
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/634432/image/JST-SVH-21T-P1.1.jpg
+    footprinturl: http://www.snapeda.com/parts/SVH-21T-P1.1/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-XH2-HEADER
+  title: JST XH 2 position connector header
+  description: ""
+  extravals:
+    Mounting Type: Through Hole
+  parts:
+  - uid: df53166519540094
+    ppid: "3990369"
+    manufacturer: JST
+    mpn: S2B-XH-A(LF)(SN)
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21402586/image/JST-S2B-XH-A-%28LF%29%28SN%29.jpg
+    footprinturl: http://www.snapeda.com/parts/S2B-XH-A(LF)(SN)/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-XH2-HOUSING
+  title: JST XH 2 position connector housing
+  description: ""
+  extravals:
+    Mounting Type: –
+  parts:
+  - uid: 234bea454fdefc8c
+    ppid: "281075"
+    manufacturer: JST
+    mpn: XHP-2
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/23728234/image/JST-XHP-2.jpg
+    footprinturl: http://www.snapeda.com/parts/XHP-2/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-XH3-HEADER
+  title: JST XH 3 position connector header
+  description: ""
+  extravals:
+    Mounting Type: Through Hole
+  parts:
+  - uid: 3200fb36f401edc7
+    ppid: "3990375"
+    manufacturer: JST
+    mpn: S3B-XH-A(LF)(SN)
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21402589/image/JST-S3B-XH-A-%28LF%29%28SN%29.jpg
+    footprinturl: http://www.snapeda.com/parts/S3B-XH-A(LF)(SN)/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-XH3-HOUSING
+  title: JST XH 3 position connector housing
+  description: ""
+  extravals:
+    Mounting Type: –
+  parts:
+  - uid: ef3e260829b930f9
+    ppid: "3990497"
+    manufacturer: JST
+    mpn: XHP-3
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/23639285/image/JST-XHP-3.jpg
+    footprinturl: http://www.snapeda.com/parts/XHP-3/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-XH4-HEADER
+  title: JST XH 4 position connector header
+  description: ""
+  extravals:
+    Mounting Type: Through Hole
+  parts:
+  - uid: 3e11f762e4a4e1d6
+    ppid: "7995347"
+    manufacturer: JST
+    mpn: S4B-XH-A(LF)(SN)
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21402591/image/JST-S4B-XH-A-%28LF%29%28SN%29.jpg
+    footprinturl: http://www.snapeda.com/parts/S4B-XH-A(LF)(SN)/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-XH4-HOUSING
+  title: JST XH 4 position connector housing
+  description: ""
+  extravals:
+    Mounting Type: –
+  parts:
+  - uid: ccbb05b5a029137c
+    ppid: "281076"
+    manufacturer: JST
+    mpn: XHP-4
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/23728236/image/JST-XHP-4.jpg
+    footprinturl: http://www.snapeda.com/parts/XHP-4/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-XH-CONTACT
+  title: JST XH contact
+  description: ""
+  extravals:
+    Mounting Type: –
+  parts:
+  - uid: 3f95f69c9fb7e052
+    ppid: "230724"
+    manufacturer: JST
+    mpn: SXH-001T-P0.6
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/17598132/image/JST-SXH-001T-P0.6.jpg
+    footprinturl: http://www.snapeda.com/parts/SXH-001T-P0.6/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-PH2-HEADER-THT
+  title: JST PH 2 position connector header
+  description: |+
+    Mates with many Li-ion and Li-poly battery packs
+
+  extravals:
+    Mounting Type: Through Hole
+  parts:
+  - uid: 84064d0f6d535bc1
+    ppid: "248883"
+    manufacturer: JST
+    mpn: S2B-PH-K-S(LF)(SN)
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/661085/image/JST-S2B-PH-K-S%28LF%29%28SN%29.jpg
+    footprinturl: http://www.snapeda.com/parts/S2B-PH-K-S(LF)(SN)/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-PH2-HEADER
+  title: JST PH 2 position connector header
+  description: "Mates with many Li-ion and Li-poly battery packs. \n\n"
+  extravals:
+    Mounting Type: SMD
+  parts:
+  - uid: 1cd4d5ddf5e3c313
+    ppid: "248913"
+    manufacturer: JST
+    mpn: S2B-PH-SM4-TB(LF)(SN)
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10328026/image/JST-S2B-PH-SM4-TB%28LF%29%28SN%29.jpg
+    footprinturl: http://www.snapeda.com/parts/S2B-PH-SM4-TB(LF)(SN)/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-PH2-HOUSING
+  title: JST PH 2 position connector housing
+  description: ""
+  extravals:
+    Mounting Type: –
+  parts:
+  - uid: 329bfb95557ded5c
+    ppid: "279168"
+    manufacturer: JST
+    mpn: PHR-2
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/8504580/image/JST-PHR-2.jpg
+    footprinturl: http://www.snapeda.com/parts/PHR-2/JST/view-part/
+    note: ""
+- cplid: CPL-CON-JST-PH-CONTACT
+  title: JST PH connector contact
+  description: ""
+  extravals:
+    Mounting Type: –
+  parts:
+  - uid: 95a95ca0358f4a6e
+    ppid: "230720"
+    manufacturer: JST
+    mpn: SPH-002T-P0.5S
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/28871399/image/JST-SPH-002T-P0.5S.jpg
+    footprinturl: http://www.snapeda.com/parts/SPH-002T-P0.5S/JST/view-part/
+    note: ""
+- cplid: CPL-CON-CONTACT-2POS-PLUG
+  title: Phoenix Contact 2 position plug
+  description: ""
+  extravals:
+    Mounting Type: –
+  parts:
+  - uid: 0e19c7133905d1de
+    ppid: "4730"
+    manufacturer: Phoenix Contact
+    mpn: "1803578"
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/8981597/image/Phoenix-Contact-1803578.jpg
+    footprinturl: http://www.snapeda.com/parts/1803578/Phoenix%20Contact/view-part/
+    note: ""
+- cplid: CPL-CON-CONTACT-2POS-HEADER
+  title: Phoenix Contact 2 position header
+  description: ""
+  extravals:
+    Mounting Type: Through Hole
+  parts:
+  - uid: 40ed89e73f629f2a
+    ppid: "23273"
+    manufacturer: Phoenix Contact
+    mpn: "1803277"
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9027761/image/Phoenix-Contact-1803277.jpg
+    footprinturl: http://www.snapeda.com/parts/1803277/Phoenix%20Contact/view-part/
+    note: ""

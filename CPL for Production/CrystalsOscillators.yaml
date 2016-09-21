@@ -1,0 +1,291 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "118719251"
+position: 16
+name: Crystals/Oscillators
+cleanname: CrystalsOscillators
+description: 'Provide a stable clock signal for microcontrollers and radio transceivers. '
+extracols:
+- Package
+rows:
+- cplid: CPL-OSC-CER-8MHz-33PF
+  title: '8 MHz Ceramic Resonator '
+  description: ""
+  extravals:
+    Package: SMD
+  parts:
+  - uid: 60b0a9be89d7bf77
+    ppid: "314369"
+    manufacturer: Murata
+    mpn: CSTCE8M00G55-R0
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/10368189/image/Murata-CSTCE8M00G55-R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CSTCE8M00G55-R0/Murata/view-part/
+    note: ""
+  - uid: 1344da4c7a93cc83
+    ppid: "150705"
+    manufacturer: Fox Electronics
+    mpn: FOXSDLF/080-20
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21391877/image/Fox-Electronics-FOXSDLF-160-20.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-OSC-CER-16MHZ-15PF
+  title: '16 MHz Ceramic Resonator '
+  description: ""
+  extravals:
+    Package: SMD
+  parts:
+  - uid: 122fdb21fb4dcde8
+    ppid: "314372"
+    manufacturer: Murata
+    mpn: CSTCE16M0V53-R0
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21424171/image/Murata-CSTCE16M0V53-R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CSTCE16M0V53-R0/Murata/view-part/
+    note: ""
+  - uid: 4a7c837781d295bb
+    ppid: "126664"
+    manufacturer: Fox Electronics
+    mpn: FOXSDLF/160-20
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21391877/image/Fox-Electronics-FOXSDLF-160-20.jpg
+    footprinturl: http://www.snapeda.com/parts/FOXSDLF/160-20/Fox%20Electronics/view-part/
+    note: ""
+- cplid: CPL-OSC-CRY-32.768KHZ-12.5PF
+  title: 32.768 kHz Crystal
+  description: 'For use with Real Time Clocks and interface ICs. '
+  extravals:
+    Package: SMD 3.2 mm x 1.5 mm
+  parts:
+  - uid: 77a3bea35ba3a864
+    ppid: "657766"
+    manufacturer: Abracon
+    mpn: ABS07-32.768KHZ-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/13529718/image/Abracon-ABS07-32.768KHZ-T.jpg
+    footprinturl: http://www.snapeda.com/parts/ABS07-32.768KHZ-T/Abracon/view-part/
+    note: ""
+  - uid: 6e02a63da4f7b1c5
+    ppid: "20311955"
+    manufacturer: TXC
+    mpn: 9HT10-32.768KDZF-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21449733/image/TXC-9HT10-32.768KDZF-T.jpg
+    footprinturl: http://www.snapeda.com/parts/9HT10-32.768KDZF-T/TXC/view-part/
+    note: ""
+  - uid: 0fa9c4512e2dd06e
+    ppid: "49415394"
+    manufacturer: Xinhunjing
+    mpn: FC-135
+    externalurl: ""
+    imageurl: images/cpl/part_images/0c71bde42d37849bccdf5196700fef06.jpg
+    footprinturl: http://www.snapeda.com/parts/FC-135/Xinhunjing/view-part/
+    note: ""
+- cplid: CPL-OSC-CRY-8MHZ-18PF
+  title: 8 MHz Crystal
+  description: ""
+  extravals:
+    Package: SMD 5 mm x 3.2 mm
+  parts:
+  - uid: 10f5d93c45cacf32
+    ppid: "12808281"
+    manufacturer: Abracon
+    mpn: ABM3B-8.000MHZ-B2-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10065111/image/Abracon-ABM3B-24.000MHZ-B2-T.jpg
+    footprinturl: http://www.snapeda.com/parts/ABM3B-8.000MHZ-B2-T/Abracon/view-part/
+    note: ""
+  - uid: 3f3ff7190051e0f8
+    ppid: "19667464"
+    manufacturer: TXC
+    mpn: 7B-8.000MAAJ-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21449690/image/TXC-7B-12.000MAAJ-T.jpg
+    footprinturl: http://www.snapeda.com/parts/7B-8.000MAAJ-T/TXC/view-part/
+    note: ""
+  - uid: 0f29c6c4f091d0ee
+    ppid: "15194846"
+    manufacturer: Murata
+    mpn: CSTCE8M00G55-RO
+    externalurl: ""
+    imageurl: images/cpl/part_images/a20217b6667a3c5359ea8a6cc6a74ce1.jpg
+    footprinturl: http://www.snapeda.com/parts/CSTCE8M00G55-RO/Murata/view-part/
+    note: ""
+- cplid: CPL-OSC-CRY-12MHZ-18PF
+  title: 12 MHz Crystal
+  description: ""
+  extravals:
+    Package: SMD 5 mm x 3.2 mm
+  parts:
+  - uid: 9d6e5460687242a9
+    ppid: "315514"
+    manufacturer: Abracon
+    mpn: ABM3B-12.000MHZ-B2-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10065111/image/Abracon-ABM3B-24.000MHZ-B2-T.jpg
+    footprinturl: http://www.snapeda.com/parts/ABM3B-12.000MHZ-B2-T/Abracon/view-part/
+    note: ""
+  - uid: e18a299cfa493e4d
+    ppid: "18628261"
+    manufacturer: TXC
+    mpn: 7B-12.000MAAJ-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21449690/image/TXC-7B-12.000MAAJ-T.jpg
+    footprinturl: http://www.snapeda.com/parts/7B-12.000MAAJ-T/TXC/view-part/
+    note: ""
+  - uid: df0014f8fe8600c7
+    ppid: "49415392"
+    manufacturer: Xinhunjing
+    mpn: 5032/2P
+    externalurl: ""
+    imageurl: images/cpl/part_images/3377c39546dd24d276bc17bca7b5f21f.jpg
+    footprinturl: http://www.snapeda.com/parts/5032/2P/Xinhunjing/view-part/
+    note: ""
+- cplid: CPL-OSC-CRY-12.288MHZ-18PF
+  title: 12.288 MHz Crystal
+  description: ""
+  extravals:
+    Package: SMD 5 mm x 3.2 mm
+  parts:
+  - uid: 30b4f9bac5a1ef73
+    ppid: "315507"
+    manufacturer: Abracon
+    mpn: ABM3B-12.288MHZ-B2-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10065111/image/Abracon-ABM3B-24.000MHZ-B2-T.jpg
+    footprinturl: http://www.snapeda.com/parts/ABM3B-12.288MHZ-B2-T/Abracon/view-part/
+    note: ""
+  - uid: c997018348161650
+    ppid: "18785511"
+    manufacturer: TXC
+    mpn: 7B-12.288MAAJ-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21449690/image/TXC-7B-12.000MAAJ-T.jpg
+    footprinturl: http://www.snapeda.com/parts/7B-12.288MAAJ-T/TXC/view-part/
+    note: ""
+- cplid: CPL-OSC-CRY-16MHZ-18PF
+  title: 16 MHz Crystal
+  description: ""
+  extravals:
+    Package: SMD 5 mm x 3.2 mm
+  parts:
+  - uid: bca575ab49bc6362
+    ppid: "315519"
+    manufacturer: Abracon
+    mpn: ABM3B-16.000MHZ-B2-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10065111/image/Abracon-ABM3B-24.000MHZ-B2-T.jpg
+    footprinturl: http://www.snapeda.com/parts/ABM3B-16.000MHZ-B2-T/Abracon/view-part/
+    note: ""
+  - uid: 411289045add9ed5
+    ppid: "18628265"
+    manufacturer: TXC
+    mpn: 7B-16.000MAAJ-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21449690/image/TXC-7B-12.000MAAJ-T.jpg
+    footprinturl: http://www.snapeda.com/parts/7B-16.000MAAJ-T/TXC/view-part/
+    note: ""
+  - uid: 6be0a6863878b427
+    ppid: "74217214"
+    manufacturer: Jingpengyuan
+    mpn: X053201602002
+    externalurl: ""
+    imageurl: images/cpl/part_images/2f074411d33713b4dbed0e904304e3ba.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-OSC-CRY-16MHZ-18PF-DIP
+  title: 16 MHz Crystal
+  description: ""
+  extravals:
+    Package: DIP
+  parts:
+  - uid: 0219cb1176c3ddde
+    ppid: "151996"
+    manufacturer: Fox Electronics
+    mpn: NC26LF-327
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/NC26LF-327/Fox%20Electronics/view-part/
+    note: ""
+  - uid: 5d5296aa7cea8295
+    ppid: "49415390"
+    manufacturer: Xinhunjing
+    mpn: 49S/18PF
+    externalurl: ""
+    imageurl: images/cpl/part_images/e546575127136f350a0f0751712e0f08.jpg
+    footprinturl: http://www.snapeda.com/parts/49S/18PF/Xinhunjing/view-part/
+    note: ""
+  - uid: d1cf1ca9abe80e08
+    ppid: "74211137"
+    manufacturer: Jingpengyuan
+    mpn: HC-49US 16.000MHz
+    externalurl: ""
+    imageurl: images/cpl/part_images/e73a1c9a58e0fd9d78ca8e797d987fee.jpg
+    footprinturl: http://www.snapeda.com/parts/HC-49US 16.000MHz/Jingpengyuan/view-part/
+    note: ""
+- cplid: CPL-OSC-CRY-20MHZ-18PF
+  title: 20 MHz Crystal
+  description: ""
+  extravals:
+    Package: SMD 5 mm x 3.2 mm
+  parts:
+  - uid: 1f3fd631eadbc0f8
+    ppid: "315522"
+    manufacturer: Abracon
+    mpn: ABM3B-20.000MHZ-B2-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10065111/image/Abracon-ABM3B-24.000MHZ-B2-T.jpg
+    footprinturl: http://www.snapeda.com/parts/ABM3B-20.000MHZ-B2-T/Abracon/view-part/
+    note: ""
+  - uid: cf070711d43510c0
+    ppid: "18628180"
+    manufacturer: TXC
+    mpn: 7B-20.000MAAJ-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21449690/image/TXC-7B-20.000MAAJ-T.jpg
+    footprinturl: http://www.snapeda.com/parts/7B-20.000MAAJ-T/TXC/view-part/
+    note: ""
+- cplid: CPL-OSC-CRY-24MHZ-18PF
+  title: 24 MHz Crystal
+  description: ""
+  extravals:
+    Package: SMD 5 mm x 3.2 mm
+  parts:
+  - uid: 37c2feccc227e805
+    ppid: "315523"
+    manufacturer: Abracon
+    mpn: ABM3B-24.000MHZ-B2-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10065111/image/Abracon-ABM3B-24.000MHZ-B2-T.jpg
+    footprinturl: http://www.snapeda.com/parts/ABM3B-24.000MHZ-B2-T/Abracon/view-part/
+    note: ""
+  - uid: 030dcb1b18ffdcca
+    ppid: "18628244"
+    manufacturer: TXC
+    mpn: 7B-24.000MAAJ-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21449690/image/TXC-7B-12.000MAAJ-T.jpg
+    footprinturl: http://www.snapeda.com/parts/7B-24.000MAAJ-T/TXC/view-part/
+    note: ""
+- cplid: CPL-OSC-CRY-40MHZ-18PF
+  title: 40 MHz Crystal
+  description: ""
+  extravals:
+    Package: SMD 5 mm x 3.2 mm
+  parts:
+  - uid: 07fbcef5f214d83c
+    ppid: "315529"
+    manufacturer: Abracon
+    mpn: ABM3B-40.000MHZ-B2-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10065111/image/Abracon-ABM3B-40.000MHZ-B2-T.jpg
+    footprinturl: http://www.snapeda.com/parts/ABM3B-40.000MHZ-B2-T/Abracon/view-part/
+    note: ""
+  - uid: 9151594510c24e96
+    ppid: "18785525"
+    manufacturer: TXC
+    mpn: 7B-40.000MAAJ-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21449690/image/TXC-7B-40.000MAAJ-T.jpg
+    footprinturl: http://www.snapeda.com/parts/7B-40.000MAAJ-T/TXC/view-part/
+    note: ""

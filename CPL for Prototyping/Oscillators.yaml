@@ -1,0 +1,99 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "632839924"
+position: 19
+name: Oscillators
+cleanname: Oscillators
+description: 'Provide a stable clock signal for microcontrollers and radio transceivers. '
+extracols: []
+rows:
+- cplid: CPL-OSC-CER-16MHZ
+  title: 16 MHz Resonator
+  description: "These resonators are bread-board friendly and easy to use. They have
+    0.5% accuracy, which is precise enough for most applications. \nYou can learn
+    more from this [product page at Adafruit](http://www.adafruit.com/products/1873)."
+  extravals: {}
+  parts:
+  - uid: 9fba56b476d3407d
+    ppid: "314383"
+    manufacturer: Murata
+    mpn: CSTLS4M00G53-B0
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21630769/image/Murata-CSTLS4M00G53-B0.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-OSC-CRY-32.768KHZ-12.5PF
+  title: '32.768 kHz Crystal '
+  description: This crystal is used with Real Time Clock chips.
+  extravals: {}
+  parts:
+  - uid: 0219cb1176c3ddde
+    ppid: "151996"
+    manufacturer: Fox Electronics
+    mpn: NC26LF-327
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21391904/image/Fox-Electronics-NC26LF-327..jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-OSC-CRY-8MHZ-20PF
+  title: 8 MHz Crystal
+  description: 'The crystal from Adafruit comes with two 20pF load capacitors. '
+  extravals: {}
+  parts:
+  - uid: 5f5e954eb5a28099
+    ppid: "52088730"
+    manufacturer: Adafruit
+    mpn: ADA2213
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+  - uid: 4077897c8d5b9fb0
+    ppid: "125002"
+    manufacturer: Fox Electronics
+    mpn: FOXSLF/080-20
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10374854/image/Fox-Electronics-FOXSLF/080-20.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-OSC-CRY-12MHZ-20PF
+  title: 12 MHz Crystal
+  description: The crystal from Adafruit comes with two 20pF load capacitors.
+  extravals: {}
+  parts:
+  - uid: 1193db83fb6ece54
+    ppid: "52088731"
+    manufacturer: Adafruit
+    mpn: ADA2214
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+  - uid: 9f2a56215a2340ed
+    ppid: "122991"
+    manufacturer: Fox Electronics
+    mpn: FOXSLF/120-20
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10374854/image/Fox-Electronics-FOXSLF/120-20.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-OSC-CRY-16MHZ-20PF
+  title: 16 MHz Crystal
+  description: 'The crystal from Adafruit comes with two 20pF load capacitors. '
+  extravals: {}
+  parts:
+  - uid: c4a80eb82e521b6f
+    ppid: "52088732"
+    manufacturer: Adafruit
+    mpn: ADA2215
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+  - uid: 95dd5cd59e344a1a
+    ppid: "142991"
+    manufacturer: Fox Electronics
+    mpn: FOXSLF/160-20
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10374854/image/Fox-Electronics-FOXSLF/160-20.jpg
+    footprinturl: ""
+    note: ""

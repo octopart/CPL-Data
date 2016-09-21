@@ -1,0 +1,85 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "586588128"
+position: 1
+name: Interface Boards
+cleanname: InterfaceBoards
+description: 'Provide USB, WiFi, Bluetooth, and other interfaces to connected devices.
+  Read about [choosing a Bluetooth chipset](http://www.argenox.com/bluetooth-low-energy-ble-v4-0-development/library/a-guide-to-selecting-a-bluetooth-chipset/). '
+extracols: []
+rows:
+- cplid: CPL-INT-ESP8266-WIFI
+  title: 'ESP8266 Wi-Fi Breakout '
+  description: "Popular board right now, but hard to use as a stand-alone chip. \nYou
+    will need to use USB to Serial [cable](https://www.adafruit.com/products/70) or
+    the FTDI Board to program the board. \nTo get started see this [ESP8266 tutorial](https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout?view=all).
+    Also, you can refer to Kickstarter project [Digistump's Oak](https://www.kickstarter.com/projects/digistump/oak-by-digistump-wi-fi-for-all-things-arduino-comp/description). "
+  extravals: {}
+  parts:
+  - uid: 4e8f84f2b79a9148
+    ppid: "58186867"
+    manufacturer: Adafruit
+    mpn: ADA2471
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: Huzzah ESP8266 Breakout
+- cplid: CPL-INT-BLE-NRF51822-BREAKOUT
+  title: Bluetooth Low Energy (BLE) nRF51822 Breakout
+  description: "nRF51822 is more powerful than the nRF8001 board and also comes with
+    a ARM Cortex M0.  \nGet started with [Bluefruit LE SPI](https://learn.adafruit.com/introducing-the-adafruit-bluefruit-spi-breakout?view=all)
+    and [Bluefruit LE UART](https://learn.adafruit.com/introducing-the-adafruit-bluefruit-le-uart-friend?view=all).\nCheckout
+    this [book on BLE](https://www.adafruit.com/products/1978) to learn more. "
+  extravals: {}
+  parts:
+  - uid: 90605acbdeb14fa7
+    ppid: "60910519"
+    manufacturer: Adafruit
+    mpn: ADA2633
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: Bluefruit LE SPI Friend
+  - uid: a0386a4daaca7fff
+    ppid: "58666900"
+    manufacturer: Adafruit
+    mpn: ADA2479
+    externalurl: ""
+    imageurl: images/cpl/part_images/e90b7430e82bfbbb97d9aa835ed7bd60.jpg
+    footprinturl: ""
+    note: Bluefruit LE UART
+- cplid: CPL-INT-GPS-BREAKOUT
+  title: GPS Breakout Board
+  description: "Get started [here](https://learn.adafruit.com/adafruit-ultimate-gps?view=all)
+    and go here for an example project of [GPS Dog Collar](https://learn.adafruit.com/gps-dog-collar?view=all).
+    \n"
+  extravals: {}
+  parts:
+  - uid: 5d1695eb4fdc82d1
+    ppid: "32978860"
+    manufacturer: Adafruit
+    mpn: ADA746
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: Adafruit Ultimate GPS Breakout
+- cplid: CPL-INT-FTDI
+  title: USB-to-Serial FTDI Board
+  description: 'Needs the Mini USB-B cable such as [this](http://www.adafruit.com/product/260). '
+  extravals: {}
+  parts:
+  - uid: 66d7ae600fa0b910
+    ppid: "29182993"
+    manufacturer: Adafruit
+    mpn: ADA284
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: FTDI Friend
+  - uid: ""
+    ppid: ""
+    manufacturer: Kedsum
+    mpn: ""
+    externalurl: http://www.amazon.com/dp/B009T2ZR6W/?tag=octopart00-20
+    imageurl: images/cpl/part_images/3f2a2475c0bbf8899fe83f4af16fb8a5.jpg
+    footprinturl: ""
+    note: CP2102 Module

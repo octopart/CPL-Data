@@ -1,0 +1,109 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "175158029"
+position: 5
+name: Op-Amps
+cleanname: OpAmps
+description: 'General purpose Op-Amps used for sensor interfaces, filtering, and many
+  other analog applications. '
+extracols:
+- Bandwidth
+- Package
+- Number of Circuits
+rows:
+- cplid: CPL-OPA-SOIC8-0.7MHZ-DUAL
+  title: General Purpose Dual Op Amp
+  description: ""
+  extravals:
+    Bandwidth: 700 kHz
+    Number of Circuits: "2"
+    Package: SOIC
+  parts:
+  - uid: 0017c9834f14dfd0
+    ppid: "10381925"
+    manufacturer: Texas Instruments
+    mpn: LM358DR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/172015/image/Texas-Instruments-LM358DR.jpg
+    footprinturl: http://www.snapeda.com/parts/LM358DR/Texas%20Instruments/view-part/
+    note: ""
+  - uid: 6d97a49b1b66b250
+    ppid: "414615"
+    manufacturer: On Semiconductor
+    mpn: LM358DR2G
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10111707/image/ON-Semiconductor-LM358DR2G.jpg
+    footprinturl: http://www.snapeda.com/parts/LM358DR2G/On%20Semiconductor/view-part/
+    note: ""
+- cplid: CPL-OPA-SOIC-1MHZ-DUAL
+  title: Low Voltage Dual Op Amp
+  description: ""
+  extravals:
+    Bandwidth: 1 MHz
+    Number of Circuits: "2"
+    Package: SSOP-8
+  parts:
+  - uid: f3d23adee8f12c15
+    ppid: "409157"
+    manufacturer: Texas Instruments
+    mpn: LMV358IDGKR
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/18056031/image/Texas-Instruments-LMV358IDGKR.jpg
+    footprinturl: http://www.snapeda.com/parts/LMV358IDGKR/Texas%20Instruments/view-part/
+    note: ""
+- cplid: CPL-OPA-SOIC14-1MHZ-QUAD
+  title: Low Voltage Quad Op Amp
+  description: ""
+  extravals:
+    Bandwidth: 1 MHz
+    Number of Circuits: "4"
+    Package: SOIC
+  parts:
+  - uid: 0379cb4c662bdcbe
+    ppid: "20922420"
+    manufacturer: Texas Instruments
+    mpn: LMV324IDR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10080585/image/Texas-Instruments-LMV324IDR.jpg
+    footprinturl: http://www.snapeda.com/parts/LMV324IDR/Texas%20Instruments/view-part/
+    note: ""
+- cplid: CPL-OPA-SOT25-100KHZ-SINGLE
+  title: Low-power, low-voltage, rail-to-rail Single Op Amp
+  description: "Note: these parts are similar but do not have identical performance.
+    \n\n"
+  extravals:
+    Bandwidth: 100 kHz
+    Number of Circuits: "1"
+    Package: SOT23-5
+  parts:
+  - uid: b75f7e9932006898
+    ppid: "13410361"
+    manufacturer: Fairchild Semiconductor
+    mpn: FAN4174IS5X
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9873486/image/Fairchild-Semiconductor-FAN4174IS5X.jpg
+    footprinturl: http://www.snapeda.com/parts/FAN4174IS5X/Fairchild%20Semiconductor/view-part/
+    note: ""
+  - uid: ad56645ac8ac7291
+    ppid: "409756"
+    manufacturer: Texas Instruments
+    mpn: OPA333AIDBVT
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/31486895/image/Texas-Instruments-OPA333AIDBVT.jpg
+    footprinturl: http://www.snapeda.com/parts/OPA333AIDBVT/Texas%20Instruments/view-part/
+    note: ""
+- cplid: CPL-OPA-COMP-SOIC
+  title: Dual Differential Comparator
+  description: ""
+  extravals:
+    Bandwidth: '-'
+    Number of Circuits: "2"
+    Package: SOIC
+  parts:
+  - uid: 83b54abeeb615c72
+    ppid: "85426"
+    manufacturer: Texas Instruments
+    mpn: LM293D
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/31446100/image/Texas-Instruments-LM293D.jpg
+    footprinturl: http://www.snapeda.com/parts/LM293D/Texas%20Instruments/view-part/
+    note: ""

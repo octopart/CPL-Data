@@ -1,0 +1,103 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "187644078"
+position: 15
+name: Thermistors
+cleanname: Thermistors
+description: Protect batteries and power supplies. Resettable fuses return to a conductive
+  state after a fault has cleared.
+extracols:
+- Hold Current
+- Maximum Voltage Rating (DC)
+- Maximum Fault Current
+- Size
+rows:
+- cplid: CPL-FUS-1812-PTC-0.5A
+  title: Resettable PTC 500 mA
+  description: ""
+  extravals:
+    Hold Current: 500 mA
+    Maximum Fault Current: 100 A
+    Maximum Voltage Rating (DC): 15 V
+    Size: "1812"
+  parts:
+  - uid: 9a15531fd2fc45d2
+    ppid: "28047"
+    manufacturer: Bourns
+    mpn: MF-MSMF050-2
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/26528217/image/Bourns-MF-MSMF050-2.jpg
+    footprinturl: http://www.snapeda.com/parts/MF-MSMF050-2/Bourns/view-part/
+    note: ""
+  - uid: 5faa96a8d5e0806d
+    ppid: "569132"
+    manufacturer: Littelfuse
+    mpn: 1812L050PR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10076489/image/Littelfuse-1812L050PR.jpg
+    footprinturl: http://www.snapeda.com/parts/1812L050PR/Littelfuse/view-part/
+    note: ""
+- cplid: CPL-FUS-1812-PTC-0.75A
+  title: Resettable PTC 750 mA
+  description: ""
+  extravals:
+    Hold Current: 750 mA
+    Maximum Fault Current: 100 A
+    Maximum Voltage Rating (DC): 13.2 V
+    Size: "1812"
+  parts:
+  - uid: 2edde7d62596f11a
+    ppid: "77357"
+    manufacturer: Bourns
+    mpn: MF-MSMF075-2
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/26528217/image/Bourns-MF-MSMF050-2.jpg
+    footprinturl: http://www.snapeda.com/parts/MF-MSMF075-2/Bourns/view-part/
+    note: ""
+  - uid: 9b82528011c94445
+    ppid: "569133"
+    manufacturer: Littelfuse
+    mpn: 1812L075PR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10076489/image/Littelfuse-1812L050PR.jpg
+    footprinturl: http://www.snapeda.com/parts/1812L075PR/Littelfuse/view-part/
+    note: ""
+- cplid: CPL-FUS-1812-PTC-1.1A
+  title: Resettable PTC 1.1 A
+  description: "Note: these parts are physically compatible, but have somewhat different
+    performance. The parameters shown are the \"worst case\" of all parts. \n\n"
+  extravals:
+    Hold Current: 1.1 A
+    Maximum Fault Current: 20 A
+    Maximum Voltage Rating (DC): 24 V
+    Size: "1812"
+  parts:
+  - uid: a4fe6ce9be1b7b39
+    ppid: "18694019"
+    manufacturer: Bourns
+    mpn: MF-MSMF110/24X-2
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/26528217/image/Bourns-MF-MSMF050-2.jpg
+    footprinturl: http://www.snapeda.com/parts/MF-MSMF110/24X-2/Bourns/view-part/
+    note: ""
+  - uid: 6a00a37dbb29b5c7
+    ppid: "7861327"
+    manufacturer: Littelfuse
+    mpn: 1812L110/33MR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10076489/image/Littelfuse-1812L050PR.jpg
+    footprinturl: http://www.snapeda.com/parts/1812L110/33MR/Littelfuse/view-part/
+    note: ""
+- cplid: CPL_FUS-0603-NTC
+  title: Resettable NTC 100K-1%
+  description: ""
+  extravals:
+    Size: "0603"
+  parts:
+  - uid: 45088c0900a99acf
+    ppid: "745671"
+    manufacturer: Murata
+    mpn: NCP18WF104J03RB
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21476988/image/Murata-NCP18WF104J03RB.jpg
+    footprinturl: http://www.snapeda.com/parts/NCP18WF104J03RB/Murata/view-part/
+    note: ""

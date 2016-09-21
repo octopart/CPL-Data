@@ -1,0 +1,84 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "585100285"
+position: 7
+name: Motor Drivers
+cleanname: MotorDrivers
+description: "Control DC motors and stepper motors in a variety of modes. \nTo learn
+  about brushed, brushless and servo motors as well as motor controllers, refer to
+  this excellent [article at Adafruit on motors](https://learn.adafruit.com/adafruit-motor-selection-guide?view=all). "
+extracols:
+- Current Drive
+rows:
+- cplid: CPL-MDR-STEPPER-BREAKOUT
+  title: Microstepping stepper motor driver board
+  description: 'Based off popular Allegro''s A4988 motor driver chip. It can provide
+    upto 2A/phase. '
+  extravals:
+    Current Drive: 2 A
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: 'Pololu '
+    mpn: A4988 Motor Driver
+    externalurl: https://www.pololu.com/product/1182
+    imageurl: images/cpl/part_images/490985c9e8e9fe77a61edd338dab72b2.jpg
+    footprinturl: ""
+    note: ""
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: ROB-12859
+    externalurl: https://www.sparkfun.com/products/12859
+    imageurl: images/cpl/part_images/b0a60a9dc917b9c28123de8d0c5c47de.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-MDR-HBRIDGE-L293
+  title: Dual H-Bridge motor drivers L293D
+  description: "Drive two DC motors bi-directionally with this well-known motor driver.
+    It can provide upto 600mA current. It is great for smaller motors. \nA good place
+    to start is [with this tutorial by Tom Igoe](https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/). "
+  extravals:
+    Current Drive: 0.6 A
+  parts:
+  - uid: 6891a19b533ab756
+    ppid: "7885"
+    manufacturer: Texas Instruments
+    mpn: L293DNE
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31301244/image/Texas-Instruments-L293DNE.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-MDR-HBRIDGE-L298-BREAKOUT
+  title: Dual H-Bridge motor drivers L298
+  description: "Drive two DC motors bi-directionally with this motor driver. It can
+    provide upto 2A.\nIt is great for robotic applications and can be easily interfaced
+    with a microcontroller. Dipmicro board ships from Canada, but the shipping cost
+    is only $3.50. \nSolarbotics board is without heat sink and is not assembled,
+    SparkFun board is with heat sink and comes assembled. "
+  extravals:
+    Current Drive: 2 A
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Dipmicro
+    mpn: DE4232
+    externalurl: http://www.dipmicro.com/store/L298N-MOD
+    imageurl: images/cpl/part_images/83ece345dd2fd8697d72762f58ffb426.jpg
+    footprinturl: ""
+    note: ""
+  - uid: ""
+    ppid: ""
+    manufacturer: Solarbotics
+    mpn: RB-Sbo-24
+    externalurl: http://www.robotshop.com/en/solarbotics-l298-motor-driver-kit.html
+    imageurl: images/cpl/part_images/643ac62b7509a582290f5e20b3e53397.jpg
+    footprinturl: ""
+    note: ""
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: ROB-09670
+    externalurl: https://www.SparkFun.com/products/9670
+    imageurl: images/cpl/part_images/69169cbdd7e2f73612f8776a366a2753.jpg
+    footprinturl: ""
+    note: ""

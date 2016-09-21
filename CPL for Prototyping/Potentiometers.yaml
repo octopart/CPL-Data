@@ -1,0 +1,85 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1253525527"
+position: 14
+name: Potentiometers
+cleanname: Potentiometers
+description: 'Provides variable resistance that can be controlled either through single
+  turn or multi turn potentiometers. '
+extracols:
+- Resistance
+- Power Rating
+- Resistance Tolerance
+rows:
+- cplid: CPL-POT-SINGLE-10K-0.5W
+  title: Single Turn Potentiometer- 10k ohms
+  description: 'Single turn potentiometers are used for general-purpose applications
+    and where precise setting is not required. '
+  extravals:
+    Power Rating: 500 mW
+    Resistance: 10 kΩ
+    Resistance Tolerance: ±10%
+  parts:
+  - uid: 0d71c47bd70fd2b6
+    ppid: "65304"
+    manufacturer: Bourns
+    mpn: 3362P-1-103LF
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/18117881/image/Bourns-3362P-1-103LF.jpg
+    footprinturl: ""
+    note: ""
+  - uid: 8a3a42ffd30f55fd
+    ppid: "30374995"
+    manufacturer: Adafruit
+    mpn: ADA356
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/22026749/image/Adafruit-Industries-356.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-POT-SINGLE-100K-0.5W
+  title: Single Turn Potentiometer- 100k ohms
+  description: ""
+  extravals:
+    Power Rating: 500 mW
+    Resistance: 100 kΩ
+    Resistance Tolerance: ±10%
+  parts:
+  - uid: 9f905698f6564057
+    ppid: "150688"
+    manufacturer: Bourns
+    mpn: 3362P-1-104LF
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/18117881/image/Bourns-3362P-1-103LF.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-POT-MULTI-25TURN-1K-0.5W
+  title: 'Multi-Turn Precision Potentiometer- 1k ohms (25 Turn) '
+  description: 'Multi-turn potentiometers are used when higher accuracy is required.  '
+  extravals:
+    Power Rating: 500 mW
+    Resistance: 1 kΩ
+    Resistance Tolerance: ±10%
+  parts:
+  - uid: 8d4d44466b6b528a
+    ppid: "115520"
+    manufacturer: Bourns
+    mpn: 3296W-1-102LF
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-POT-MULTI-25TURN-10K-0.5W
+  title: 'Multi-Turn Precision Potentiometer- 10k ohms (25 Turn) '
+  description: ""
+  extravals:
+    Power Rating: 500 mW
+    Resistance: 10 kΩ
+    Resistance Tolerance: ±10%
+  parts:
+  - uid: e164286f00233ea3
+    ppid: "115745"
+    manufacturer: Bourns
+    mpn: 3296W-1-103LF
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/501026/image/Bourns-3296W-1-103LF.jpg
+    footprinturl: ""
+    note: ""

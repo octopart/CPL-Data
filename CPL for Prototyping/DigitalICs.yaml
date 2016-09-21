@@ -1,0 +1,67 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1317579110"
+position: 12
+name: Digital ICs
+cleanname: DigitalICs
+description: "If you want to control lots of LEDs or want more I/O in general, shift
+  registers are great. Refer to this [article at SparkFun on shift registers](https://learn.SparkFun.com/tutorials/shift-registers).\nLevel
+  shifters are useful for shifting 5V to 3.3V logic and vice-versa. "
+extracols:
+- Package
+rows:
+- cplid: CPL-DIC-SHIFTREG-SER-PAR
+  title: Shift Register- Serial to Parallel
+  description: "Can be used for controlling digital outputs like lots of LEDs. \nIt
+    can operate from 2V to 6V. "
+  extravals:
+    Package: DIP-16
+  parts:
+  - uid: 168fdf857ed2c948
+    ppid: "19771"
+    manufacturer: Texas Instruments
+    mpn: SN74HC595N
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5260377/image/Texas-Instruments-SN74HC595N.jpeg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-DIC-SHIFTREG-PAR-SER
+  title: Shift Register- Parallel to Serial
+  description: "Can be used read lots of digital inputs.  \nIt can operate from 2V
+    to 6V."
+  extravals:
+    Package: DIP-16
+  parts:
+  - uid: 384ff145283ee788
+    ppid: "13591"
+    manufacturer: Texas Instruments
+    mpn: SN74HC165N
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5260377/image/Texas-Instruments-SN74HC165N.jpeg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-DIC-LEVELSHIFTER
+  title: 'Level Shifter '
+  description: "Can be used for level shifting from 5V to 3.3V for digital signals.
+    \nBreak-out board from SparkFun is another good option. It uses a BSS138 transistor,
+    which is popular for level shifting operations. \n\nTo learn more: refer to an
+    [application note from Philips](http://cdn.SparkFun.com/tutorialimages/BD-LogicLevelConverter/an97055.pdf)
+    and a discussion on [using transistors for level shifting](http://www.avrfreaks.net/forum/thru-hole-mosfet-i2c-33v-5v-conversion). "
+  extravals:
+    Package: DIP-20
+  parts:
+  - uid: fc503617838e2397
+    ppid: "55401144"
+    manufacturer: Texas Instruments
+    mpn: SN74HC245N
+    externalurl: ""
+    imageurl: images/cpl/part_images/7d661e9471acd86470d0827df6767448.jpg
+    footprinturl: ""
+    note: ""
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: BOB-12009
+    externalurl: https://www.SparkFun.com/products/12009
+    imageurl: images/cpl/part_images/1069cad658031c2b30830c7d2443f943.jpg
+    footprinturl: ""
+    note: ""

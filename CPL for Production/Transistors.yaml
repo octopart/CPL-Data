@@ -1,0 +1,203 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "1369515570"
+position: 10
+name: Transistors
+cleanname: Transistors
+description: These common BJTs and FETs are used for small signal switching and amplification.
+extracols:
+- Polarity
+- Package
+rows:
+- cplid: CPL-TRN-NPN-SOT23
+  title: General Purpose Transistor
+  description: ""
+  extravals:
+    Package: SOT-23-3
+    Polarity: NPN
+  parts:
+  - uid: 52cd9bc202508d0a
+    ppid: "357883"
+    manufacturer: Fairchild Semiconductor
+    mpn: MMBT3904
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/12638101/image/Fairchild-Semiconductor-MMBT3904.jpg
+    footprinturl: http://www.snapeda.com/parts/MMBT3904/Fairchild%20Semiconductor/view-part/
+    note: ""
+  - uid: 0bb6c2bc2200d471
+    ppid: "3280"
+    manufacturer: ON Semiconductor
+    mpn: MMBT3904LT1G
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21353726/image/ON-Semiconductor-MMBT3904LT1G.jpg
+    footprinturl: http://www.snapeda.com/parts/MMBT3904LT1G/ON%20Semiconductor/view-part/
+    note: ""
+  - uid: 7b23b3eb610ba4e4
+    ppid: "29507406"
+    manufacturer: JCET
+    mpn: S9013
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/S9013/JCET/view-part/
+    note: ""
+- cplid: CPL-TRN-PNP-SOT23
+  title: General Purpose Transistor
+  description: ""
+  extravals:
+    Package: SOT-23-3
+    Polarity: PNP
+  parts:
+  - uid: 14a9dda647c4cb6e
+    ppid: "357899"
+    manufacturer: Fairchild Semiconductor
+    mpn: MMBT3906
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/12638101/image/Fairchild-Semiconductor-MMBT3904.jpg
+    footprinturl: http://www.snapeda.com/parts/MMBT3906/Fairchild%20Semiconductor/view-part/
+    note: ""
+  - uid: 501599966bf58fd2
+    ppid: "8986246"
+    manufacturer: ON Semiconductor
+    mpn: MMBT3906LT1G
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21353726/image/ON-Semiconductor-MMBT3904LT1G.jpg
+    footprinturl: http://www.snapeda.com/parts/MMBT3906LT1G/ON%20Semiconductor/view-part/
+    note: ""
+  - uid: 482785411a4a97e0
+    ppid: "74217227"
+    manufacturer: Seeed Studio
+    mpn: S8550
+    externalurl: ""
+    imageurl: images/cpl/part_images/76f3b0c56a133634fef862f21fbf3580.jpg
+    footprinturl: http://www.snapeda.com/parts/S8550/Seeed%20Studio/view-part/
+    note: ""
+- cplid: CPL-TRN-NFET-SOT23
+  title: 'Logic Level FET '
+  description: ""
+  extravals:
+    Package: SOT-23-3
+    Polarity: N-Channel
+  parts:
+  - uid: 2868e1aa5c2af7af
+    ppid: "13127972"
+    manufacturer: Fairchild Semiconductor
+    mpn: BSS138
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21353726/image/Fairchild-Semiconductor-BSS138.jpg
+    footprinturl: http://www.snapeda.com/parts/BSS138/Fairchild%20Semiconductor/view-part/
+    note: ""
+  - uid: 5ce8957da706832f
+    ppid: "10477192"
+    manufacturer: NXP
+    mpn: 2N7002,215
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/#REF!/#REF!/view-part/
+    note: ""
+  - uid: 5bc5903d7e038402
+    ppid: "49414304"
+    manufacturer: JCET
+    mpn: CJ2302
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/CJ2302/JCET/view-part/
+    note: ""
+- cplid: CPL-TRN-PFET-SOT23
+  title: 'Logic Level FET '
+  description: ""
+  extravals:
+    Package: SOT-23-3
+    Polarity: P-Channel
+  parts:
+  - uid: bb777278be2864b0
+    ppid: "335929"
+    manufacturer: Fairchild Semiconductor
+    mpn: BSS84
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21353726/image/Fairchild-Semiconductor-BSS138.jpg
+    footprinturl: http://www.snapeda.com/parts/BSS84/Fairchild%20Semiconductor/view-part/
+    note: ""
+  - uid: f8ac31a3fdf2276b
+    ppid: "335928"
+    manufacturer: ON Semiconductor
+    mpn: BSS84LT1G
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21353726/image/ON-Semiconductor-MMBT3904LT1G.jpg
+    footprinturl: http://www.snapeda.com/parts/2N7002,215/NXP/view-part/
+    note: ""
+  - uid: 303ffbc715f8eff8
+    ppid: "49414305"
+    manufacturer: JCET
+    mpn: CJ2305
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/CJ2305/JCET/view-part/
+    note: ""
+- cplid: CPL-TRN-NFET-DIP
+  title: DIP MOSFET N-CH
+  description: ""
+  extravals:
+    Package: DIP
+    Polarity: N-Channel
+  parts:
+  - uid: 6c7ba571dfa3b3bc
+    ppid: "38590"
+    manufacturer: International Rectifier
+    mpn: IRF520NPBF
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/IRF520NPBF/International%20Rectifier/view-part/
+    note: ""
+- cplid: CPL-TRN-NFET-POWER
+  title: 'Power MOSFET '
+  description: ""
+  extravals:
+    Package: DPAK
+    Polarity: N-Channel
+  parts:
+  - uid: cfcd06c2ce76100a
+    ppid: "337117"
+    manufacturer: Fairchild Semiconductor
+    mpn: FQD13N06LTM
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/32099338/image/Fairchild-Semiconductor-FQD13N06LTM.jpg
+    footprinturl: http://www.snapeda.com/parts/FQD13N06LTM/Fairchild%20Semiconductor/view-part/
+    note: ""
+  - uid: 1be7d2e1d983c420
+    ppid: "845570"
+    manufacturer: ON Semiconductor
+    mpn: NTD3055L104G
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/14041628/image/ON-Semiconductor-NTD3055L104G.jpg
+    footprinturl: http://www.snapeda.com/parts/BSS84LT1G/ON%20Semiconductor/view-part/
+    note: ""
+- cplid: CPL-TRN-PFET-POWER
+  title: Power MOSFET
+  description: ""
+  extravals:
+    Package: SOT-23
+    Polarity: P-Channel
+  parts:
+  - uid: a7d16edea02a7816
+    ppid: "336541"
+    manufacturer: Fairchild Semiconductor
+    mpn: FDN340P
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/FDN340P/Fairchild%20Semiconductor/view-part/
+    note: ""
+  - uid: b06478576e8e6fa3
+    ppid: "20577164"
+    manufacturer: Toshiba
+    mpn: SSM3J328R,LF
+    externalurl: ""
+    imageurl: images/cpl/part_images/01f23db859bab85d60b0c8ae505531bf.jpg
+    footprinturl: http://www.snapeda.com/parts/NTD3055L104G/ON%20Semiconductor/view-part/
+    note: ""
+  - uid: 526f981c20608da8
+    ppid: "58283881"
+    manufacturer: JCET
+    mpn: NCE3407A
+    externalurl: ""
+    imageurl: images/cpl/part_images/76334c5d371f9fcae9faa6e781361602.jpg
+    footprinturl: http://www.snapeda.com/parts/NCE3407A/JCET/view-part/
+    note: ""

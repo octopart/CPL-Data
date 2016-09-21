@@ -1,0 +1,221 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1289662321"
+position: 2
+name: Sensors
+cleanname: Sensors
+description: "Allow a connected device to interact with the environment while maintaining
+  a small, efficient package. \nSee [Introduction to interfaces on The Ben Heck Show](https://www.youtube.com/watch?v=nMZJwspSkAc)
+  and read about [trade-offs between SPI and I2C](http://electronics.stackexchange.com/questions/29037/tradeoffs-when-considering-spi-or-i2c). "
+extracols: []
+rows:
+- cplid: CPL-SEN-ACCEL-BREAKOUT
+  title: 'Analog Accelerometer: ADXL335'
+  description: "A good way to get started with accelerometers, this board can gives
+    +-3g output. \nFor the digital equivalent, check out [ADXL345 breakout](https://www.adafruit.com/products/1231)
+    which can measure upto +-16g. "
+  extravals: {}
+  parts:
+  - uid: eec52638fda03102
+    ppid: "32978435"
+    manufacturer: Adafruit
+    mpn: ADA163
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/20367890/image/Adafruit-Industries-ADA163.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-IMU-SIXDEG
+  title: 'Inertial Measurement Unit (IMU) (6 deg of freedom) '
+  description: "For motion processing. Has Invensense's MPU-6050, it has six degrees
+    of freedom with 3-axis accelerometer and 3-axis gyroscope. \nGo to this [forum](http://www.i2cdevlib.com/forums/forum/2-mpu-6050-6-axis-accelerometergyroscope-invensense)
+    for great info on starting with this board. \nAnother great source of info on
+    the Invensense IMU's is this [post](https://github.com/kriswiner/MPU-6050/wiki/Affordable-9-DoF-Sensor-Fusion). "
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Kootek
+    mpn: ""
+    externalurl: http://www.amazon.com/dp/B008BOPN40/?tag=octopart00-20
+    imageurl: images/cpl/part_images/dfe464170c9264941ba0ea692fbaf099.jpg
+    footprinturl: ""
+    note: ""
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: SEN-11028
+    externalurl: https://www.SparkFun.com/products/11028
+    imageurl: images/cpl/part_images/ce888e2f6daa08bced55b5c910c7066c.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-IMU-NINEDEG
+  title: 'Inertial Measurement Unit (IMU) (9 deg of freedom) '
+  description: "For motion processing. Has Invensense's MPU-9150, it has nine degrees
+    of freedom with 3-axis accelerometer, 3-axis gyroscope and 3-axis magnetometer.
+    \nGet started with MPU-9150 [here](https://learn.SparkFun.com/tutorials/mpu-9150-hookup-guide?_ga=1.62880620.1531078611.1433242224). "
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: SPU-11486
+    externalurl: https://www.sparkfun.com/products/11486
+    imageurl: images/cpl/part_images/9d7c9882056ac3f527140d770bed2ec7.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-THERM-THT
+  title: Temperature Sensor
+  description: 'Popular analog temperature sensor for breadboards. '
+  extravals: {}
+  parts:
+  - uid: 41b788bc0f4b9e70
+    ppid: "93082"
+    manufacturer: Analog Devices
+    mpn: TMP36GT9Z
+    externalurl: ""
+    imageurl: images/cpl/part_images/ae7fb61c3c9b713e613fa506e8401688.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-PHOTORESISTOR
+  title: Photo resistor
+  description: The resistance decreases with more light, so hook it up as a resistor
+    divider to sense light.
+  extravals: {}
+  parts:
+  - uid: f9f6313260b42631
+    ppid: "30325796"
+    manufacturer: Adafruit
+    mpn: ADA161
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-PROXIMITY-IR
+  title: Proximity Sensor
+  description: 'Measure distances within 4cm to 30cm. Needs a [3-pin JST wire](https://www.adafruit.com/products/2566). '
+  extravals: {}
+  parts:
+  - uid: b0047b8d67cb6fc3
+    ppid: "42201769"
+    manufacturer: Sharp
+    mpn: GP2Y0A41SK0F
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/17619408/image/Sharp-Microelectronics-GP2Y0A41SK0F.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-HALL-THT
+  title: Hall Effect Sensor
+  description: 'Provides a voltage output proportional to applied magnetic field. '
+  extravals: {}
+  parts:
+  - uid: 7325bb18b4f3ace2
+    ppid: "20439728"
+    manufacturer: Allegro
+    mpn: A1324LUA-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10054022/image/Allegro-A1324LUA-T.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-PRESSURE
+  title: Pressure/Altitude/Temperature Sensor
+  description: "The MPL3115A2 chip measures the barometric pressure and altitude.
+    Compared to BMP180, it is much easier to read altitude as no calibration is required.
+    \  \nA bonus feature is the temperature reading with ±1% accuracy."
+  extravals: {}
+  parts:
+  - uid: f2a93958cee52d6e
+    ppid: "50010410"
+    manufacturer: Adafruit
+    mpn: ADA1893
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/60593273/image/Adafruit-Industries-1893.jpg
+    footprinturl: ""
+    note: ""
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: SEN-11084
+    externalurl: https://www.SparkFun.com/products/11084
+    imageurl: images/cpl/part_images/4b8a75770732d30d15c3cffd674497ea.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-IR
+  title: 'IR sensor '
+  description: "The sensor is tuned to 38kHz, perfect for receiving commands from
+    a TV remote control. \nGet started with this [tutorial](https://learn.adafruit.com/ir-sensor?view=all). "
+  extravals: {}
+  parts:
+  - uid: 0b79c2271f9ed4be
+    ppid: "5517697"
+    manufacturer: 'Vishay '
+    mpn: TSOP38238
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/23715226/image/Vishay-TSOP38238.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-HUMID-BREAKOUT
+  title: Humidity and Temperature Sensor
+  description: 'Has the HTU21D-F chip which is a I2C digital humidity sensor. '
+  extravals: {}
+  parts:
+  - uid: 1e41d4610717c186
+    ppid: "53099568"
+    manufacturer: Adafruit
+    mpn: ADA1899
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/26654338/image/Adafruit-Industries-ADA1899.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-TOUCH
+  title: Capacitive Touch Sensor Breakout - MPR121
+  description: "Based off the Freescale's MPR121QR2 chip, it is driven by the I2C
+    interface. Build a touch-based [Drum Machine](https://learn.adafruit.com/capacitive-touch-drum-machine?view=all)
+    with this board.   \n"
+  extravals: {}
+  parts:
+  - uid: 5b93906267db8454
+    ppid: "50010414"
+    manufacturer: Adafruit
+    mpn: ADA1982
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/27731246/image/Adafruit-Industries-ADA1982.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-HUMID-DIP
+  title: Temperature-Humidity Sensor- DIP
+  description: ""
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Aosong
+    mpn: DHT11
+    externalurl: http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=215
+    imageurl: images/cpl/part_images/6dd43adf3cf807a50f885057753a1c57.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-PIEZO
+  title: Piezo Vibration Sensor-DIP
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 4a2182e4147595e6
+    ppid: "30374706"
+    manufacturer: Measurement Specialties
+    mpn: "1002794"
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/17612228/image/Measurement-Specialties-1002794.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SEN-UV
+  title: UV Sensor
+  description: ""
+  extravals: {}
+  parts:
+  - uid: d4051ea5a0680bc2
+    ppid: "61493515"
+    manufacturer: Genicom
+    mpn: GUVA-S12SD
+    externalurl: ""
+    imageurl: images/cpl/part_images/d3d13394f3d2a33f64d1ebfb15207bf1.jpg
+    footprinturl: ""
+    note: ""

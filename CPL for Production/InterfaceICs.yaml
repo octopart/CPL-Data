@@ -1,0 +1,170 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "1651053582"
+position: 0
+name: Interface ICs
+cleanname: InterfaceICs
+description: 'Provide USB, WiFi, Bluetooth, and other interfaces to connected devices. '
+extracols: []
+rows:
+- cplid: CPL-IIC-USB-UART
+  title: USB to Serial UART Interface
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 4f3d8713e14e90fa
+    ppid: "19172117"
+    manufacturer: FTDI
+    mpn: FT232RL-REEL
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/13692137/image/FTDI-FT232RL-REEL.jpg
+    footprinturl: http://www.snapeda.com/parts/FT232RL-REEL/FTDI/view-part/
+    note: ""
+- cplid: CPL-IIC-ETHERNET-W5500
+  title: Ethernet Controller
+  description: 'Works with the WIZ Ethernet Library for Arduino, the W5500 is newer,
+    cheaper, and more powerful than the W5100 used on the Arduino Ethernet Shield. '
+  extravals: {}
+  parts:
+  - uid: 3153f98fcfbdee94
+    ppid: "30858120"
+    manufacturer: WIZnet
+    mpn: W5500
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/17612562/image/WIZnet-W5500.jpg
+    footprinturl: http://www.snapeda.com/parts/W5500/WIZnet/view-part/
+    note: ""
+- cplid: CPL-IIC-RS232
+  title: MAX232 RS-232 Driver/Receiver
+  description: ""
+  extravals: {}
+  parts:
+  - uid: c77d0e70449118ba
+    ppid: "501386"
+    manufacturer: Texas Instruments
+    mpn: MAX232D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31319312/image/Texas-Instruments-MAX232D.jpg
+    footprinturl: http://www.snapeda.com/parts/MAX232D/Texas%20Instruments/view-part/
+    note: ""
+- cplid: CPL-IIC-BLE-CC2540-NRF8001-BLE112
+  title: Bluetooth 4.0 low energy (BLE) module
+  description: "Note: these parts are not drop-in-compatible  \n"
+  extravals: {}
+  parts:
+  - uid: fc033449d1a323c4
+    ppid: "20973766"
+    manufacturer: Nordic
+    mpn: NRF8001-R2Q32-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/23749223/image/Nordic-Semiconductor-NRF8001-R2Q32-T.jpg
+    footprinturl: http://www.snapeda.com/parts/NRF8001-R2Q32-T/Nordic/view-part/
+    note: ""
+  - uid: fe00363ed9c021c7
+    ppid: "20185766"
+    manufacturer: Bluegiga
+    mpn: BLE112-A-V1
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21368064/image/Bluegiga-Technologies-BLE112-A-V1.jpg
+    footprinturl: http://www.snapeda.com/parts/BLE112-A-V1/Bluegiga/view-part/
+    note: ""
+  - uid: 9aa4528e2e594563
+    ppid: "18911643"
+    manufacturer: Texas Instruments
+    mpn: CC2540F256RHAR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31287421/image/Texas-Instruments-CC2540F256RHAR.jpg
+    footprinturl: http://www.snapeda.com/parts/CC2540F256RHAR/Texas%20Instruments/view-part/
+    note: ""
+- cplid: CPL-IIC-BLE-NRF51822
+  title: BLE system-on-chip nRF51822
+  description: 'Popular system-on-chip for 2.4 GHz Bluetooth Low Energy uses a 32-bit
+    ARM Cortex M0 MCU. '
+  extravals: {}
+  parts:
+  - uid: 6b8ba3fb76abb44c
+    ppid: "24787014"
+    manufacturer: Nordic
+    mpn: NRF51822-QFAA-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/23749220/image/Nordic-Semiconductor-NRF51822-QFAA-T.jpg
+    footprinturl: http://www.snapeda.com/parts/NRF51822-QFAA-T/Nordic/view-part/
+    note: ""
+- cplid: CPL-IIC-BLE-NRF52832
+  title: BLE system-on-chip nRF52832
+  description: 'Poweful system-on-chip for 2.4 GHz Bluetooth Low Energy uses a 32-bit
+    ARM Cortex M4F MCU. '
+  extravals: {}
+  parts:
+  - uid: 1e56d4d0c871c191
+    ppid: "59568961"
+    manufacturer: Nordic
+    mpn: NRF52832-QFAA-R
+    externalurl: ""
+    imageurl: images/cpl/part_images/f45621c4de7bf708db1d1ebf5b27aef7.jpg
+    footprinturl: http://www.snapeda.com/parts/NRF52832-QFAA-R/Nordic/view-part/
+    note: ""
+- cplid: CPL-IIC-TRANSCEIVER-NRF905
+  title: Single chip 433/868/915 MHz Transceiver
+  description: ""
+  extravals: {}
+  parts:
+  - uid: e52e2d1b1de93ae9
+    ppid: "20962721"
+    manufacturer: Nordic
+    mpn: NRF905
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/23749226/image/Nordic-Semiconductor-NRF905.jpg
+    footprinturl: http://www.snapeda.com/parts/NRF905/Nordic/view-part/
+    note: ""
+- cplid: CPL-IIC-WIFI-CC3100
+  title: CC3100 Wi-Fi Module
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 1002dbd04614cfc5
+    ppid: "47739760"
+    manufacturer: Texas Instruments
+    mpn: CC3100R11MRGC
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31287452/image/Texas-Instruments-CC3100R11MRGC.jpg
+    footprinturl: http://www.snapeda.com/parts/CC3100R11MRGC/Texas%20Instruments/view-part/
+    note: ""
+- cplid: CPL-IIC-BALUN-STM
+  title: Balun
+  description: For use with some 2.4 GHz Nordic chips.
+  extravals: {}
+  parts:
+  - uid: 5c1994b7176983de
+    ppid: "27553302"
+    manufacturer: STMicroelectronics
+    mpn: BAL-NRF01D3
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/32294336/image/STMicroelectronics-BAL-NRF01D3.png
+    footprinturl: http://www.snapeda.com/parts/BAL-NRF01D3/STMicroelectronics/view-part/
+    note: ""
+- cplid: CPL-IIC-ANTENNA-TAIYO
+  title: 'Chip antenna '
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 668eaf24c24eb949
+    ppid: "10518950"
+    manufacturer: Taiyo Yuden
+    mpn: AH316M245001-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/12774739/image/Taiyo-Yuden-AH316M245001-T.jpg
+    footprinturl: http://www.snapeda.com/parts/AH316M245001-T/Taiyo%20Yuden/view-part/
+    note: ""
+- cplid: CPL-IIC-AUDIO-CODEC
+  title: Audio Codec
+  description: Low power I2S-based stereo codec with headphone amp.
+  extravals: {}
+  parts:
+  - uid: 9b5152e603064496
+    ppid: "12434737"
+    manufacturer: Freescale Semiconductor
+    mpn: SGTL5000XNAA3
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21365270/image/Freescale-Semiconductor-SGTL5000XNAA3.jpg
+    footprinturl: http://www.snapeda.com/parts/SGTL5000XNAA3/Freescale%20Semiconductor/view-part/
+    note: ""

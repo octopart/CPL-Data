@@ -1,0 +1,61 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1772524772"
+position: 23
+name: Switches/Buttons
+cleanname: SwitchesButtons
+description: 'Commonly used buttons in a variety of forms. '
+extracols: []
+rows:
+- cplid: CPL-SWT-ENCODER-ROTARY
+  title: Rotary Encoder with Push-Button
+  description: 'This encoder has quadrature output and comes with 24 pulses per revolution. '
+  extravals: {}
+  parts:
+  - uid: f33f3ba348bc2cf8
+    ppid: "26648293"
+    manufacturer: Bourns
+    mpn: PEC11R-4215F-S0024
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SWT-TACT-6MM
+  title: Tactile Button Switch (6mm) Single
+  description: ""
+  extravals: {}
+  parts:
+  - uid: c5330c39ec781af4
+    ppid: "3117"
+    manufacturer: Omron
+    mpn: B3F-1000
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SWT-TACT--6MM-PACK
+  title: Tactile Button Switch (6mm) x 20 pack
+  description: "Handy to have a few of them around! \nFor a colorful square top, check
+    out [this](http://www.adafruit.com/products/1010) pack. "
+  extravals: {}
+  parts:
+  - uid: 51c19957a34d8e06
+    ppid: "27056106"
+    manufacturer: Adafruit
+    mpn: ADA367
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-SWT-SLIDE
+  title: 'Slide Switch '
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 9a5a5340a2f5459d
+    ppid: "1056201"
+    manufacturer: E-switch
+    mpn: EG1218
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""

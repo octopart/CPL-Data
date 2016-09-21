@@ -1,0 +1,132 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "529342826"
+position: 18
+name: Transistors
+cleanname: Transistors
+description: "These common BJTs and FETs are used for small signal switching and amplification.\nPower
+  transistors can be used to drive high currents. "
+extracols:
+- Polarity
+- Breakdown Voltage
+- Current Rating
+- Package
+rows:
+- cplid: CPL-TRN-NPN-40V-1A-THT
+  title: General Purpose Transistor
+  description: Pin-out of Emitter, Base and Collector (EBC)
+  extravals:
+    Breakdown Voltage: 40 V
+    Current Rating: 1 A
+    Package: TO-92-3
+    Polarity: NPN
+  parts:
+  - uid: 036ec92909ffdca9
+    ppid: "55390199"
+    manufacturer: Fairchild Semiconductor
+    mpn: PN2222ABU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10111582/image/Fairchild-Semiconductor-PN2222ABU..jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TRN-PNP-60V-0.8A-THT
+  title: General Purpose Transistor
+  description: "Pin-out of Emitter, Base and Collector (EBC)  \nComplement of PN2222"
+  extravals:
+    Breakdown Voltage: 60 V
+    Current Rating: 0.8 A
+    Package: TO-92-3
+    Polarity: PNP
+  parts:
+  - uid: 105cd9534f5bcf9b
+    ppid: "359009"
+    manufacturer: Fairchild Semiconductor
+    mpn: PN2907ABU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5270320/image/Fairchild-PN2907ABU..jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TRN-NPN-60V-5A-THT
+  title: Darlington High Power Transistor
+  description: Pin-out of Base, Collector and Emitter (BCE)
+  extravals:
+    Breakdown Voltage: 60 V
+    Current Rating: 5 A
+    Package: TO-220-3
+    Polarity: NPN
+  parts:
+  - uid: 3d84f48b638ce243
+    ppid: "359278"
+    manufacturer: Fairchild Semiconductor
+    mpn: TIP120
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21381029/image/Fairchild-Semiconductor-TIP120.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TRN-PNP-60V-5A-THT
+  title: Darlington High Power Transistor
+  description: "Pin-out of Base, Collector and Emitter (BCE).  \nComplement of TIP120"
+  extravals:
+    Breakdown Voltage: 60 V
+    Current Rating: 5 A
+    Package: TO-220-3
+    Polarity: PNP
+  parts:
+  - uid: b3b77a75c7ff6c70
+    ppid: "13127982"
+    manufacturer: Fairchild Semiconductor
+    mpn: TIP125
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21381029/image/Fairchild-Semiconductor-TIP125.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TRN-NFET-60V-0.4A-THT
+  title: Logic Level FET
+  description: Pin-out of Source, Gate and Drain (SGD)
+  extravals:
+    Breakdown Voltage: 60 V
+    Current Rating: 0.2 A
+    Package: TO-92-3
+    Polarity: N-Channel
+  parts:
+  - uid: 8e3d447a8a0451fa
+    ppid: "55386463"
+    manufacturer: Fairchild Semiconductor
+    mpn: 2N7000
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9878092/image/Fairchild-Semiconductor-2N7000..jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TRN-PFET-60V-0.4A-THT
+  title: Logic Level FET
+  description: Pin-out of Source, Gate and Drain (SGD)
+  extravals:
+    Breakdown Voltage: 60 V
+    Current Rating: 0.16 A
+    Package: TO-92-3
+    Polarity: P-Channel
+  parts:
+  - uid: 0029c99057abdfee
+    ppid: "11760356"
+    manufacturer: 'Diodes Inc. '
+    mpn: ZVP3306A
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/503592/image/Diodes-Inc.-ZVP3306A.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TRN-NFET-60V-11A-THT
+  title: Power MOSFET
+  description: Pin-out of Gate, Drain and Source (GDS)
+  extravals:
+    Breakdown Voltage: 60 V
+    Current Rating: 11 A
+    Package: TO-251AA
+    Polarity: N-Channel
+  parts:
+  - uid: 341afd153781ebdd
+    ppid: "337661"
+    manufacturer: Fairchild Semiconductor
+    mpn: FQU13N06LTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/500624/image/Fairchild-Semiconductor-FQU13N06LTU.jpg
+    footprinturl: ""
+    note: ""

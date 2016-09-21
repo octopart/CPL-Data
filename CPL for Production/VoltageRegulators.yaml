@@ -1,0 +1,234 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "2017581315"
+position: 3
+name: Voltage Regulators
+cleanname: VoltageRegulators
+description: Provide constant output voltage from a higher input voltage.
+extracols:
+- Output Voltage
+- Max Current
+- Package
+rows:
+- cplid: CPL-REG-LIN-5V-1.5A
+  title: Linear Regulator (7805)
+  description: "Easy-to-use linear regulator that requires very few external components.
+    These features come at the expense of a higher dropout voltage and lower efficiency.
+    \n\n"
+  extravals:
+    Max Current: 1.5 A
+    Output Voltage: 5 V
+    Package: D2PAK-3
+  parts:
+  - uid: 8e334731adec51f4
+    ppid: "526009"
+    manufacturer: Texas Instruments
+    mpn: UA7805CKTTR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9873833/image/Texas-Instruments-UA7805CKTTR.jpg
+    footprinturl: http://www.snapeda.com/parts/UA7805CKTTR/Texas%20Instruments/view-part/
+    note: ""
+  - uid: f79c3e22e39f285b
+    ppid: "11809125"
+    manufacturer: On Semiconductor
+    mpn: MC7805ACD2TG
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/180055/image/ON-Semiconductor-MC7805ACD2TG.jpg
+    footprinturl: http://www.snapeda.com/parts/MC7805ACD2TG/On%20Semiconductor/view-part/
+    note: ""
+  - uid: 92bf5bbda4854d78
+    ppid: "529244"
+    manufacturer: STMicroelectronics
+    mpn: L7805ACD2T-TR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/8473611/image/STMicroelectronics-L7805ACD2T-TR.jpg
+    footprinturl: http://www.snapeda.com/parts/L7805ACD2T-TR/STMicroelectronics/view-part/
+    note: ""
+- cplid: CPL-REG-LIN-VAR-1.2V-37V-1.5A
+  title: Linear Regulator with Adjustable Output
+  description: 'Popular through-hole adjustable voltage regulator. '
+  extravals:
+    Max Current: 1.5 A
+    Output Voltage: 1.2 V to 37 V
+    Package: TO-220
+  parts:
+  - uid: 5d6596337ffd82a2
+    ppid: "39585790"
+    manufacturer: STMicroelectronics
+    mpn: LM317T
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21470052/image/STMicroelectronics-LM317-T.jpg
+    footprinturl: http://www.snapeda.com/parts/LM317T/STMicroelectronics/view-part/
+    note: ""
+- cplid: CPL-REG-LIN-3.3V-1A
+  title: Linear Regulator (Low Dropout)
+  description: |+
+    Low dropout, efficient linear regulator suitable for regulation after an AC/DC converter, switching DC converter, or battery powered application when up to 1 A output current is required.
+
+  extravals:
+    Max Current: 1 A
+    Output Voltage: 3.3 V
+    Package: SOT-223
+  parts:
+  - uid: bd45744791576282
+    ppid: "526708"
+    manufacturer: STMicroelectronics
+    mpn: LD1117S33TR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/174101/image/STMicroelectronics-LD1117S50TR.jpg
+    footprinturl: http://www.snapeda.com/parts/LD1117S33TR/STMicroelectronics/view-part/
+    note: ""
+  - uid: d9f310f1ca900634
+    ppid: "538117"
+    manufacturer: On Semiconductor
+    mpn: NCP1117ST33T3G
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/174101/image/Texas-Instruments-LMS8117AMP-3.3-NOPB.jpg
+    footprinturl: http://www.snapeda.com/parts/NCP1117ST33T3G/On%20Semiconductor/view-part/
+    note: ""
+  - uid: dc7914b1c65303be
+    ppid: "29507404"
+    manufacturer: JCET
+    mpn: CJT1117-3.3
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/31361150/image/JCET-CJT1117-3.3.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-REG-LIN-5V-1A
+  title: Linear Regulator (Low Dropout)
+  description: |+
+    Low dropout, efficient linear regulator suitable for regulation after an AC/DC converter, switching DC converter, or battery powered application when up to 800 mA to 1 A output current is required.
+
+  extravals:
+    Max Current: 800 mA to 1 A
+    Output Voltage: 5 V
+    Package: SOT-223
+  parts:
+  - uid: 1ca3d5a12a36c364
+    ppid: "529395"
+    manufacturer: STMicroelectronics
+    mpn: LD1117S50TR
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/34946280/image/STMicroelectronics-LD1117S50TR.jpg
+    footprinturl: http://www.snapeda.com/parts/LD1117S50TR/STMicroelectronics/view-part/
+    note: ""
+  - uid: 8b264224984754e1
+    ppid: "538119"
+    manufacturer: On Semiconductor
+    mpn: NCP1117ST50T3G
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/174101/image/Texas-Instruments-LMS8117AMP-3.3-NOPB.jpg
+    footprinturl: http://www.snapeda.com/parts/NCP1117ST50T3G/On%20Semiconductor/view-part/
+    note: ""
+  - uid: 9bd0531881fb4417
+    ppid: "29507405"
+    manufacturer: JCET
+    mpn: CJT1117-5.0
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/31361155/image/JCET-CJT1117-5.0.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-REG-LIN-3.3V-0.15A
+  title: Low Power Linear Voltage Regulator
+  description: |+
+    Very low dropout linear regulator suitable for portable, battery connected applications when up to 150 mA output current is required.
+
+  extravals:
+    Max Current: 150 mA
+    Output Voltage: 3.3 V
+    Package: SOT-23-5
+  parts:
+  - uid: f95e305cd9772699
+    ppid: "525647"
+    manufacturer: Texas Instruments
+    mpn: LP2985-33DBVR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9873486/image/Texas-Instruments-LP2985-33DBVR.jpg
+    footprinturl: http://www.snapeda.com/parts/LP2985-33DBVR/Texas%20Instruments/view-part/
+    note: ""
+- cplid: CPL-REG-LIN-5V-0.15A
+  title: Low Power Linear Voltage Regulator
+  description: "Very low dropout linear regulator suitable for portable, battery connected
+    applications when up to 150 mA output current is required. \n\n"
+  extravals:
+    Max Current: 150 mA
+    Output Voltage: 5 V
+    Package: SOT-23-5
+  parts:
+  - uid: 6b90a292485fb457
+    ppid: "525993"
+    manufacturer: Texas Instruments
+    mpn: LP2985-50DBVR
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9873486/image/Texas-Instruments-LP2985-33DBVR.jpg
+    footprinturl: http://www.snapeda.com/parts/LP2985-50DBVR/Texas%20Instruments/view-part/
+    note: ""
+- cplid: CPL-REG-SWI-VAR-0.8V-17V-1A
+  title: Step-Down Switching Voltage Regulator (Buck)
+  description: "This switching regulator provides greater efficiency than linear regulators
+    but requires more external components and more careful PCB layout.  Note: these
+    parts are not drop-in-compatible  \n"
+  extravals:
+    Max Current: 1 A
+    Output Voltage: 0.8 V to 17 V
+    Package: TSOT-23
+  parts:
+  - uid: 868a4eb94522594d
+    ppid: "20571854"
+    manufacturer: Texas Instruments
+    mpn: LMR12010YMKE/NOPB
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10050688/image/Texas-Instruments-LMR12010YMKE-NOPB.jpg
+    footprinturl: http://www.snapeda.com/parts/LMR12010YMKE/NOPB/Texas%20Instruments/view-part/
+    note: ""
+  - uid: d61d1cbd279009da
+    ppid: "61527275"
+    manufacturer: Monolithic Power Systems
+    mpn: MP1496DJ
+    externalurl: ""
+    imageurl: images/cpl/part_images/ec16c5cd308c0fcf42845044c50ffa0a.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-REG-SWI-VAR-0.6V-4.5V-1A
+  title: Step-Down Switching Voltage Regulator (Buck)
+  description: "This regulator has a smaller working input and output voltage range
+    than the above regulator, but the cost is lower. It still provides greater efficiency
+    than linear regulators but requires more external components and more careful
+    PCB layout. Note: these parts are not drop-in-compatible  \n"
+  extravals:
+    Max Current: 1 A
+    Output Voltage: 0.6 V to 4.5 V
+    Package: SOT-23
+  parts:
+  - uid: 91105926e1334ed7
+    ppid: "20731205"
+    manufacturer: Texas Instruments
+    mpn: LMR10510YMFE/NOPB
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31314412/image/Texas-Instruments-LMR10510YMFE-NOPB.jpg
+    footprinturl: http://www.snapeda.com/parts/LMR10510YMFE/NOPB/Texas%20Instruments/view-part/
+    note: ""
+  - uid: 539c9efa1f4b8c5b
+    ppid: "74213809"
+    manufacturer: ETA
+    mpn: ETA3406S2F-T
+    externalurl: ""
+    imageurl: images/cpl/part_images/67853b8a990a80b983831a3025a075e7.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-REG-SWI-5V-3A
+  title: Step-Down Switching Voltage Regulator (Buck)
+  description: 'This frequently used and widely available regulator has a fixed voltage
+    output of 5 V, requires few external components, and easy to use in designs.  '
+  extravals:
+    Max Current: 3.0 A
+    Output Voltage: 5.0 V
+    Package: D2PAK-5
+  parts:
+  - uid: d4701d7597940bb7
+    ppid: "1009282"
+    manufacturer: Texas Instruments
+    mpn: LM2576HVS-5.0/NOPB
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31303564/image/Texas-Instruments-LM2576HVS-5.0-NOPB.jpg
+    footprinturl: http://www.snapeda.com/parts/LM2576HVS-5.0/NOPB/Texas%20Instruments/view-part/
+    note: ""

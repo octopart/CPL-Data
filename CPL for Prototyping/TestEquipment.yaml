@@ -1,0 +1,164 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "164815647"
+position: 20
+name: 'Test Equipment '
+cleanname: TestEquipment
+description: "Range of test equipments for your prototype needs including multimeters,
+  power supply units and oscilloscopes. \nSee this excellent video [How to Setup an
+  Electronics Lab by Dave Jones from EEVBlog](https://www.youtube.com/watch?v=R_PbjbRaO2E). "
+extracols: []
+rows:
+- cplid: CPL-TST-DMM-POCKET
+  title: Pocket Multimeter
+  description: "A handy multimeter which is compact and thin. No other multimeter
+    is this thin and offers such performance and safety ratings.\nNote: It cannot
+    measure current. "
+  extravals: {}
+  parts:
+  - uid: 6619af419107b9de
+    ppid: "5427832"
+    manufacturer: Amprobe
+    mpn: PM51A
+    externalurl: http://www.amazon.com/dp/B001L4E9Z6/?tag=octopart00-20
+    imageurl: http://sigma.octopart.com/29588930/image/Amprobe-PM51A.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TST-DMM-MS8268
+  title: 'Multimeter: Entry level '
+  description: "Its a great value for money. It can compete with Fluke models at just
+    fraction of the cost. \nA good option for hobbyist applications."
+  extravals: {}
+  parts:
+  - uid: d0ee18ab458b0f29
+    ppid: "21999619"
+    manufacturer: Mastech
+    mpn: MS8268
+    externalurl: http://www.amazon.com/dp/B0050LVFS0/?tag=octopart00-20
+    imageurl: images/cpl/part_images/aa59fc2a4c8061f609d1b0f0326d5c4e.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TST-DMM-EX330
+  title: 'Multimeter: Intermediate'
+  description: 'A popular choice and also the winner of the [$50 multimeter shootout
+    by Dave Jones](https://www.youtube.com/watch?v=ZoeUgMFLyAw). '
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Extech
+    mpn: EX330
+    externalurl: http://www.amazon.com/dp/B000EX0AE4/?tag=octopart00-20
+    imageurl: images/cpl/part_images/d7249e56c74b7af7ed70dbd0eb16147e.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TST-DMM-FLUKE117
+  title: 'Multimeter: High end'
+  description: 'Fluke multimeters are the best. It is True RMS and rated for industrial
+    applications. '
+  extravals: {}
+  parts:
+  - uid: 0acac3c1ff8bd50d
+    ppid: "118823"
+    manufacturer: Fluke
+    mpn: FLUKE-117
+    externalurl: http://www.amazon.com/dp/B000O3LUEI/?tag=octopart00-20
+    imageurl: images/cpl/part_images/93a0ad9930602fe3765a7c01d71ed9d7.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TST-DMM-LEADS
+  title: Multimeter Test Leads
+  description: 'A good collection of ''universal'' test leads for using with your
+    multimeter. '
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Extech
+    mpn: TL809
+    externalurl: http://www.amazon.com/dp/B0012VWUI6/?tag=octopart00-20
+    imageurl: images/cpl/part_images/271e347f3780b1d060ed0604e7df21d8.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TST-PSU-TP3005D
+  title: Power Supply Unit
+  description: "There are lot of power supplies out there, lot of them really cheap
+    but they might not be very reliable. \nThis one is a good value, it can do 0-32V
+    and a DC current of upto 5A."
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Tekpower
+    mpn: TP-3005D
+    externalurl: http://www.amazon.com/dp/B00HX0UYBK/?tag=octopart00-20
+    imageurl: images/cpl/part_images/4b057ef0515d918443373a6afaad2c68.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TST-DSO-DS1054
+  title: Digital Storage Oscilloscope
+  description: "A great entry-level oscilloscope which has 4 channels which are rated
+    at 50MHz . \n"
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Rigol
+    mpn: DS1054Z
+    externalurl: http://www.amazon.com/dp/B00N222I6C/?tag=octopart00-20
+    imageurl: images/cpl/part_images/9d8a98a207db23321509883e58d44b72.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TST-DSO-PROBES
+  title: Oscilloscope Probes
+  description: 'Popular oscilloscope and function generator probes. '
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Hantek
+    mpn: ""
+    externalurl: http://www.amazon.com/dp/B0030KWM30/?tag=octopart00-20
+    imageurl: images/cpl/part_images/1b71b4a520e5a275d0c51aaa954b03ed.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TST-LOGICANALYZER-SALEAE
+  title: Logic Analyzer- Digital/Analog
+  description: 'To debug digital signals in your project esp. for protocols and comunications
+    between two ICs. Also supports analog input on 1 channel. '
+  extravals: {}
+  parts:
+  - uid: e84e227e7f033789
+    ppid: "54178347"
+    manufacturer: Saleae
+    mpn: ADA2312
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TST-LOGICANALYZER-SEEED
+  title: Logic Analyzer-Digital
+  description: 'To debug digital signals in your project esp. for protocols and comunications
+    between two ICs. '
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Seeed Studio
+    mpn: Open Workbench Logic Sniffer
+    externalurl: http://www.seeedstudio.com/depot/preorder-open-workbench-logic-sniffer-p-612.html?cPath=75
+    imageurl: images/cpl/part_images/bc21bf42fa1a374d05989eef099841fe.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-TST-STEREOMICROSCOPE
+  title: Stereo-Microscope
+  description: 'For working with smaller components. '
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: AmScope
+    mpn: SE306R-P20
+    externalurl: http://www.amazon.com/dp/B005APM5C6/?tag=octopart00-20
+    imageurl: images/cpl/part_images/752336fd9cc09764aad39825c6e1cb31.jpg
+    footprinturl: ""
+    note: ""

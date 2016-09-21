@@ -1,0 +1,23 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1481239478"
+position: 10
+name: Relays
+cleanname: Relays
+description: 'Control lights, coffee roasters, boilers, heaters etc. with the relay
+  and a micro-controller. '
+extracols: []
+rows:
+- cplid: CPL-RLY-POWERSWITCHTAIL
+  title: Power Switch Tail II Relay
+  description: 'Recommended way to control lamps, coffee pots any electronic item
+    connected to AC voltage. '
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: COM-10747
+    externalurl: https://www.SparkFun.com/products/10747
+    imageurl: images/cpl/part_images/65485d2711ed77e16344f09a871eb511.jpg
+    footprinturl: ""
+    note: ""

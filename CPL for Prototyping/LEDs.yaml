@@ -1,0 +1,181 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "658622092"
+position: 6
+name: LEDs
+cleanname: LEDs
+description: "Included are 3mm and 5mm LEDs as well as RGB LEDs to light up your project.
+  \nTo start with LEDs, using right resistors, changing the brightness etc., check
+  this [tutorial](https://learn.adafruit.com/all-about-leds?view=all). \nLearn about
+  [LED mcd ratings](http://forum.allaboutcircuits.com/threads/led-mcd-rating-some-help-please.58531/). "
+extracols:
+- Color
+rows:
+- cplid: CPL-LED-3MM-RED
+  title: '3 mm LED: Red'
+  description: This diffused LED has a luminous intensity of 12.6 mcd, these LEDs
+    are not very bright and are good for use as indicators such as power on/off.
+  extravals:
+    Color: Red
+  parts:
+  - uid: 4ff686f40eea9031
+    ppid: "550010"
+    manufacturer: Lite-On
+    mpn: LTL-1CHE
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5284381/image/Lite-On-LTL-1CHE.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-3MM-GREEN
+  title: '3 mm LED: Green'
+  description: 'This diffused LED has a luminous Intensity of 12.6 mcd. '
+  extravals:
+    Color: Green
+  parts:
+  - uid: bd877485fc4c6240
+    ppid: "550061"
+    manufacturer: Lite-On
+    mpn: LTL-1CHG
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5233941/image/Lite-On-LTL-1CHG.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-3MM-YELLOW
+  title: '3 mm LED: Yellow'
+  description: 'This diffused LED has a luminous intensity of 40 mcd. '
+  extravals:
+    Color: Yellow
+  parts:
+  - uid: d57e1c7c94b40ab9
+    ppid: "550060"
+    manufacturer: Lite-On
+    mpn: LTL-1CHYE
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5289299/image/Lite-On-LTL-1CHYE.jpeg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-5MM-RED
+  title: '5 mm LED: Red'
+  description: "This diffused LED has a luminous intensity of 250 mcd, and are popular
+    for use in breadboards. \nIt is recommended to use resistors to limit the current
+    into LEDs so as not to damage them. 1kohm resistor could be one such choice. \n"
+  extravals:
+    Color: Red
+  parts:
+  - uid: 1647df406281c980
+    ppid: "872864"
+    manufacturer: Kingbright
+    mpn: WP7113SRD/D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/33013591/image/Kingbright-WP7113SRD-D.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-5MM-GREEN
+  title: '5 mm LED: Green'
+  description: 'This diffused LED has a luminous intensity of 40 mcd. '
+  extravals:
+    Color: Green
+  parts:
+  - uid: fea337a49ab42164
+    ppid: "868721"
+    manufacturer: Kingbright
+    mpn: WP7113SGC
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/8838473/image/Kingbright-WP7113SGD.gif
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-5MM-YELLOW
+  title: '5 mm LED: Yellow'
+  description: 'This diffused LED has a luminous intensity of 1200 mcd. '
+  extravals:
+    Color: Yellow
+  parts:
+  - uid: 7629bf2e1275a9ee
+    ppid: "868666"
+    manufacturer: Kingbright
+    mpn: WP7113SYD
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/524659/image/LED-Technology-L03R5000Q1.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-RGB-CATHODE
+  title: RGB Diffused Common Cathode
+  description: 'For common cathode LED, the pins to go high to be illuminated. The
+    4th pin goes to ground. '
+  extravals:
+    Color: RGB
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: COM-09264
+    externalurl: https://www.sparkfun.com/products/9264
+    imageurl: images/cpl/part_images/9059a26985cfea3a722325e20dad0653.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-RGB-ANODE
+  title: RGB Diffused Common Anode
+  description: 'For common anode LED, the pins need to be grounded to be illuminated.
+    The 4th pin goes to power supply. '
+  extravals:
+    Color: RGB
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: COM-10821
+    externalurl: https://www.sparkfun.com/products/10821
+    imageurl: images/cpl/part_images/9059a26985cfea3a722325e20dad0653.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-KIT
+  title: LED kits
+  description: 'A general purpose LED kit and a kit of 50 RGB LEDs. '
+  extravals:
+    Color: Multiple
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Elenco
+    mpn: LEDK-80
+    externalurl: http://www.amazon.com/dp/B005GL9ENC/?tag=octopart00-20
+    imageurl: images/cpl/part_images/68458681d8c36848fa6acb228e7c303a.jpg
+    footprinturl: ""
+    note: ""
+  - uid: ""
+    ppid: ""
+    manufacturer: Amico
+    mpn: 50 pcs RGB LEDs
+    externalurl: http://www.amazon.com/dp/B005VMDROS/?tag=octopart00-20
+    imageurl: images/cpl/part_images/5bb68e8c94852a199662a887d94dffb3.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-NEOPIXEL
+  title: 'NeoPixel Ring: WS2812 5050 RGB LED'
+  description: "They come with built-in LED driver WS2812. See this [guide](https://learn.adafruit.com/adafruit-neopixel-uberguide?view=all)
+    for using Neopixels. \nCheck out this project [NeoGeo Watch](https://learn.adafruit.com/flora-geo-watch?view=all)
+    as an example of how to use them. "
+  extravals:
+    Color: RGB
+  parts:
+  - uid: 47158cd2238b98d2
+    ppid: "47006200"
+    manufacturer: Adafruit
+    mpn: ADA1463
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/24900236/image/Adafruit-Industries-ADA1463.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-WS2812-BREAKOUT
+  title: WS2812B Breakout Board
+  description: Good for testing before moving on to control more LEDs.
+  extravals:
+    Color: RGB
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: SparkFun
+    mpn: BOB-13282
+    externalurl: https://www.sparkfun.com/products/13282
+    imageurl: images/cpl/part_images/c87945049c54f229915d397a43f18926.jpg
+    footprinturl: ""
+    note: ""

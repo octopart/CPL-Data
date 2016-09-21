@@ -1,0 +1,141 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1130657620"
+position: 25
+name: Headers
+cleanname: Headers
+description: 'Commonly used headers in variety of forms. '
+extracols: []
+rows:
+- cplid: CPL-HDR-JUMPER-0.1INCH
+  title: 'Generic Jumper (0.1") '
+  description: 'They let you short two adjacent pins together. '
+  extravals: {}
+  parts:
+  - uid: b0e57926be306f22
+    ppid: "13183923"
+    manufacturer: 3M
+    mpn: 969102-0000-DA
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+  - uid: 9cb256f589cf4375
+    ppid: "55390235"
+    manufacturer: 'FCI '
+    mpn: 68786-202LF
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-HDR-MALE-1ROW-40POS
+  title: 'Male Header 40 Position 1 Row (0.1") '
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 9fcf549f641f4008
+    ppid: "39509686"
+    manufacturer: TE Connectivity
+    mpn: 4-103741-0
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+  - uid: 1d76d475cfa3c2b1
+    ppid: "653235"
+    manufacturer: 3M
+    mpn: 2340-6111TG
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-HDR-MALE-2ROW-80POS
+  title: 'Male Header 80 Position 2 Row (0.1") '
+  description: ""
+  extravals: {}
+  parts:
+  - uid: b9bc72ec7f4b667b
+    ppid: "39510929"
+    manufacturer: TE Connectivity
+    mpn: 4-103777-0
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-HDR-MALE-1ROW-5POS-LONG
+  title: 'Male-Header 5 Position- 1 Row- Long (0.1")  '
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 3588fee8de55ea4f
+    ppid: "40554171"
+    manufacturer: FCI
+    mpn: 77311-462K05LF
+    externalurl: ""
+    imageurl: images/cpl/part_images/337bc8fc0b74ff498af90fb07cf80a1f.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-HDR-MALE-1ROW-36POS-LONG
+  title: 'Male-Header 36 Position 1 Row- Long (0.1") '
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 8a6c4362a18f55ab
+    ppid: "265861"
+    manufacturer: Sullins
+    mpn: PEC36SFCN
+    externalurl: ""
+    imageurl: images/cpl/part_images/a37cfe9d0073f16cef5d41d57b2e938a.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-HDR-FEMALE-1ROW-8POS
+  title: 'Female Header 8 Position 1 Row (0.1") '
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 03c0cace0477dc07
+    ppid: "271057"
+    manufacturer: Sullins
+    mpn: PPPC081LFBN-RC
+    externalurl: ""
+    imageurl: images/cpl/part_images/f1671e494a2e2e7850be63a9931446a3.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-HDR-FEMALE-2ROW-20POS
+  title: 'Female Header 20 Position 2 Row (0.1") '
+  description: ""
+  extravals: {}
+  parts:
+  - uid: dcfd15f3db31033a
+    ppid: "271018"
+    manufacturer: Sullins
+    mpn: PPPC102LFBN-RC
+    externalurl: ""
+    imageurl: images/cpl/part_images/994f8ebfa646aee31a1177d02b4f8bfa.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-HDR-MALE-2ROW-10POS-RIGHT
+  title: Male-Header 10 Position 2 Row (0.1") Right Angle
+  description: ""
+  extravals: {}
+  parts:
+  - uid: b957722ee7ca6690
+    ppid: "41122811"
+    manufacturer: FCI
+    mpn: 68021-210HLF
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-HDR-TESTPOINT
+  title: Test Point
+  description: ""
+  extravals: {}
+  parts:
+  - uid: c89a0190408b175d
+    ppid: "44407"
+    manufacturer: Keystone
+    mpn: "5003"
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""

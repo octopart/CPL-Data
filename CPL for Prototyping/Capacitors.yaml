@@ -1,0 +1,317 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1657490687"
+position: 15
+name: Capacitors
+cleanname: Capacitors
+description: 'A range of capacitors for timing, filtering, and noise suppression needs
+  typical in connected devices. Refer to this [article at SparkFun on capacitors](https://learn.SparkFun.com/tutorials/capacitors).
+  After that, see this detailed [guide on capacitor properties](http://analogrules.com/capacitors.html). '
+extracols:
+- Capacitance
+- Voltage Rating (DC)
+- Dielectric Material
+- Characteristic
+- Tolerance
+rows:
+- cplid: CPL-CAP-X7R-THT-10PF-200V
+  title: Capacitor 10 pF ±5% 200 V
+  description: ""
+  extravals:
+    Capacitance: 10 pF
+    Characteristic: C0G
+    Dielectric Material: Ceramic Multilayer
+    Tolerance: ±5%
+    Voltage Rating (DC): 200 V
+  parts:
+  - uid: 0f4cc64740e6d08b
+    ppid: "92876"
+    manufacturer: Kemet
+    mpn: C315C100J2G5TA
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9870703/image/Kemet-C315C100J2G5TA.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-X7R-THT-22PF-100V
+  title: Capacitor 22 pF ±10% 100 V
+  description: ""
+  extravals:
+    Capacitance: 22 pF
+    Characteristic: C0G
+    Dielectric Material: Ceramic Multilayer
+    Tolerance: ±10%
+    Voltage Rating (DC): 100 V
+  parts:
+  - uid: cc49055b2610138e
+    ppid: "1625919"
+    manufacturer: Kemet
+    mpn: C315C220K1G5TA
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9870703/image/Kemet-C315C220K1G5TA.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-X7R-THT-1NF-100V
+  title: Capacitor 1 nF ±10% 100 V
+  description: ""
+  extravals:
+    Capacitance: 1 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Tolerance: ±10%
+    Voltage Rating (DC): 100 V
+  parts:
+  - uid: a08a6bd9f99a7f4d
+    ppid: "39418998"
+    manufacturer: Kemet
+    mpn: C315C102K1R5TA
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/17598502/image/Kemet-C315C102K1R5TA.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-X7R-THT-10NF-100V
+  title: Capacitor 10 nF  ±10% 100 V
+  description: ""
+  extravals:
+    Capacitance: '10 nF '
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Tolerance: ±10%
+    Voltage Rating (DC): 100 V
+  parts:
+  - uid: 1560dc6ba5bdcaa7
+    ppid: "103867"
+    manufacturer: Kemet
+    mpn: C315C103K1R5TA
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9870703/image/Kemet-C315C103K1R5TA.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-X7R-THT-100NF-50V
+  title: Capacitor 100 nF ±10% 50 V
+  description: "A ceramic capacitor such as this is used in parallel with a 10uF or
+    larger electrolytic cap for decoupling the power supply.\nThe reason is that they
+    have lower ESR and ESL. To learn more read this [post on decoupling capacitors](http://forum.allaboutcircuits.com/threads/decoupling-or-bypass-capacitors-why.45583/). "
+  extravals:
+    Capacitance: 100 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Tolerance: ±10%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: e4d32f8040453b14
+    ppid: "39420400"
+    manufacturer: Kemet
+    mpn: C320C104K5R5TA
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/34298816/image/Kemet-C320C104K5R5TA.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-ALU-THT-2.2UF-50V
+  title: Capacitor 2.2 µF ±20% 50 V
+  description: ""
+  extravals:
+    Capacitance: 2.2 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 34eefde72110eb29
+    ppid: "209048"
+    manufacturer: Panasonic
+    mpn: ECA-1HM2R2
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10857859/image/Panasonic-ECA1HM2R2.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-ALU-THT-4.7UF-50V
+  title: Capacitor 4.7 µF ±20% 50 V
+  description: ""
+  extravals:
+    Capacitance: 4.7 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 5962906b4c9e86a5
+    ppid: "209050"
+    manufacturer: Panasonic
+    mpn: ECA-1HM4R7
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10857859/image/Panasonic-ECA1HM2R2.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-ALU-THT-10UF-50V
+  title: Capacitor 10 µF ±20% 50 V
+  description: ""
+  extravals:
+    Capacitance: 10 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 90df5a98dc304f18
+    ppid: "55404937"
+    manufacturer: Panasonic
+    mpn: ECA-1HM100
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10857859/image/Panasonic-ECA1HM2R2.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-ALU-THT-22UF-50V
+  title: Capacitor 22 µF ±20% 50V/100V
+  description: ""
+  extravals:
+    Capacitance: 22 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Tolerance: ±20%
+    Voltage Rating (DC): 50V/100V
+  parts:
+  - uid: 20b4eb7bc8f9ff73
+    ppid: "46517547"
+    manufacturer: Panasonic
+    mpn: ECA-1HM220
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21429078/image/Panasonic-ECA-1HHG100.jpg
+    footprinturl: ""
+    note: ""
+  - uid: d71c1e15c2c208db
+    ppid: "209080"
+    manufacturer: Panasonic
+    mpn: ECA-2AM220
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/34319080/image/Panasonic-ECA2AM220.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-ALU-THT-47UF-50V
+  title: Capacitor 47 µF ±20% 50V/100V
+  description: ""
+  extravals:
+    Capacitance: 47 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Tolerance: ±20%
+    Voltage Rating (DC): 50V/100V
+  parts:
+  - uid: ed3d2434f8c532fa
+    ppid: "209054"
+    manufacturer: Panasonic
+    mpn: ECA-1HM470
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21429079/image/Panasonic-ECA-1HM470.jpg
+    footprinturl: ""
+    note: ""
+  - uid: c5480c41d0941a8f
+    ppid: "209082"
+    manufacturer: Panasonic
+    mpn: ECA-2AM470
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/34319080/image/Panasonic-ECA2AM470.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-ALU-THT-100UF-50V
+  title: Capacitor 100 µF ±20% 50V/100V
+  description: ""
+  extravals:
+    Capacitance: 100 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Tolerance: ±20%
+    Voltage Rating (DC): 50V/100V
+  parts:
+  - uid: 2c75e57c398cf3b2
+    ppid: "209055"
+    manufacturer: Panasonic
+    mpn: ECA-1HM101
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9562840/image/Panasonic-ECA1HM101.jpg
+    footprinturl: ""
+    note: ""
+  - uid: f1a538ace4782e62
+    ppid: "209083"
+    manufacturer: Panasonic
+    mpn: ECA-2AM101
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/500177/image/Panasonic-ECA2AM101.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-ALU-THT-220UF-50V
+  title: Capacitor 220 µF ±20% 50 V
+  description: ""
+  extravals:
+    Capacitance: 220 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: cc4106056b541386
+    ppid: "55476851"
+    manufacturer: Panasonic
+    mpn: ECA-1HM221
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9562840/image/Panasonic-ECA-1HM221.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-ALU-THT-470UF-50V
+  title: Capacitor 470 µF ±20% 50 V
+  description: ""
+  extravals:
+    Capacitance: 470 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: de0e1707cbca01c9
+    ppid: "209058"
+    manufacturer: Panasonic
+    mpn: ECA-1HM471
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21429079/image/Panasonic-ECA-1HM471.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-ALU-THT-1000UF-25V
+  title: Capacitor 1000 µF ±20% 25 V
+  description: ""
+  extravals:
+    Capacitance: 1000 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Tolerance: ±20%
+    Voltage Rating (DC): 25 V
+  parts:
+  - uid: d1e11ba576ed0e26
+    ppid: "55476842"
+    manufacturer: Panasonic
+    mpn: ECA-1EM102
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/14425525/image/Panasonic-ECA-1EM102.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-CAP-KIT
+  title: Capacitor Kit
+  description: 'Good choice for all generic purpose applications. '
+  extravals:
+    Capacitance: Various
+    Dielectric Material: Ceramic/ Electrolytic
+    Voltage Rating (DC): 25 V
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: 'Elenco '
+    mpn: ""
+    externalurl: http://www.amazon.com/dp/B004YHZDW0/?tag=octopart00-20
+    imageurl: images/cpl/part_images/f49b9698b48e85a97f202f17cb6470d1.jpg
+    footprinturl: ""
+    note: ""
+  - uid: ""
+    ppid: ""
+    manufacturer: Futerlec
+    mpn: ""
+    externalurl: http://www.futurlec.com/ValuePacks.shtml
+    imageurl: images/cpl/part_images/1fd031b137afd05f99844f107bb2dfe6.jpg
+    footprinturl: ""
+    note: ""

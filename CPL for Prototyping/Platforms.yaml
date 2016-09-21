@@ -1,0 +1,204 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "570563601"
+position: 0
+name: Platforms
+cleanname: Platforms
+description: 'Connected device platforms speed prototyping on the hardware and software
+  side. The families of platforms below focus on different use cases and are appropriate
+  for different applications. For project ideas, check out [Hackster](https://www.hackster.io/projects?ref=topnav),
+  [Adafruit Learning System](https://learn.adafruit.com/category/projects), [Hackaday](https://hackaday.io/projects)
+  and [Makezine](http://makezine.com/projects/). Also, check out [Adafruit''s Partfinder](http://www.adafruit.com/partfinder/)
+  and [Dave Jones'' EEVblog](https://www.youtube.com/user/EEVblog) for more information
+  on part selection. '
+extracols: []
+rows:
+- cplid: CPL-PLT-ARDUINO
+  title: Arduino
+  description: "Most popular development platform. The boards differ in their processing
+    capability, input/output pins (GPIOs) and sizes. \nUno has 14 GPIOs, Mega has
+    54 GPIOs, Yun and Micro have 20 GPIOs. \nUNO is best for most applications, use
+    Mega if you want more GPIOs, Micro/Trinket for smaller size and Yun for wireless
+    connectivity. \n\nLook at this [Arduino comparison chart](https://www.arduino.cc/en/Products.Compare),
+    and this [article on buying Arduinos](http://www.tested.com/tech/robots/456466-know-your-arduino-guide-most-common-boards/).\nTo
+    get started check out these great [video tutorials by Jeremy Blum](https://www.youtube.com/playlist?list=PLA567CE235D39FA84).\nLearn
+    about [interfacing Arduino with hardware](http://playground.arduino.cc/Main/InterfacingWithHardware)
+    such as cameras, motion sensors, audio output etc. "
+  extravals: {}
+  parts:
+  - uid: aa24626d5c2275e3
+    ppid: "21222240"
+    manufacturer: Arduino
+    mpn: A000066
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21478689/image/Arduino-A000066.jpg
+    footprinturl: ""
+    note: Arduino Uno
+  - uid: f07f383c7eb42fb8
+    ppid: "21605293"
+    manufacturer: Arduino
+    mpn: A000067
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21365115/image/Arduino-A000067.jpg
+    footprinturl: ""
+    note: Arduino Mega
+  - uid: 55219dff534a8ae6
+    ppid: "30679821"
+    manufacturer: Arduino
+    mpn: A000053
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/23748592/image/Arduino-A000053.jpg
+    footprinturl: ""
+    note: Arduino Micro
+  - uid: 55219dff534a8ae6
+    ppid: "30679821"
+    manufacturer: Arduino
+    mpn: A000008
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21365094/image/Arduino-A000008.jpg
+    footprinturl: ""
+    note: Arduino Yún
+  - uid: 96215ef36a6249e6
+    ppid: "30988581"
+    manufacturer: Adafruit
+    mpn: ADA1501
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: Trinket- 5V Logic
+- cplid: CPL-PLT-RASPPI
+  title: 'Raspberry Pi '
+  description: "A Single Board Computer (SBC) which can run Linux operating system
+    and is great for processing audio/video/data. \nIncluded here is the latest Raspberry
+    Pi 2 Model B. It has 1GB RAM and 900MHz Quad-Core ARM Cortex-A7 CPU. \nIt has
+    40 GPIO pins, 4 USB pins, HDMI port, ethernet port, audio jack and SD card slot.
+    \n\nTo get started check out these [video tutorials](https://www.youtube.com/playlist?list=PLsa31gkyINsly6N_usaeHrtDPYnwxO-1Y)
+    and a [list of 10 fun projects](http://www.digitaltrends.com/computing/raspberry-pi-projects/).
+    \nAnd see how Pi can be setup as a [Wi-Fi access point](https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point?view=all).\n"
+  extravals: {}
+  parts:
+  - uid: 3d10f7220ff5e2d7
+    ppid: "54007683"
+    manufacturer: Raspberry Pi
+    mpn: ADA2358
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/27616198/image/Raspberry-Pi-RASPBERRY-MODB%2B-512M.jpg
+    footprinturl: ""
+    note: Raspberry Pi 2- Model B
+- cplid: CPL-PLT-BBB
+  title: BeagleBone Black
+  description: "A small Linux computer with 96 GPIOs that can also do many things
+    that a micro-controller can do. \nUse BBB if you want to control lots of sensors/actuators
+    while retaining a high processing ability of a Pi. \n\nTo get started check out
+    these [video tutorials](https://www.youtube.com/playlist?list=PLF4A1A7E09E5E260A).
+    \n"
+  extravals: {}
+  parts:
+  - uid: 1207d8f0fa64cdc0
+    ppid: "66964741"
+    manufacturer: BeagleBoard
+    mpn: ADA1996
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21497647/image/Circuitco-Electronics-BB-BBLK-000.jpg
+    footprinturl: ""
+    note: BeagleBone Black
+- cplid: CPL-PLT-MSP430-LAUNCHPAD
+  title: TI MSP430 Launchpad
+  description: "A popular board based off low power MSP430 chip, it can be programmed
+    with [Energia](http://energia.nu/Guide_MSP430LaunchPad.html) similar to Arduino
+    IDE.\nCheck out these [tutorials on the native Code Composer Studio](http://www.argenox.com/library/msp430/). "
+  extravals: {}
+  parts:
+  - uid: 58cd913711c8870a
+    ppid: "15756387"
+    manufacturer: Texas Instruments
+    mpn: MSP-EXP430G2
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21609216/image/Texas-Instruments-MSP-EXP430G2.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-PLT-CC3200-LAUNCHPAD
+  title: TI CC3200 Wi-Fi Launchpad
+  description: "Based off TI CC3200 module, comes with a ARM-Cortex M4 MCU with Wi-Fi
+    capability. \nYou can program the board with [Energia] (http://energia.nu/pin-maps/guide_cc3200launchpad/)
+    which is similar to Arduino IDE. \n"
+  extravals: {}
+  parts:
+  - uid: "8857439811175790"
+    ppid: "46513190"
+    manufacturer: Texas Instruments
+    mpn: CC3200-LAUNCHXL
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/26823595/image/Texas-Instruments-CC3200-LAUNCHXL.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-PLT-TESSEL
+  title: 'Tessel '
+  description: "Also has Wi-Fi capability, and carries 16GPIOs, 7 Analog Inputs, 32MB
+    Flash memory and a Cortex M0 chip running at 48MHz.  \nRefer to this [post covering
+    differences between Arduino, Pi and Tessel](https://tomlee.wtf/2013/08/14/tessel-arduino-raspberry-pi/)."
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Tessel
+    mpn: ""
+    externalurl: https://tessel.io/
+    imageurl: images/cpl/part_images/dc8b9c298f42201bc7d40e16ff0f040d.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-INT-PARTICLE-PHOTON
+  title: 'Particle Photon: Wi-Fi Development Kit'
+  description: "Particle was formerly known as Spark. This board is a sequel to the
+    popular Spark Core and is faster, better and cheaper. \nIt has STM32 ARM Cortex
+    M3 MCU and is Arduino compatible! "
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Particle
+    mpn: ""
+    externalurl: https://store.particle.io/
+    imageurl: images/cpl/part_images/a86540173d443abe82f9191ca358c862.jpg
+    footprinturl: ""
+    note: Photon
+- cplid: CPL-INT-ELECTRICIMP
+  title: 'Electric Imp: Wi-Fi Development Kit'
+  description: "Do code updates over the air and more! Instead of Arduino/C, it uses
+    Squirrel for programming, which provides a feature called 'agent'. \nRead an [intro
+    to agents here](https://electricimp.com/docs/gettingstarted/agents/) and the code
+    for a [project to count Youtube followers](http://captain-slow.dk/2013/12/29/youtube-subscriber-counter/).
+    \nYou can also check this discussion on [differences between Particle and Electric
+    Imp](https://community.particle.io/t/spark-core-vs-electric-imp/3857).\n\n"
+  extravals: {}
+  parts:
+  - uid: 522c9a982fe98deb
+    ppid: "29251747"
+    manufacturer: Electric Imp
+    mpn: IMP001-US-R-ENG
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/25092027/image/Electric-Imp-IMP001-US-R-ENG.jpg
+    footprinturl: ""
+    note: Imp Card
+  - uid: 309cf8284d5bef5b
+    ppid: "29251745"
+    manufacturer: Electric Imp
+    mpn: April
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/25092026/image/Electric-Imp-APRIL.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-INT-PARTICLE-ELECTRON
+  title: 'Particle Electron: Cellular Development Kit'
+  description: "Comes with its own SIM card and the data plan will cost about $3/month
+    for 1MB. As 2G is likely to be discontinued in US in 2017, 3G version of the board
+    ($59) is recommended.\nCheckout their Kickstarter campaign [here](https://www.kickstarter.com/projects/sparkdevices/spark-electron-cellular-dev-kit-with-a-simple-data/description). "
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Particle
+    mpn: ""
+    externalurl: https://store.particle.io/
+    imageurl: images/cpl/part_images/e9f1d0f7bc7fb01fca2435b94b909543.jpg
+    footprinturl: ""
+    note: Electron 2G

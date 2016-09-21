@@ -1,0 +1,97 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "226812208"
+position: 17
+name: Diodes
+cleanname: Diodes
+description: "A diode is an electronic component that permits current flow in only
+  one direction. Popular for use with DC-DC converters, rectifiers and motor drivers.
+  \nRead this [discussion on popular diodes](http://electronics.stackexchange.com/questions/38616/common-types-of-diodes-to-keep-around). "
+extracols:
+- Peak Repetitive Reverse Voltage
+- Maximum Forward Continuous Current
+- Forward voltage drop
+rows:
+- cplid: CPL-DIO-1N4148-THT
+  title: 1N4148 – General Purpose Fast Switching
+  description: '1N4148 is a very popular, general purpose discrete diode with high
+    switching speed (~4ns). As it is a low cost two lead part, it is widely used in
+    projects in audio, radio and digital applications. '
+  extravals:
+    Forward voltage drop: 1 V
+    Maximum Forward Continuous Current: 200 mA
+    Peak Repetitive Reverse Voltage: 100 V
+  parts:
+  - uid: ae03670d61fd71c4
+    ppid: "322200"
+    manufacturer: Fairchild Semiconductor
+    mpn: 1N4148
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9873936/image/Fairchild-Semiconductor-1N4148.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-DIO-1N4007-THT
+  title: 1N4007 – High Voltage, High Current Rated Diode
+  description: "1N400x series is great for high voltage and high current applications.
+    1N4001 diode is rated at 50V while 1N4004 is rated at 400V. \nOther than the voltage
+    ratings, all of them can be inter-changable in a schematic. But these diodes are
+    slow, 1N4148 is recommended for high speed applications. \n\n"
+  extravals:
+    Forward voltage drop: 1.1 V
+    Maximum Forward Continuous Current: 1 A
+    Peak Repetitive Reverse Voltage: 1000 V
+  parts:
+  - uid: 156bdca9a84bcaac
+    ppid: "13146182"
+    manufacturer: Fairchild Semiconductor
+    mpn: 1N4007
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10055188/image/Fairchild-Semiconductor-1N4004..jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-DIO-1N5819-THT
+  title: 1N5819 – 1A Schottky Barrier Rectifier
+  description: "For use with motor driver applications such as the L298. \n"
+  extravals:
+    Forward voltage drop: 600 mV
+    Maximum Forward Continuous Current: 1 A
+    Peak Repetitive Reverse Voltage: 40 V
+  parts:
+  - uid: a9f26030ddb67635
+    ppid: "13127970"
+    manufacturer: Fairchild Semiconductor
+    mpn: 1N5819
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/172801/image/Fairchild-1N5819.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-DIO-MBR360G-THT
+  title: MBR360G –  3A Schottky Barrier Rectifier
+  description: 'For use with high current applications such as switching voltage regulators. '
+  extravals:
+    Forward voltage drop: 740 mV
+    Maximum Forward Continuous Current: 3 A
+    Peak Repetitive Reverse Voltage: 60 V
+  parts:
+  - uid: 44928d98f97f9b55
+    ppid: "39051"
+    manufacturer: ON Semiconductor
+    mpn: MBR360G
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10057013/image/ON-Semiconductor-MBR360G.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-DIO-3.6V-ZENER
+  title: 3.6V 0.5W Zener Diode
+  description: "For use with USB communication projects. \nLearn about using [Zener
+    diode as voltage regulators](http://vlab.amrita.edu/?sub=1&brch=282&sim=1207&cnt=1).
+    The resistor choice is critical! "
+  extravals: {}
+  parts:
+  - uid: 1590dc56aebaca57
+    ppid: "13409868"
+    manufacturer: Fairchild Semiconductor
+    mpn: BZX79C3V6
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21355526/image/Fairchild-Semiconductor-BZX79C3V6.jpg
+    footprinturl: ""
+    note: ""

@@ -1,0 +1,88 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "232403170"
+position: 6
+name: Motor Drivers
+cleanname: MotorDrivers
+description: 'Control DC motors and stepper motors in a variety of modes. '
+extracols: []
+rows:
+- cplid: CPL-MDR-STEPPER
+  title: Microstepping stepper motor drivers
+  description: "Using with the 0.05Ω current sensing resistor, the reference voltage
+    can be found using the formulae below:\nFor DRV8825, the current limit (in amps)=
+    4 \\* Vref, For A4988, the current limit (in amps)= 2.5 \\* Vref. \nThis current
+    limit is 1.4 times the current in each coil in full step mode.\n\nUsing the formula,
+    we get Vref of 0.525V for DRV8825 for a full step current of 1.5A in each coil.\nAlso,
+    we get Vref of 0.56V for A4988 for a full step current of 1A in each coil.\n\nNote:
+    these parts are similar in functionality but not drop-in-compatible. They have
+    very similar interface and circuit requirements, however the package and performance
+    characteristics are different.  \n\n"
+  extravals: {}
+  parts:
+  - uid: 7d25b51cb941a2e2
+    ppid: "20177154"
+    manufacturer: Texas Instruments
+    mpn: DRV8825PWP
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31295145/image/Texas-Instruments-DRV8825PWP.jpg
+    footprinturl: http://www.snapeda.com/parts/DRV8825PWP/Texas%20Instruments/view-part/
+    note: ""
+  - uid: 058dced51fbeda4a
+    ppid: "38944597"
+    manufacturer: Allegro
+    mpn: A4988SETTR-T
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10050027/image/Allegro-MicroSystems-LLC-A4988SETTR-T.jpg
+    footprinturl: http://www.snapeda.com/parts/A4988SETTR-T/Allegro/view-part/
+    note: ""
+- cplid: CPL-MDR-HBRIDGE-BJT-1A
+  title: Dual H-Bridge motor drivers (darlington driver)
+  description: |+
+    Drive two DC motors bi-directionally with these well-known motor driver.
+
+  extravals: {}
+  parts:
+  - uid: 44ce8dc344819b09
+    ppid: "468265"
+    manufacturer: STMicroelectronics
+    mpn: L293DD
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/14044801/image/STMicroelectronics-L293DD.jpg
+    footprinturl: http://www.snapeda.com/parts/L293DD/STMicroelectronics/view-part/
+    note: ""
+  - uid: 6891a19b533ab756
+    ppid: "7885"
+    manufacturer: Texas Instruments
+    mpn: L293DNE
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31301244/image/Texas-Instruments-L293DNE.jpg
+    footprinturl: http://www.snapeda.com/parts/L293DNE/Texas%20Instruments/view-part/
+    note: ""
+- cplid: CPL-MDR-HBRIDGE-FET
+  title: Dual H-Bridge motor drivers (MOSFET driver)
+  description: |+
+    This motor driver has the same functionallity as the L293D but is a newer chip and features MOSFET drivers. This gives it higher current capacity and lower voltage drop.
+
+  extravals: {}
+  parts:
+  - uid: 7094ba9c5312af53
+    ppid: "50464480"
+    manufacturer: Toshiba
+    mpn: TB6612FNG,C,8,EL
+    externalurl: ""
+    imageurl: images/cpl/part_images/1935dcac44a8731e4bf9545397e71972.jpg
+    footprinturl: http://www.snapeda.com/parts/TB6612FNG,C,8,EL/Toshiba/view-part/
+    note: ""
+- cplid: CPL-MDR-HBRIDGE-BJT-4A
+  title: Dual H-Bridge motor driver
+  description: ""
+  extravals: {}
+  parts:
+  - uid: b6bd7fb0b73e697a
+    ppid: "468197"
+    manufacturer: STMicroelectronics
+    mpn: L298P
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/37993136/image/STMicroelectronics-L298P.jpg
+    footprinturl: http://www.snapeda.com/parts/L298P/STMicroelectronics/view-part/
+    note: ""

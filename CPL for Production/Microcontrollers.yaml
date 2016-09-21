@@ -1,0 +1,238 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "22366020"
+position: 1
+name: Microcontrollers
+cleanname: Microcontrollers
+description: 'Cover the needs of connected devices, with a variety of features and
+  capability, ranging from simple to advanced. '
+extracols:
+- Package
+rows:
+- cplid: CPL-MCU-ATMEGA328P-TQFP32
+  title: 'ATmega328 '
+  description: "Compatible with the Arduino Uno and Nano.  \n"
+  extravals:
+    Package: TQFP-32
+  parts:
+  - uid: a0c06b42fce37f07
+    ppid: "42498373"
+    manufacturer: Atmel
+    mpn: ATMEGA328P-AU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10122463/image/Atmel-ATMEGA328P-AU.jpg
+    footprinturl: http://www.snapeda.com/parts/ATMEGA328P-AU/Atmel/view-part/
+    note: ""
+- cplid: CPL-MCU-ATMEGA328P-DIP28
+  title: ATmega328
+  description: "Compatible with the Arduino Uno and Nano.  \n"
+  extravals:
+    Package: DIP
+  parts:
+  - uid: ebf22076d6c13435
+    ppid: "42866773"
+    manufacturer: Atmel
+    mpn: ATMEGA328P-PU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/17554971/image/Atmel-ATMEGA328P-PU.jpg
+    footprinturl: http://www.snapeda.com/parts/ATMEGA328P-PU/Atmel/view-part/
+    note: ""
+- cplid: CPL-MCU-ATMEGA328-VQFN32
+  title: ATmega328
+  description: ""
+  extravals:
+    Package: VQFN-32
+  parts:
+  - uid: 2bc4e04af015f403
+    ppid: "42270391"
+    manufacturer: Atmel
+    mpn: ATMEGA328P-MU
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21486399/image/Atmel-ATMEGA328P-MU.jpg
+    footprinturl: http://www.snapeda.com/parts/ATMEGA328P-MU/Atmel/view-part/
+    note: ""
+- cplid: CPL-MCU-ATMEGA1284P-TQFP40
+  title: ATmega1284P
+  description: "Popular in the 3D printer community and can be programmed with Arduino
+    code.  \n"
+  extravals:
+    Package: TQFP-40
+  parts:
+  - uid: f7d73c53cae12810
+    ppid: "42866768"
+    manufacturer: Atmel
+    mpn: ATMEGA1284P-AU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10125503/image/Atmel-ATMEGA1284P-AU.jpg
+    footprinturl: http://www.snapeda.com/parts/ATMEGA1284P-AU/Atmel/view-part/
+    note: ""
+- cplid: CPL-MCU-ATMEGA2560-TQFP100
+  title: ATmega2560
+  description: ""
+  extravals:
+    Package: TQFP-100
+  parts:
+  - uid: 56fc9d97b69e893b
+    ppid: "39961860"
+    manufacturer: Atmel
+    mpn: ATMEGA2560-16AU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/191903/image/Atmel-ATMEGA2560V8AU.jpg
+    footprinturl: http://www.snapeda.com/parts/ATMEGA2560-16AU/Atmel/view-part/
+    note: ""
+- cplid: CPL-MCU-ATMEGA16U2-QFN32
+  title: ATmega16u2
+  description: 'Handles the interface to USB  '
+  extravals:
+    Package: QFN-32
+  parts:
+  - uid: 90d659336db54f11
+    ppid: "15718405"
+    manufacturer: Atmel
+    mpn: ATMEGA16U2-MU
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/ATMEGA16U2-MU/Atmel/view-part/
+    note: ""
+- cplid: CPL-MCU-ATMEGA32U4-TQFP44
+  title: ATmega32u4
+  description: 'Natively handles USB  '
+  extravals:
+    Package: TQFP-44
+  parts:
+  - uid: ac4c65d93a75738b
+    ppid: "10466143"
+    manufacturer: Atmel
+    mpn: ATMEGA32U4-AU
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/ATMEGA32U4-AU/Atmel/view-part/
+    note: ""
+- cplid: CPL-MCU-ATTINY85-SOIC8
+  title: ATtiny85
+  description: "Small, 8-pin chip that can be programmed with the Arduino software.
+    \ \n"
+  extravals:
+    Package: SOIC
+  parts:
+  - uid: 4ed985889323911e
+    ppid: "39581852"
+    manufacturer: Atmel
+    mpn: ATTINY85-20SU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/9894679/image/Atmel-ATTINY85-20SU.jpg
+    footprinturl: http://www.snapeda.com/parts/ATTINY85-20SU/Atmel/view-part/
+    note: ""
+- cplid: CPL-MCU-ATTINY85-DIP8
+  title: ATtiny85
+  description: "Small, 8-pin chip that can be programmed with the Arduino software.
+    \ \n"
+  extravals:
+    Package: DIP
+  parts:
+  - uid: 58e29389b85f8725
+    ppid: "39962075"
+    manufacturer: Atmel
+    mpn: ATTINY85-20PU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10047968/image/Atmel-ATTINY85-20PU.jpg
+    footprinturl: http://www.snapeda.com/parts/ATTINY85-20PU/Atmel/view-part/
+    note: ""
+- cplid: CPL-MCU-ATSAMD21-TQFP48
+  title: ATSAMD21
+  description: |
+    32-bit ARM Cortext-M0+ MCU.
+  extravals:
+    Package: TQFP-48
+  parts:
+  - uid: a3a768fe99277c60
+    ppid: "39002086"
+    manufacturer: Atmel
+    mpn: ATSAMD21G18A-AU
+    externalurl: ""
+    imageurl: ""
+    footprinturl: http://www.snapeda.com/parts/ATSAMD21G18A-AU/Atmel/view-part/
+    note: ""
+- cplid: CPL-MCU-CC3200-VQFN64
+  title: CC3200
+  description: "Programmable ARM Cortex M4 microcontroller with WiFi module.  \n"
+  extravals:
+    Package: VQFN-64
+  parts:
+  - uid: 9b6c50aabcdf44ab
+    ppid: "46924501"
+    manufacturer: Texas Instruments
+    mpn: CC3200R1M2RGC
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31287453/image/Texas-Instruments-CC3200R1M2RGC.jpg
+    footprinturl: http://www.snapeda.com/parts/CC3200R1M2RGC/Texas%20Instruments/view-part/
+    note: ""
+- cplid: CPL-MCU-LPC1768-ARMM3-LQFP100
+  title: LPC1768
+  description: "ARM Cortex M3  \n"
+  extravals:
+    Package: LQFP100
+  parts:
+  - uid: 6fbba605a9fdb07c
+    ppid: "11854624"
+    manufacturer: NXP
+    mpn: LPC1768FBD100,551
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/191903/image/NXP-Semiconductors-LPC1768FBD100%2C551.jpg
+    footprinturl: http://www.snapeda.com/parts/LPC1768FBD100,551/NXP/view-part/
+    note: ""
+- cplid: CPL-MCU-STM32-ARMM4-LQFP64
+  title: STM32 F401
+  description: "ARM Cortex M4  \n"
+  extravals:
+    Package: LQFP64
+  parts:
+  - uid: 6f44a78411a7b083
+    ppid: "30038917"
+    manufacturer: STMicroelectronics
+    mpn: STM32F401RBT6
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/173795/image/STMicroelectronics-STM32F401RBT6.jpg
+    footprinturl: http://www.snapeda.com/parts/STM32F401RBT6/STMicroelectronics/view-part/
+    note: ""
+- cplid: CPL-MCU-KL25-ARMM0-QFP64
+  title: Kinetis KL25
+  description: "ARM Cortex-M0+  \n"
+  extravals:
+    Package: QFP-64
+  parts:
+  - uid: b5557d33a1b66a92
+    ppid: "23867781"
+    manufacturer: Freescale
+    mpn: MKL25Z128VLH4
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/173795/image/Freescale-Semiconductor-MKL25Z128VLH4.jpg
+    footprinturl: http://www.snapeda.com/parts/MKL25Z128VLH4/Freescale/view-part/
+    note: ""
+- cplid: CPL-MCU-PIC16F1503
+  title: PIC16F1503
+  description: ""
+  extravals:
+    Package: TSSOP-14
+  parts:
+  - uid: 6b6ea352edc3b4a9
+    ppid: "20358091"
+    manufacturer: Microchip
+    mpn: PIC16F1503-I/ST
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-MCU-MSP430-TSSOP28
+  title: MSP430
+  description: "Ultra-low-power microcontroller  \n"
+  extravals:
+    Package: TSSOP-28
+  parts:
+  - uid: 0a4ac33ecb07d58d
+    ppid: "8315947"
+    manufacturer: 'Texas Instruments '
+    mpn: MSP430F2132IPW
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31319514/image/Texas-Instruments-MSP430F2132IPW.jpg
+    footprinturl: http://www.snapeda.com/parts/MSP430F2132IPW/Texas%20Instruments/view-part/
+    note: ""

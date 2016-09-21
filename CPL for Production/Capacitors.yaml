@@ -1,0 +1,1170 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "157251660"
+position: 13
+name: Capacitors
+cleanname: Capacitors
+description: 'A range of capacitors for timing, filtering, and noise suppression needs
+  typical in connected devices. '
+extracols:
+- Capacitance
+- Voltage Rating (DC)
+- Dielectric Material
+- Characteristic
+- Tolerance
+- Size
+rows:
+- cplid: CPL-CAP-C0G-0402-1PF-50V
+  title: Capacitor 1 pF ±0.25pF 50 V 0402 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 1 pF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0402"
+    Tolerance: ±0.25pF
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 083dc3b2da2ed7fa
+    ppid: "42334069"
+    manufacturer: Yageo
+    mpn: CC0402CRNPO9BN1R0
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0402CRNPO9BN1R0/Yageo/view-part/
+    note: ""
+  - uid: 44bd8d3c10ad9b7a
+    ppid: "9138550"
+    manufacturer: Kemet
+    mpn: C0402C109C5GACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21402943/image/Kemet-C0603C109C5GACTU.jpg
+    footprinturl: http://www.snapeda.com/parts/C0402C109C5GACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-C0G-0603-1PF-50V
+  title: Capacitor 1 pF ±0.25pF 50 V 0603 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 1 pF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±0.25pF
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 227fe92f3d96fdb8
+    ppid: "39467663"
+    manufacturer: Yageo
+    mpn: CC0603CRNPO9BN1R0
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603CRNPO9BN1R0/Yageo/view-part/
+    note: ""
+  - uid: ae79677229ef71be
+    ppid: "107248"
+    manufacturer: Kemet
+    mpn: C0603C109C5GACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21402943/image/Kemet-C0603C109C5GACTU.jpg
+    footprinturl: http://www.snapeda.com/parts/C0603C109C5GACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-C0G-0402-10PF-50V
+  title: Capacitor 10 pF ±5% 50 V 0402 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 10 pF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0402"
+    Tolerance: ±5%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 7bbdb0ed648ba47a
+    ppid: "39467600"
+    manufacturer: Yageo
+    mpn: CC0402JRNPO9BN100
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0402JRNPO9BN100/Yageo/view-part/
+    note: ""
+  - uid: d67b1f70190d09bc
+    ppid: "125456"
+    manufacturer: Kemet
+    mpn: C0402C100C5GACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21402943/image/Kemet-C0603C109C5GACTU.jpg
+    footprinturl: http://www.snapeda.com/parts/C0402C100C5GACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-C0G-0603-10PF-50V
+  title: Capacitor 10 pF ±5% 50 V 0603 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 10 pF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±5%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: dae211b2c5100525
+    ppid: "39467668"
+    manufacturer: Yageo
+    mpn: CC0603JRNPO9BN100
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603JRNPO9BN100/Yageo/view-part/
+    note: ""
+  - uid: e6012f80b21b39c6
+    ppid: "9138556"
+    manufacturer: Kemet
+    mpn: C0603C100C5GACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21402943/image/Kemet-C0603C109C5GACTU.jpg
+    footprinturl: http://www.snapeda.com/parts/C0603C100C5GACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-C0G-0603-12PF-50V
+  title: Capacitor 12 pF ±5% 50 V 0603 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 12 pF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±5%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: aa93631431c27554
+    ppid: "9289271"
+    manufacturer: Yageo
+    mpn: CC0603JRNPO9BN120
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603JRNPO9BN120/Yageo/view-part/
+    note: ""
+  - uid: 6faaa6a1e220b06d
+    ppid: "108780"
+    manufacturer: Kemet
+    mpn: C0603C120J5GACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366261/image/Kemet-C0603C120J5GACTU.jpg
+    footprinturl: http://www.snapeda.com/parts/C0603C120J5GACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-C0G-0603-18PF-50V
+  title: Capacitor 18 pF ±5% 50 V 0603 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 18 pF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±5%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 49138067e4c696d4
+    ppid: "8292531"
+    manufacturer: Yageo
+    mpn: CC0603JRNPO9BN180
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603JRNPO9BN180/Yageo/view-part/
+    note: ""
+  - uid: 6051a95a3bffbf96
+    ppid: "97992"
+    manufacturer: Kemet
+    mpn: C0603C180J5GACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366261/image/Kemet-C0603C829J5GACTU.jpg
+    footprinturl: http://www.snapeda.com/parts/C0603C180J5GACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-C0G-0402-22PF-50V
+  title: Capacitor 22 pF ±5% 50 V 0402 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 22 pF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0402"
+    Tolerance: ±5%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 7d13b643622da2d4
+    ppid: "39467608"
+    manufacturer: Yageo
+    mpn: CC0402JRNPO9BN220
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0402JRNPO9BN220/Yageo/view-part/
+    note: ""
+  - uid: 6051a95a3bffbf96
+    ppid: "97992"
+    manufacturer: Kemet
+    mpn: C0603C180J5GACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366261/image/Kemet-C0603C829J5GACTU.jpg
+    footprinturl: http://www.snapeda.com/parts/C0603C180J5GACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-C0G-0603-22PF-50V
+  title: Capacitor 22 pF ±5% 50 V 0603 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 22 pF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±5%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: a4606d6870957ba7
+    ppid: "192915"
+    manufacturer: Yageo
+    mpn: CC0603JRNPO9BN220
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603JRNPO9BN220/Yageo/view-part/
+    note: ""
+  - uid: 409c8997e5279f5b
+    ppid: "98525"
+    manufacturer: Kemet
+    mpn: C0603C220J5GACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366261/image/Kemet-C0603C829J5GACTU.jpg
+    footprinturl: http://www.snapeda.com/parts/C0603C220J5GACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-C0G-0603-27PF-50V
+  title: Capacitor 27 pF ±5% 50 V 0603 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 27 pF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±5%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: c3420836650e1c85
+    ppid: "41845546"
+    manufacturer: Yageo
+    mpn: CC0603JRNPO9BN270
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603JRNPO9BN270/Yageo/view-part/
+    note: ""
+  - uid: cb980290fd85145f
+    ppid: "136059"
+    manufacturer: Kemet
+    mpn: C0603C270J5GACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366261/image/Kemet-C0603C829J5GACTU.jpg
+    footprinturl: http://www.snapeda.com/parts/C0603C270J5GACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-C0G-0603-33PF-50V
+  title: Capacitor 33 pF ±5% 50 V 0603 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 33 pF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±5%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: c9b8023715e4167f
+    ppid: "42334522"
+    manufacturer: Yageo
+    mpn: CC0603JRNPO9BN390
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603JRNPO9BN390/Yageo/view-part/
+    note: ""
+  - uid: 96f55ffee5e14932
+    ppid: "87666"
+    manufacturer: Kemet
+    mpn: C0603C330J5GACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366261/image/Kemet-C0603C829J5GACTU.jpg
+    footprinturl: http://www.snapeda.com/parts/C0603C330J5GACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-C0G-0603-100PF-50V
+  title: Capacitor 100 pF ±5% 50 V 0603 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 100 pF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±5%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: f4be3db620422b79
+    ppid: "192922"
+    manufacturer: Yageo
+    mpn: CC0603JRNPO9BN101
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603JRNPO9BN101/Yageo/view-part/
+    note: ""
+  - uid: 5ee397e8fd518124
+    ppid: "100052"
+    manufacturer: Kemet
+    mpn: C0603C101J5GACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366261/image/Kemet-C0603C829J5GACTU.jpg
+    footprinturl: http://www.snapeda.com/parts/C0603C101J5GACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-C0G-0603-220PF-50V
+  title: Capacitor 220 pF ±5% 50 V 0603 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 220 pF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±5%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 2b35e2bf5d39f4f2
+    ppid: "8409962"
+    manufacturer: Yageo
+    mpn: CC0603JRNPO9BN221
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603JRNPO9BN221/Yageo/view-part/
+    note: ""
+  - uid: 528d9b854df18d4a
+    ppid: "145946"
+    manufacturer: Kemet
+    mpn: C0603C221J5GACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366261/image/Kemet-C0603C829J5GACTU.jpg
+    footprinturl: http://www.snapeda.com/parts/C0603C221J5GACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-C0G-0603-1NF-50V
+  title: Capacitor 1 nF ±5% 50 V 0603 C0G/NP0
+  description: ""
+  extravals:
+    Capacitance: 1 nF
+    Characteristic: C0G/NP0
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±5%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: bbc372cb6f006404
+    ppid: "192933"
+    manufacturer: Yageo
+    mpn: CC0603KRX7R9BB102
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603KRX7R9BB102/Yageo/view-part/
+    note: ""
+  - uid: 16a7dfafcd88c960
+    ppid: "196169"
+    manufacturer: Murata
+    mpn: GRM1885C1H102JA01D
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM1885C1H102JA01D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0402-1NF-50V
+  title: Capacitor 1 nF ±10% 50 V 0402 X7R
+  description: ""
+  extravals:
+    Capacitance: 1 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0402"
+    Tolerance: ±10%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 09e3c0ebddfcd624
+    ppid: "192889"
+    manufacturer: Yageo
+    mpn: CC0402KRX7R9BB102
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0402KRX7R9BB102/Yageo/view-part/
+    note: ""
+  - uid: 7564bc6d50fdaaa3
+    ppid: "196863"
+    manufacturer: Murata
+    mpn: GRM1555C1H102JA01D
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM1555C1H102JA01D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0603-1NF-50V
+  title: Capacitor 1 nF ±10% 50 V 0603 X7R
+  description: ""
+  extravals:
+    Capacitance: 1 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±10%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: bbc372cb6f006404
+    ppid: "192933"
+    manufacturer: Yageo
+    mpn: CC0603KRX7R9BB102
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603KRX7R9BB102/Yageo/view-part/
+    note: ""
+  - uid: ee79277339c531be
+    ppid: "62170"
+    manufacturer: Murata
+    mpn: GRM188R71H102KA01D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM188R71H102KA01D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0603-4.7NF-50V
+  title: Capacitor 4.7 nF ±10% 50 V 0603
+  description: ""
+  extravals:
+    Capacitance: 4.7 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±10%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: ad7d647579b372ba
+    ppid: "192936"
+    manufacturer: Yageo
+    mpn: CC0603KRX7R9BB472
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603KRX7R9BB472/Yageo/view-part/
+    note: ""
+  - uid: d5621c69f2540aa5
+    ppid: "66128"
+    manufacturer: Murata
+    mpn: GRM188R71H471KA01D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM188R71H471KA01D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0402-10NF-50V
+  title: Capacitor 10 nF ±10% 50 V 0402
+  description: ""
+  extravals:
+    Capacitance: 10 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0402"
+    Tolerance: ±10%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: a9f260875c557635
+    ppid: "8376513"
+    manufacturer: Yageo
+    mpn: CC0402KRX7R9BB103
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0402KRX7R9BB103/Yageo/view-part/
+    note: ""
+  - uid: ac5065598dcb7397
+    ppid: "197885"
+    manufacturer: Murata
+    mpn: GRM155R71H103KA88D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM155R71H103KA88D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0603-10NF-50V
+  title: Capacitor 10 nF ±10% 50 V 0603
+  description: ""
+  extravals:
+    Capacitance: 10 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±10%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: a6f66ffe723a7931
+    ppid: "192938"
+    manufacturer: Yageo
+    mpn: CC0603KRX7R9BB103
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603KRX7R9BB103/Yageo/view-part/
+    note: ""
+  - uid: 481e811550a597d9
+    ppid: "81373"
+    manufacturer: Murata
+    mpn: GRM188R71H103KA01D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM188R71H103KA01D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0603-22NF-50V
+  title: Capacitor 22 nF ±10% 50 V 0603
+  description: ""
+  extravals:
+    Capacitance: 22 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±10%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: ec9327ecc3e43354
+    ppid: "41224721"
+    manufacturer: Yageo
+    mpn: CC0603KRX7R9BB223
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603KRX7R9BB223/Yageo/view-part/
+    note: ""
+  - uid: 975b5e534cb5489c
+    ppid: "196232"
+    manufacturer: Murata
+    mpn: GRM188R71H223KA01D
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21476987/image/Murata-GRM188R71H103KA01D..jpg
+    footprinturl: http://www.snapeda.com/parts/GRM188R71H223KA01D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0603-47NF-50V
+  title: Capacitor 47 nF ±10% 50 V 0603
+  description: ""
+  extravals:
+    Capacitance: 47 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±10%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: a2816b064c6f7d46
+    ppid: "9292680"
+    manufacturer: Yageo
+    mpn: CC0603KRX7R9BB473
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603KRX7R9BB473/Yageo/view-part/
+    note: ""
+  - uid: 0bf9c2f02fb5d43e
+    ppid: "196906"
+    manufacturer: Murata
+    mpn: GRM188R71H473KA61D
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21476987/image/Murata-GRM188R71H103KA01D..jpg
+    footprinturl: http://www.snapeda.com/parts/GRM188R71H473KA61D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0402-100NF-16V
+  title: Capacitor 100 nF ±10% 16 V 0402
+  description: ""
+  extravals:
+    Capacitance: 100 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0402"
+    Tolerance: ±10%
+    Voltage Rating (DC): 16 V
+  parts:
+  - uid: d4951d9cf0e30b52
+    ppid: "196880"
+    manufacturer: Murata
+    mpn: GRM155R71C104KA88D
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM155R71C104KA88D/Murata/view-part/
+    note: ""
+  - uid: 12f3dbfb2879cd34
+    ppid: "139244"
+    manufacturer: Kemet
+    mpn: C0603C104K5RACTU
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM188R71H473KA61D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0603-100NF-50V
+  title: Capacitor 100 nF ±10% 50 V 0603
+  description: ""
+  extravals:
+    Capacitance: 100 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±10%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 0a26c1a8b55bd5e1
+    ppid: "42244635"
+    manufacturer: Yageo
+    mpn: CC0603KRX7R9BB104
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603KRX7R9BB104/Yageo/view-part/
+    note: ""
+  - uid: 7eb4b7bca558a173
+    ppid: "196234"
+    manufacturer: Murata
+    mpn: GRM188R71H104KA93D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
+    footprinturl: http://www.snapeda.com/parts/C0603C104K5RACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0805-100NF-50V
+  title: Capacitor 100 nF ±10% 50 V 0805
+  description: ""
+  extravals:
+    Capacitance: 100 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0805"
+    Tolerance: ±10%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 437c8a7497fb9cbb
+    ppid: "192993"
+    manufacturer: Yageo
+    mpn: CC0805KRX7R9BB104
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0805KRX7R9BB104/Yageo/view-part/
+    note: ""
+  - uid: db42124a01380485
+    ppid: "196380"
+    manufacturer: Murata
+    mpn: GRM21BR71H104KA01L
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0603-220NF-16V
+  title: Capacitor 220 nF ±10% 16 V 0603
+  description: ""
+  extravals:
+    Capacitance: 220 nF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±10%
+    Voltage Rating (DC): 16 V
+  parts:
+  - uid: 52589b3a59d38d9f
+    ppid: "6827757"
+    manufacturer: Yageo
+    mpn: CC0603KRX7R7BB224
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603KRX7R7BB224/Yageo/view-part/
+    note: ""
+  - uid: 915b5852b5104e9c
+    ppid: "196909"
+    manufacturer: Murata
+    mpn: GRM188R71E224KA88D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X5R-0402-1UF-6.3V
+  title: Capacitor 1 µF ±10% 6.3 V 0402
+  description: ""
+  extravals:
+    Capacitance: 1 µF
+    Characteristic: X5R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0402"
+    Tolerance: ±10%
+    Voltage Rating (DC): 6.3 V
+  parts:
+  - uid: e7d52c5b58b93812
+    ppid: "42244618"
+    manufacturer: Yageo
+    mpn: CC0402KRX5R5BB105
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0402KRX5R5BB105/Yageo/view-part/
+    note: ""
+  - uid: 7ffbb6f3a75ba03c
+    ppid: "196038"
+    manufacturer: Murata
+    mpn: GRM155R60J105KE19D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM188R71E224KA88D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0603-1UF-25V
+  title: Capacitor 1 µF ±10% 25 V 0603
+  description: ""
+  extravals:
+    Capacitance: 1 µF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±10%
+    Voltage Rating (DC): 25 V
+  parts:
+  - uid: f132394d67b12ef5
+    ppid: "24490981"
+    manufacturer: Yageo
+    mpn: CC0603KRX7R8BB105
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0603KRX7R8BB105/Yageo/view-part/
+    note: ""
+  - uid: 915b5852b5104e9c
+    ppid: "196909"
+    manufacturer: Murata
+    mpn: GRM188R71E224KA88D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM155R60J105KE19D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X7R-0805-1UF-25V
+  title: Capacitor 1 µF ±10% 25 V 0805
+  description: ""
+  extravals:
+    Capacitance: 1 µF
+    Characteristic: X7R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0805"
+    Tolerance: ±10%
+    Voltage Rating (DC): 25 V
+  parts:
+  - uid: 77c3bc4dc880a804
+    ppid: "42244645"
+    manufacturer: Yageo
+    mpn: CC0805KKX7R8BB105
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/CC0805KKX7R8BB105/Yageo/view-part/
+    note: ""
+  - uid: 7ee5b7e6769fa122
+    ppid: "601372"
+    manufacturer: Murata
+    mpn: GRM21BR71H105KA12L
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM188R71E224KA88D/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X5R-0603-4.7UF-10V
+  title: Capacitor 4.7 µF ±10% 10 V 0603
+  description: ""
+  extravals:
+    Capacitance: 4.7 µF
+    Characteristic: X5R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0603"
+    Tolerance: ±10%
+    Voltage Rating (DC): 10 V
+  parts:
+  - uid: f5ad3de176fc2a6a
+    ppid: "21407287"
+    manufacturer: Murata
+    mpn: GRM188R61A475KE15D
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM188R61A475KE15D/Murata/view-part/
+    note: ""
+  - uid: 9c7a55fb325c43bd
+    ppid: "9145152"
+    manufacturer: Kemet
+    mpn: C0603C475K8PACTU
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/C0603C475K8PACTU/Kemet/view-part/
+    note: ""
+- cplid: CPL-CAP-X5R-0805-4.7UF-25V
+  title: Capacitor 4.7 µF ±10% 25 V 0805
+  description: ""
+  extravals:
+    Capacitance: 4.7 µF
+    Characteristic: X5R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0805"
+    Tolerance: ±10%
+    Voltage Rating (DC): 25 V
+  parts:
+  - uid: 0793ce9a23afd854
+    ppid: "196954"
+    manufacturer: Murata
+    mpn: GRM21BR61E475KA12L
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM21BR61E475KA12L/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X5R-0805-10UF-16V
+  title: Capacitor 10 µF ±10% 16 V 0805
+  description: ""
+  extravals:
+    Capacitance: 10 µF
+    Characteristic: X5R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0805"
+    Tolerance: ±10%
+    Voltage Rating (DC): 16 V
+  parts:
+  - uid: 6591ac9843c9ba56
+    ppid: "197438"
+    manufacturer: Murata
+    mpn: GRM21BR61C106KE15L
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM21BR61C106KE15L/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X5R-0805-22UF-6.3V
+  title: Capacitor 22 µF ±20% 6.3 V 0805
+  description: ""
+  extravals:
+    Capacitance: 22 µF
+    Characteristic: X5R
+    Dielectric Material: Ceramic Multilayer
+    Size: "0805"
+    Tolerance: ±20%
+    Voltage Rating (DC): 6.3 V
+  parts:
+  - uid: be8f778764b96148
+    ppid: "196432"
+    manufacturer: Murata
+    mpn: GRM21BR60J226ME39L
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM21BR60J226ME39L/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-X5R-1206-100UF-6.3V
+  title: Capacitor 100 µF ±20% 6.3 V 1206
+  description: ""
+  extravals:
+    Capacitance: 100 µF
+    Characteristic: X5R
+    Dielectric Material: Ceramic Multilayer
+    Size: "1206"
+    Tolerance: ±20%
+    Voltage Rating (DC): 6.3 V
+  parts:
+  - uid: daa013a9fad20567
+    ppid: "197908"
+    manufacturer: Murata
+    mpn: GRM31CR60J107ME39L
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
+    footprinturl: http://www.snapeda.com/parts/GRM31CR60J107ME39L/Murata/view-part/
+    note: ""
+- cplid: CPL-CAP-TAN-1206-1UF-35V
+  title: Capacitor 1 µF ±10% 35 V 1206
+  description: ""
+  extravals:
+    Capacitance: 1 µF
+    Characteristic: –
+    Dielectric Material: Tantalum
+    Size: "1206"
+    Tolerance: ±10%
+    Voltage Rating (DC): 35 V
+  parts:
+  - uid: 5d9f9483fc9a8258
+    ppid: "1475683"
+    manufacturer: AVX
+    mpn: TAJA105K035RNJ
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21390529/image/AVX-TAJA106K016RNJ.jpg
+    footprinturl: http://www.snapeda.com/parts/TAJA105K035RNJ/AVX/view-part/
+    note: ""
+- cplid: CPL-CAP-TAN-1206-4.7UF-16V
+  title: Capacitor 4.7 µF ±10% 16 V 1206
+  description: ""
+  extravals:
+    Capacitance: 4.7 µF
+    Characteristic: –
+    Dielectric Material: Tantalum
+    Size: "1206"
+    Tolerance: ±10%
+    Voltage Rating (DC): 16 V
+  parts:
+  - uid: d5b01c8130380a77
+    ppid: "3916014"
+    manufacturer: AVX
+    mpn: TAJA475K016RNJ
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21390529/image/AVX-TAJA106K016RNJ.jpg
+    footprinturl: http://www.snapeda.com/parts/TAJA475K016RNJ/AVX/view-part/
+    note: ""
+- cplid: CPL-CAP-TAN-1206-10UF-16V
+  title: Capacitor 10 µF ±10% 16 V 1206
+  description: ""
+  extravals:
+    Capacitance: 10 µF
+    Characteristic: –
+    Dielectric Material: Tantalum
+    Size: "1206"
+    Tolerance: ±10%
+    Voltage Rating (DC): 16 V
+  parts:
+  - uid: 434b8a508d009c8c
+    ppid: "1174317"
+    manufacturer: AVX
+    mpn: TAJA106K016RNJ
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21390529/image/AVX-TAJA106K016RNJ.jpg
+    footprinturl: http://www.snapeda.com/parts/TAJA106K016RNJ/AVX/view-part/
+    note: ""
+- cplid: CPL-CAP-TAN-1210-10UF-16V
+  title: Capacitor 10 µF ±10% 16 V 1210
+  description: ""
+  extravals:
+    Capacitance: 10 µF
+    Characteristic: –
+    Dielectric Material: Tantalum
+    Size: "1210"
+    Tolerance: ±10%
+    Voltage Rating (DC): 16 V
+  parts:
+  - uid: 75bbbca35c5faa7c
+    ppid: "1182850"
+    manufacturer: AVX
+    mpn: TAJB106K016RNJ
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21390529/image/AVX-TAJA106K016RNJ.jpg
+    footprinturl: http://www.snapeda.com/parts/TAJB106K016RNJ/AVX/view-part/
+    note: ""
+- cplid: CPL-CAP-TAN-1210-22UF-16V
+  title: Capacitor 22 µF ±10% 16 V 1210
+  description: ""
+  extravals:
+    Capacitance: 22 µF
+    Characteristic: –
+    Dielectric Material: Tantalum
+    Size: "1210"
+    Tolerance: ±10%
+    Voltage Rating (DC): 16 V
+  parts:
+  - uid: 3b09f265cceae4ce
+    ppid: "6738565"
+    manufacturer: AVX
+    mpn: TAJB226K016RNJ
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21390529/image/AVX-TAJA106K016RNJ.jpg
+    footprinturl: http://www.snapeda.com/parts/TAJB226K016RNJ/AVX/view-part/
+    note: ""
+- cplid: CPL-CAP-TAN-2312-47UF-16V
+  title: Capacitor 47 µF ±10% 16 V 2312
+  description: ""
+  extravals:
+    Capacitance: 47 µF
+    Characteristic: –
+    Dielectric Material: Tantalum
+    Size: "2312"
+    Tolerance: ±10%
+    Voltage Rating (DC): 16 V
+  parts:
+  - uid: 0493cd13ac6bdb54
+    ppid: "9080222"
+    manufacturer: AVX
+    mpn: TAJC476K016RNJ
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21390529/image/AVX-TAJA106K016RNJ.jpg
+    footprinturl: http://www.snapeda.com/parts/TAJC476K016RNJ/AVX/view-part/
+    note: ""
+- cplid: CPL-CAP-TAN-2312-100UF-16V
+  title: Capacitor 100 µF ±10% 16 V 2312
+  description: ""
+  extravals:
+    Capacitance: 100 µF
+    Characteristic: –
+    Dielectric Material: Tantalum
+    Size: "2312"
+    Tolerance: ±10%
+    Voltage Rating (DC): 16 V
+  parts:
+  - uid: 1f3fd6f538d5c0f8
+    ppid: "12583564"
+    manufacturer: AVX
+    mpn: TAJC107K016RNJ
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21390529/image/AVX-TAJA106K016RNJ.jpg
+    footprinturl: http://www.snapeda.com/parts/TAJC107K016RNJ/AVX/view-part/
+    note: ""
+- cplid: CPL-CAP-TAN-2312-100UF-10V
+  title: Capacitor 100 µF ±10% 10 V 2312
+  description: ""
+  extravals:
+    Capacitance: 100 µF
+    Characteristic: –
+    Dielectric Material: Tantalum
+    Size: "2312"
+    Tolerance: ±10%
+    Voltage Rating (DC): 10 V
+  parts:
+  - uid: f3c73a475f002c00
+    ppid: "9079201"
+    manufacturer: AVX
+    mpn: TAJC107K010RNJ
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/21390529/image/AVX-TAJA106K016RNJ.jpg
+    footprinturl: http://www.snapeda.com/parts/TAJC107K010RNJ/AVX/view-part/
+    note: ""
+- cplid: CPL-CAP-ALU-RAD-2.2UF-50V
+  title: Capacitor 2.2 µF ±20% 50 V Through-Hole
+  description: ""
+  extravals:
+    Capacitance: 2.2 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Size: Through-Hole
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 34eefde72110eb29
+    ppid: "209048"
+    manufacturer: Panasonic
+    mpn: ECA-1HM2R2
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/45297084/image/Panasonic-ECA-1HM2R2.jpg
+    footprinturl: http://www.snapeda.com/parts/ECA-1HM2R2/Panasonic/view-part/
+    note: ""
+- cplid: CPL-CAP-ALU-RAD-4.7UF-50V
+  title: Capacitor 4.7 µF ±20% 50 V Through-Hole
+  description: ""
+  extravals:
+    Capacitance: 4.7 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Size: Through-Hole
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 5962906b4c9e86a5
+    ppid: "209050"
+    manufacturer: Panasonic
+    mpn: ECA-1HM4R7
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/500178/image/Panasonic---ECG-ECA1HM2R2.jpg
+    footprinturl: http://www.snapeda.com/parts/ECA-1HM4R7/Panasonic/view-part/
+    note: ""
+- cplid: CPL-CAP-ALU-RAD-10UF-50V
+  title: Capacitor 10 µF ±20% 50 V Through-Hole
+  description: ""
+  extravals:
+    Capacitance: 10 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Size: Through-Hole
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 90df5a98dc304f18
+    ppid: "55404937"
+    manufacturer: Panasonic
+    mpn: ECA-1HM100
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/45297084/image/Panasonic-ECA-1HM100.jpg
+    footprinturl: http://www.snapeda.com/parts/ECA-1HM100/Panasonic/view-part/
+    note: ""
+- cplid: CPL-CAP-ALU-RAD-22UF-50V
+  title: Capacitor 22 µF ±20% 50 V Through-Hole
+  description: ""
+  extravals:
+    Capacitance: 22 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Size: Through-Hole
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 20b4eb7bc8f9ff73
+    ppid: "46517547"
+    manufacturer: Panasonic
+    mpn: ECA-1HM220
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/23304444/image/Panasonic-ECA-1HM220.jpg
+    footprinturl: http://www.snapeda.com/parts/ECA-1HM220/Panasonic/view-part/
+    note: ""
+- cplid: CPL-CAP-ALU-RAD-47UF-50V
+  title: Capacitor 47 µF ±20% 50 V Through-Hole
+  description: ""
+  extravals:
+    Capacitance: 47 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Size: Through-Hole
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: ed3d2434f8c532fa
+    ppid: "209054"
+    manufacturer: Panasonic
+    mpn: ECA-1HM470
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/18235606/image/Panasonic---ECG-ECA1HM470.jpg
+    footprinturl: http://www.snapeda.com/parts/ECA-1HM470/Panasonic/view-part/
+    note: ""
+- cplid: CPL-CAP-ALU-RAD-100UF-50V
+  title: Capacitor 100 µF ±20% 50 V Through-Hole
+  description: ""
+  extravals:
+    Capacitance: 100 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Size: Through-Hole
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: 2c75e57c398cf3b2
+    ppid: "209055"
+    manufacturer: Panasonic
+    mpn: ECA-1HM101
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/500178/image/Panasonic---ECG-ECA1HM101.jpg
+    footprinturl: http://www.snapeda.com/parts/ECA-1HM101/Panasonic/view-part/
+    note: ""
+- cplid: CPL-CAP-ALU-RAD-220UF-50V
+  title: Capacitor 220 µF ±20% 50 V Through-Hole
+  description: ""
+  extravals:
+    Capacitance: 220 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Size: Through-Hole
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: cc4106056b541386
+    ppid: "55476851"
+    manufacturer: Panasonic
+    mpn: ECA-1HM221
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/45297084/image/Panasonic-ECA-1HM221.jpg
+    footprinturl: http://www.snapeda.com/parts/ECA-1HM221/Panasonic/view-part/
+    note: ""
+- cplid: CPL-CAP-ALU-RAD-470UF-50V
+  title: Capacitor 470 µF ±20% 50 V Through-Hole
+  description: ""
+  extravals:
+    Capacitance: 470 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Size: Through-Hole
+    Tolerance: ±20%
+    Voltage Rating (DC): 50 V
+  parts:
+  - uid: de0e1707cbca01c9
+    ppid: "209058"
+    manufacturer: Panasonic
+    mpn: ECA-1HM471
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/23304444/image/Panasonic-ECA-1HM471.jpg
+    footprinturl: http://www.snapeda.com/parts/ECA-1HM471/Panasonic/view-part/
+    note: ""
+- cplid: CPL-CAP-ALU-RAD-1000UF-25V
+  title: Capacitor 1000 µF ±20% 25 V Through-Hole
+  description: ""
+  extravals:
+    Capacitance: 1000 µF
+    Characteristic: –
+    Dielectric Material: Aluminium Electrolytic
+    Size: Through-Hole
+    Tolerance: ±20%
+    Voltage Rating (DC): 25 V
+  parts:
+  - uid: d1e11ba576ed0e26
+    ppid: "55476842"
+    manufacturer: Panasonic
+    mpn: ECA-1EM102
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/23304444/image/Panasonic-ECA1EM102.jpg
+    footprinturl: http://www.snapeda.com/parts/ECA-1EM102/Panasonic/view-part/
+    note: ""

@@ -1,0 +1,139 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1416391240"
+position: 11
+name: Linear ICs
+cleanname: LinearICs
+description: "A selection of linear ICs for a range of applications. Op-amps are used
+  for sensor interfaces, filtering and other analog applications. \nComparators compare
+  two analog signals and give digital output. 555 Timers are really popular and can
+  be used for timing, pulse generation and oscillator applications. "
+extracols:
+- Package
+rows:
+- cplid: CPL-LIC-OPAMP-700KHZ-DUAL
+  title: General Purpose Dual Op-Amp
+  description: 'High gain op-amp with a bandwidth of 700kHz and a slew rate of 0.3V/µs. '
+  extravals:
+    Package: DIP-8
+  parts:
+  - uid: 83e04aece58f5c27
+    ppid: "410377"
+    manufacturer: Texas Instruments
+    mpn: 'LM358AP '
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10047968/image/Texas-Instruments-LM358AP.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LIC-OPAMP-1.2MHZ-QUAD
+  title: General Purpose Quad Op-Amp
+  description: 'High gain op-amp with a bandwidth of 1.2MHz and a slew rate of 0.5V/µs. '
+  extravals:
+    Package: DIP-14
+  parts:
+  - uid: 6051a95b4cdfbf96
+    ppid: "2536"
+    manufacturer: Texas Instruments
+    mpn: LM324AN
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/31304797/image/Texas-Instruments-LM324AN.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LIC-OPAMP-10MHZ-DUAL
+  title: Rail-to-Rail Input/Output Dual Op-Amp
+  description: 'Bandwidth of 10MHz and a slew rate of 7V/µs. It can handle 2.5V to
+    5.5V. '
+  extravals:
+    Package: DIP-8
+  parts:
+  - uid: 934c5a40d3604c8b
+    ppid: "419146"
+    manufacturer: Microchip
+    mpn: MCP6022-I/P
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/472130/image/Microchip-MCP6022-I/P.gif
+    footprinturl: ""
+    note: ""
+- cplid: CPL-DIC-COMP-SINGLE
+  title: High Speed Single Comparator
+  description: 'A popular comparator, which can operate from 3.5V to 30V. Response
+    time is 115ns. '
+  extravals:
+    Package: DIP-8
+  parts:
+  - uid: e19328999be53e54
+    ppid: "24336"
+    manufacturer: Texas Instruments
+    mpn: LM311P
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10047968/image/Texas-Instruments-LM311P...jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-DIC-COMP-QUAD
+  title: Quad Comparator
+  description: 'Four comparators in one package, a response time of 1.3us. '
+  extravals:
+    Package: DIP-14
+  parts:
+  - uid: 68e5a2a05884b722
+    ppid: "55514375"
+    manufacturer: Texas Instruments
+    mpn: LM339AN
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/308318/image/Texas-Instruments-LM339AN.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LIC-TIMER-555
+  title: 555 Timers
+  description: "A classic IC which can be used in several projects! TLC551CP is the
+    ultra-low voltage version (1V-15V operation).\nTo learn about how they work, look
+    at this [video from SparkFun on 555 Timers](https://www.youtube.com/watch?v=qwPtSkWyjWc). "
+  extravals:
+    Package: DIP-8
+  parts:
+  - uid: 4aeb83e68dda952c
+    ppid: "516695"
+    manufacturer: Fairchild Semiconductor
+    mpn: LM555CN
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10047968/image/Fairchild-Semiconductor-LM555CN.jpg
+    footprinturl: ""
+    note: ""
+  - uid: b0eb79e6745c6f2c
+    ppid: "516561"
+    manufacturer: Texas Instruments
+    mpn: TLC551CP
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/10047968/image/Texas-Instruments-TLC551CP.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LIC-RTC
+  title: 'Real Time Clock (RTC) '
+  description: 'RTC allows you to keep track of time even if the micro-controller
+    gets reprogrammed or power is lost. '
+  extravals:
+    Package: DIP-8
+  parts:
+  - uid: de761773c51301b1
+    ppid: "998915"
+    manufacturer: Maxim Integrated
+    mpn: DS1307+
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/308656/image/Maxim-DS1307%2B.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-RLY-OPTOISOLATOR
+  title: Opto-Isolator
+  description: "Opto-isolators help in isolating two systems.\nLearn about [relays
+    and opto-isolators here](http://what-when-how.com/8051-microcontroller/relays-and-optoisolators/)
+    and [here](http://www.electronics-tutorials.ws/blog/optocoupler.html). "
+  extravals:
+    Package: DIP-8
+  parts:
+  - uid: a9636324d12f76a4
+    ppid: "55401770"
+    manufacturer: Vishay
+    mpn: ILD74
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""

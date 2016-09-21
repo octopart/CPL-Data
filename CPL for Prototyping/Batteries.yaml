@@ -1,0 +1,167 @@
+docid: 1iXS2d3Sd1kEKYaInpms9nBR51HSrDXxAQhCHmkzDpa0
+gid: "1234576101"
+position: 4
+name: Batteries
+cleanname: Batteries
+description: "Range of batteries and accessories covering different needs for wearables
+  and breadboard prototypes. \nLearn about [different types of battery technologies](https://learn.SparkFun.com/tutorials/battery-technologies)."
+extracols: []
+rows:
+- cplid: CPL-BAT-ALK-9V
+  title: 9V Alkaline battery
+  description: 'Solid battery but not for recharging. '
+  extravals: {}
+  parts:
+  - uid: b86270d0f27d67a5
+    ppid: "28864377"
+    manufacturer: Adafruit
+    mpn: ADA1321
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/23493586/image/Adafruit-Industries-ADA1321.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-BAT-CONN-BARREL
+  title: 9V to Barrel Jack Connector
+  description: 'Useful for connecting with Arduinos and development boards. '
+  extravals: {}
+  parts:
+  - uid: 50c79851aff98f00
+    ppid: "27056728"
+    manufacturer: Adafruit
+    mpn: ADA80
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-BAT-WALL-9V-1A
+  title: 9V 1A Switching Wall Power Supply
+  description: "Useful if you need a lot of power for your Arduino. Works with 100V-240V
+    AC wall power. \nIf you need a lot of 5V check out [this](http://www.adafruit.com/product/276). "
+  extravals: {}
+  parts:
+  - uid: 6afba26d9786b53c
+    ppid: "27056155"
+    manufacturer: Adafruit
+    mpn: ADA63
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/60596479/image/Adafruit-Industries-63.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-BAT-LIIION-100MAH
+  title: Li-Ion Battery 100mAh
+  description: 'Small and light weight battery for low power applications. '
+  extravals: {}
+  parts:
+  - uid: 97e45f37256e4823
+    ppid: "31037420"
+    manufacturer: Adafruit
+    mpn: ADA1570
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-BAT-LIIION-1000MAH
+  title: Li-Ion Battery 1000mAh
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 68f1a01a36dbb736
+    ppid: "31554380"
+    manufacturer: Adafruit
+    mpn: ADA258
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-BAT-COIN-CR2032
+  title: Coin Cell Battery CR2032
+  description: "Small battery for low power applications. \n"
+  extravals: {}
+  parts:
+  - uid: c5e40d7237401a23
+    ppid: "27056066"
+    manufacturer: Adafruit
+    mpn: ADA654
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-BAT-COIN-HOLDER-SEWABLE
+  title: 'Coin Cell Battery Holder '
+  description: 'Sewable CR2032 battery holder. '
+  extravals: {}
+  parts:
+  - uid: 6945a1ae3773b682
+    ppid: "31554384"
+    manufacturer: Adafruit
+    mpn: ADA653
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-BAT-COIN-HOLDER-ONOFF
+  title: 'Coin Cell Battery Holder '
+  description: 'CR2032 battery holder with on-off switch. '
+  extravals: {}
+  parts:
+  - uid: 5b5e917e42168499
+    ppid: "53099566"
+    manufacturer: Adafruit
+    mpn: ADA1871
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/60593206/image/Adafruit-Industries-1871.jpg
+    footprinturl: ""
+    note: ""
+- cplid: 'CPL-BAT-4AA '
+  title: AA Batteries
+  description: ""
+  extravals: {}
+  parts:
+  - uid: ""
+    ppid: ""
+    manufacturer: Energizer
+    mpn: ""
+    externalurl: http://www.amazon.com/dp/B00451SSBI/?tag=octopart00-20
+    imageurl: images/cpl/part_images/d409761c8b9997f63cc0f1378065a4d4.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-BAT-4AA-HOLDER
+  title: 4xAA battery holder
+  description: ""
+  extravals: {}
+  parts:
+  - uid: d1d219442d360e15
+    ppid: "27056514"
+    manufacturer: Adafruit
+    mpn: ADA830
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-BAT-9V-CLIP
+  title: 9V Battery Clip
+  description: ""
+  extravals: {}
+  parts:
+  - uid: 91b358b9fb6a4e74
+    ppid: "20415"
+    manufacturer: Keystone
+    mpn: "233"
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-BAT-LIION-CHARGER
+  title: USB Li Ion Battery Charger
+  description: 'USB Powered Charger is small and quite handy to charge your Li Ion
+    batteries anywhere! '
+  extravals: {}
+  parts:
+  - uid: 7aa8b2432486a56f
+    ppid: "31554376"
+    manufacturer: Adafruit
+    mpn: ADA1304
+    externalurl: ""
+    imageurl: images/cpl/part_images/3ed0e9535d796d1a6f8e493f97fed428.jpg
+    footprinturl: ""
+    note: ""

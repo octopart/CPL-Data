@@ -1,0 +1,369 @@
+docid: 1otc3PIZ_BzaTLGTScte4tNAoN-OOcdJCN-FT5hq0wBI
+gid: "1585386671"
+position: 9
+name: LEDs
+cleanname: LEDs
+description: Selected to meet common indication or keypad backlighting needs in connected
+  devices in a typical package.
+extracols:
+- Mounting Type
+- Package
+- Color
+rows:
+- cplid: CPL-LED-0603-GREEN
+  title: Green SMD LED  0603
+  description: ""
+  extravals:
+    Color: Green
+    Mounting Type: SMD
+    Package: "0603"
+  parts:
+  - uid: b2f07bf2f42b6d37
+    ppid: "549821"
+    manufacturer: Lite-On
+    mpn: LTST-C190GKT
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5295584/image/Lite-On-LTST-C190KRKT.jpeg
+    footprinturl: http://www.snapeda.com/parts/LTST-C190GKT/Lite-On/view-part/
+    note: ""
+  - uid: c0b709b582311f70
+    ppid: "550880"
+    manufacturer: Avago
+    mpn: HSMG-C190
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/14170844/image/Avago-HSMW-C191.jpg
+    footprinturl: http://www.snapeda.com/parts/HSMG-C190/Avago/view-part/
+    note: ""
+  - uid: 32d0fa1aac68ed17
+    ppid: "29408222"
+    manufacturer: Everlight
+    mpn: 19-217-G7C-AN1P2-3T
+    externalurl: ""
+    imageurl: images/cpl/part_images/c756b1f978a2e6ffd03efe955f7ba6fc.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-0603-RED
+  title: Red SMD LED  0603
+  description: ""
+  extravals:
+    Color: Red
+    Mounting Type: SMD
+    Package: "0603"
+  parts:
+  - uid: 1e52d7505f31c195
+    ppid: "549893"
+    manufacturer: Lite-On
+    mpn: LTST-C190KRKT
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5295584/image/Lite-On-LTST-C190KRKT.jpeg
+    footprinturl: http://www.snapeda.com/parts/LTST-C190KRKT/Lite-On/view-part/
+    note: ""
+  - uid: 9af853fad845453f
+    ppid: "550875"
+    manufacturer: Avago
+    mpn: HSMH-C190
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/14170844/image/Avago-HSMW-C191.jpg
+    footprinturl: http://www.snapeda.com/parts/HSMH-C190/Avago/view-part/
+    note: ""
+  - uid: 20cce8f01131ff0b
+    ppid: "20321435"
+    manufacturer: Everlight
+    mpn: 19-217-R6C-AL1M2VY-3T
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-0603-YELLOW
+  title: Yellow SMD LED  0603
+  description: ""
+  extravals:
+    Color: Yellow
+    Mounting Type: SMD
+    Package: "0603"
+  parts:
+  - uid: c4640d6685081ba3
+    ppid: "549898"
+    manufacturer: Lite-On
+    mpn: LTST-C190KSKT
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5295584/image/Lite-On-LTST-C190KRKT.jpeg
+    footprinturl: http://www.snapeda.com/parts/LTST-C190KSKT/Lite-On/view-part/
+    note: ""
+  - uid: 8a7d437fc8c455ba
+    ppid: "550879"
+    manufacturer: Avago
+    mpn: HSMY-C190
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/14170844/image/Avago-HSMW-C191.jpg
+    footprinturl: http://www.snapeda.com/parts/HSMY-C190/Avago/view-part/
+    note: ""
+  - uid: 7d08b754c3eda2cf
+    ppid: "56007555"
+    manufacturer: Everlight
+    mpn: 19-217-Y5C-AM1N1VY-3T
+    externalurl: ""
+    imageurl: ""
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-0603-ORANGE
+  title: Orange SMD LED  0603
+  description: ""
+  extravals:
+    Color: Orange
+    Mounting Type: SMD
+    Package: "0603"
+  parts:
+  - uid: 99ca50c8d8a4460d
+    ppid: "549896"
+    manufacturer: Lite-On
+    mpn: LTST-C190KFKT
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5295584/image/Lite-On-LTST-C190KRKT.jpeg
+    footprinturl: http://www.snapeda.com/parts/LTST-C190KFKT/Lite-On/view-part/
+    note: ""
+  - uid: 40f589f527c49f32
+    ppid: "672343"
+    manufacturer: Avago
+    mpn: HSMD-C190
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/14170844/image/Avago-HSMW-C191.jpg
+    footprinturl: http://www.snapeda.com/parts/HSMD-C190/Avago/view-part/
+    note: ""
+- cplid: CPL-LED-0603-AMBER
+  title: Amber SMD LED  0603
+  description: ""
+  extravals:
+    Color: Amber
+    Mounting Type: SMD
+    Package: "0603"
+  parts:
+  - uid: 2f34e63669e8f0f3
+    ppid: "549818"
+    manufacturer: Lite-On
+    mpn: LTST-C190AKT
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5295584/image/Lite-On-LTST-C190KRKT.jpeg
+    footprinturl: http://www.snapeda.com/parts/LTST-C190AKT/Lite-On/view-part/
+    note: ""
+  - uid: 6dc2a4c02f7ab205
+    ppid: "550878"
+    manufacturer: Avago
+    mpn: HSMA-C190
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/14170844/image/Avago-HSMW-C191.jpg
+    footprinturl: http://www.snapeda.com/parts/HSMA-C190/Avago/view-part/
+    note: ""
+- cplid: CPL-LED-0603-BLUE
+  title: Blue SMD LED  0603
+  description: ""
+  extravals:
+    Color: Blue
+    Mounting Type: SMD
+    Package: "0603"
+  parts:
+  - uid: 9c2f552ddd3a43e8
+    ppid: "550003"
+    manufacturer: Lite-On
+    mpn: LTST-C190TBKT
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5295584/image/Lite-On-LTST-C190KRKT.jpeg
+    footprinturl: http://www.snapeda.com/parts/LTST-C190TBKT/Lite-On/view-part/
+    note: ""
+  - uid: f3a23aa294462c65
+    ppid: "672386"
+    manufacturer: Avago
+    mpn: HSMR-C190
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/14170844/image/Avago-HSMW-C191.jpg
+    footprinturl: http://www.snapeda.com/parts/HSMR-C190/Avago/view-part/
+    note: ""
+  - uid: e2c428985c233d03
+    ppid: "56007553"
+    manufacturer: Everlight
+    mpn: 19-217-BHC-ZL1M2RY-3T
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/31361184/image/Everlight-19-217-BHC-ZL1M2RY-3T.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-0603-WHITE
+  title: White SMD LED  0603
+  description: ""
+  extravals:
+    Color: White
+    Mounting Type: SMD
+    Package: "0603"
+  parts:
+  - uid: 6775ae7726abb8b2
+    ppid: "550072"
+    manufacturer: Lite-On
+    mpn: LTW-C191TS5
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5295584/image/Lite-On-LTST-C190KRKT.jpeg
+    footprinturl: http://www.snapeda.com/parts/LTW-C191TS5/Lite-On/view-part/
+    note: ""
+  - uid: ddf814f8bae8023f
+    ppid: "672374"
+    manufacturer: Avago
+    mpn: HSMW-C191
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/14170844/image/Avago-HSMW-C191.jpg
+    footprinturl: http://www.snapeda.com/parts/HSMW-C191/Avago/view-part/
+    note: ""
+  - uid: bb377396f3a564f0
+    ppid: "28012020"
+    manufacturer: Everlight
+    mpn: 16-219A/T2D-AR2T1QY/3T
+    externalurl: ""
+    imageurl: images/cpl/part_images/ce4eb3e6fd2595710fb67f2566e2c64d.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-3MM-RED
+  title: '3 mm LED: Red'
+  description: 'This diffused LED has a luminous intensity of 12.6 mcd, these LEDs
+    are not very bright and are good for use as indicators such as power on/off. '
+  extravals:
+    Color: Red
+    Mounting Type: DIP
+    Package: Radial
+  parts:
+  - uid: 4ff686f40eea9031
+    ppid: "550010"
+    manufacturer: Lite-On
+    mpn: LTL-1CHE
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5284381/image/Lite-On-LTL-1CHE.jpg
+    footprinturl: ""
+    note: ""
+  - uid: b3507e36f65a6c97
+    ppid: "74211436"
+    manufacturer: Chengguangxing
+    mpn: SR302DC
+    externalurl: ""
+    imageurl: images/cpl/part_images/6987368dd6f3555bc3a8df1901a8c4ef.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-3MM-GREEN
+  title: '3 mm LED: Green'
+  description: 'This diffused LED has a luminous Intensity of 12.6 mcd. '
+  extravals:
+    Color: Green
+    Mounting Type: DIP
+    Package: Radial
+  parts:
+  - uid: bd877485fc4c6240
+    ppid: "550061"
+    manufacturer: Lite-On
+    mpn: LTL-1CHG
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5233941/image/Lite-On-LTL-1CHG.jpg
+    footprinturl: ""
+    note: ""
+  - uid: 0916c4704c1bd6d1
+    ppid: "74211435"
+    manufacturer: Chengguangxing
+    mpn: "304090040"
+    externalurl: ""
+    imageurl: images/cpl/part_images/1003f9ef527b8eded6f652c8efdcb6f4.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-3MM-YELLOW
+  title: '3 mm LED: Yellow'
+  description: This diffused LED has a luminous intensity of 40 mcd.
+  extravals:
+    Color: Yellow
+    Mounting Type: DIP
+    Package: Radial
+  parts:
+  - uid: d57e1c7c94b40ab9
+    ppid: "550060"
+    manufacturer: Lite-On
+    mpn: LTL-1CHYE
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/5289299/image/Lite-On-LTL-1CHYE.jpeg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-5MM-RED
+  title: '5 mm LED: Red'
+  description: "This diffused LED has a luminous intensity of 250 mcd, and are popular
+    for use in breadboards. \nIt is recommended to use resistors to limit the current
+    into LEDs so as not to damage them. 1kohm resistor could be one such choice. \n"
+  extravals:
+    Color: Red
+    Mounting Type: DIP
+    Package: Radial
+  parts:
+  - uid: 1647df406281c980
+    ppid: "872864"
+    manufacturer: Kingbright
+    mpn: WP7113SRD/D
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/33013591/image/Kingbright-WP7113SRD-D.jpg
+    footprinturl: ""
+    note: ""
+  - uid: ddc310a5a79e0204
+    ppid: "74211131"
+    manufacturer: Chengguangxing
+    mpn: UR502DC
+    externalurl: ""
+    imageurl: images/cpl/part_images/2dac7515dc3314e15e7cac22519f2748.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-5MM-GREEN
+  title: '5 mm LED: Green'
+  description: 'This diffused LED has a luminous intensity of 40 mcd. '
+  extravals:
+    Color: Green
+    Mounting Type: DIP
+    Package: Radial
+  parts:
+  - uid: fea337a49ab42164
+    ppid: "868721"
+    manufacturer: Kingbright
+    mpn: WP7113SGC
+    externalurl: ""
+    imageurl: https://sigma.octopart.com/8838473/image/Kingbright-WP7113SGD.gif
+    footprinturl: ""
+    note: ""
+  - uid: b57e7818cf206ab9
+    ppid: "74211128"
+    manufacturer: Chengguangxing
+    mpn: G502DC
+    externalurl: ""
+    imageurl: images/cpl/part_images/0757fdef3615e7fd58ec272a4677d95d.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-5MM-YELLOW
+  title: '5 mm LED: Yellow'
+  description: 'This diffused LED has a luminous intensity of 1200 mcd. '
+  extravals:
+    Color: Yellow
+    Mounting Type: DIP
+    Package: Radial
+  parts:
+  - uid: 7629bf2e1275a9ee
+    ppid: "868666"
+    manufacturer: Kingbright
+    mpn: WP7113SYD
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/524659/image/LED-Technology-L03R5000Q1.jpg
+    footprinturl: ""
+    note: ""
+- cplid: CPL-LED-RGB-WS2812B
+  title: RGB LED with Control IC
+  description: "These modules are popular but currently have very limited distribution
+    in the United States. We hope that in the future more sourcing options will become
+    available.  \n"
+  extravals:
+    Color: RGB
+    Mounting Type: SMD
+    Package: "5050"
+  parts:
+  - uid: 4dbe86b257569279
+    ppid: "33963918"
+    manufacturer: Worldsemi
+    mpn: WS2812B
+    externalurl: ""
+    imageurl: http://sigma.octopart.com/32012426/image/Adafruit-Industries-ADA1655.jpg
+    footprinturl: http://www.snapeda.com/parts/WS2812B/Worldsemi/view-part/
+    note: ""
