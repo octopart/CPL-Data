@@ -437,13 +437,13 @@ rows:
     imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
     footprinturl: http://www.snapeda.com/parts/CC0603KRX7R9BB472/Yageo/view-part/
     note: ""
-  - uid: d5621c69f2540aa5
-    ppid: "66128"
+  - uid: 53ea9ae288f28c2d
+    ppid: "196222"
     manufacturer: Murata
-    mpn: GRM188R71H471KA01D
+    mpn: GRM188R71H472KA01D
     externalurl: ""
     imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
-    footprinturl: http://www.snapeda.com/parts/GRM188R71H471KA01D/Murata/view-part/
+    footprinturl: http://www.snapeda.com/parts/GRM188R71H472KA01D/Murata/view-part/
     note: ""
 - cplid: CPL-CAP-X7R-0402-10NF-50V
   title: Capacitor 10 nF ±10% 50 V 0402
