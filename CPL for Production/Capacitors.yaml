@@ -707,13 +707,13 @@ rows:
     imageurl: https://sigma.octopart.com/21477014/image/Yageo-CC0402CRNPO9BN1R0.jpg
     footprinturl: http://www.snapeda.com/parts/CC0603KRX7R8BB105/Yageo/view-part/
     note: ""
-  - uid: 915b5852b5104e9c
-    ppid: "196909"
+  - uid: b2d27b73f7946d15
+    ppid: "11231264"
     manufacturer: Murata
     mpn: GRM188R71E105KA12D
     externalurl: ""
     imageurl: http://sigma.octopart.com/21366167/image/Murata-GRM1885C1H102JA01D.jpg
-    footprinturl: http://www.snapeda.com/parts/GRM155R60J105KE19D/Murata/view-part/
+    footprinturl: http://www.snapeda.com/parts/GRM188R71E105KA12D/Murata/view-part/
     note: ""
 - cplid: CPL-CAP-X7R-0805-1UF-25V
   title: Capacitor 1 µF ±10% 25 V 0805
