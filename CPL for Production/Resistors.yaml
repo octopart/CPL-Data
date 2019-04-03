@@ -1282,13 +1282,13 @@ rows:
     Resistance Tolerance: ±1%
     Size: "0603"
   parts:
-  - uid: 57629e7b65db88a5
-    ppid: "1251295"
+  - uid: 7ce4b5fcb966a323
+    ppid: "1237220"
     manufacturer: Yageo
-    mpn: RC0805JR-072KL
+    mpn: RC0603JR-072KL
     externalurl: ""
-    imageurl: http://sigma.octopart.com/21455584/image/Yageo-RC0603FR-1310RL.jpg
-    footprinturl: http://www.snapeda.com/parts/RC0805JR-072KL/Yageo/view-part/
+    imageurl: http://sigma.octopart.com/21477246/image/Yageo-RC0603JR-072KL.jpg
+    footprinturl: http://www.snapeda.com/parts/RC0603JR-072KL/Yageo/view-part/
     note: ""
   - uid: 3524fc3ccdf9eae3
     ppid: "1236411"
